@@ -1,0 +1,9 @@
+After analyzing the graph in the image, here's the summary in the requested JSON format:
+
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 22,
+   "analysis": "The graph consists of 10 nodes numbered from 0 to 9, represented by white circles with black outlines. The nodes are connected by 22 black directed edges, forming a complex network structure. The edges are represented by arrows, indicating the direction of the connection between nodes."
+}
+```

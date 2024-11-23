@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [4],
+  "analysis": "The image consists of four distinct groups of interconnected circles (nodes). Within each separate group, every circle is directly connected to all other circles in that same group. These fully interconnected groups, where no node is isolated within the group represent 'clique' patterns. There are four such 'clique' patterns present in the graph."
+}
+```

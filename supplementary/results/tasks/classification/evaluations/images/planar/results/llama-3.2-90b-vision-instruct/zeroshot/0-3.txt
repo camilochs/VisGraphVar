@@ -1,0 +1,30 @@
+Following abbreviations are used for convenience: 
+
+VG - Visual Graph
+T - Triangle
+AC - Acyclic 
+BP - Bipartite 
+CP - Complete
+CC - Complete Cycle
+CM - Complete Mesh
+PL - Planar 
+TR - Tree
+
+**Analysis:**
+
+1.  Visual inspection results in multiple intersecting lines, so it confirms that it's not PL.
+2.  Connect any two points randomly and try to traverse the graph. If you can finish pathing the entire graph, it is neither an AC nor a TR.
+3.  Since the VG is cyclic, CC (.Number of nodes) must be found with an extra line in VG.
+4.  Consider the structure that is like a root node or starting point in this VG. Please select the nodes which have edges either both originated from, or going towards the roots. All possible combinations of edges between the selected nodes guarantee that if it remains cyclic, it will be BP only if the graph, in fact, holds disjoint vertex sets no edges exist within each set, with edges only existing between vertices' sets.
+5.  If it does not create CC and BP, consider what you need for the VG to be CM and check if you can connect all nodes in every possible combination. 
+
+**Conclusion:**
+
+The image shows a Complete Mesh graph.
+
+```json
+{
+    "type_graph": "Complete Mesh", 
+    "analysis": "The image shows a Complete Mesh graph."     
+}
+```

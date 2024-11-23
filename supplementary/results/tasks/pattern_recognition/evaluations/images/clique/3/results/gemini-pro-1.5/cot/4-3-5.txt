@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [3],
+  "analysis": "The image presents three separate clusters of interconnected nodes. Each cluster is a clique because every node within each cluster is directly connected to every other node in that same cluster. There are no isolated nodes within each cluster.  There are no connections between these clusters."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [3],
+  "analysis": "The image presents three distinct sets of interconnected nodes.  Each set is fully connected implying that all nodes within a set are directly linked to each other which follows the definition of a clique."
+}
+```

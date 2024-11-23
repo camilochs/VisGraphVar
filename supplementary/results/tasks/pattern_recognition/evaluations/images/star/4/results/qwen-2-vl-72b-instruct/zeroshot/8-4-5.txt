@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "star",
+   "number_of_patterns": 5,
+   "analysis": "Each subgraph contains one central node (hub) that is connected to multiple other nodes (spokes). There are no cliques or chains found."
+}
+```

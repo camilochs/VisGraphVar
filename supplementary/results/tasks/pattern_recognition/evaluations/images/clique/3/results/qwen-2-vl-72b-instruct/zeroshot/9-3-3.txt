@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three separate groups of three vertices each, where each group forms a complete clique (i.e., every vertex is connected to every other vertex within the group)."
+}
+```

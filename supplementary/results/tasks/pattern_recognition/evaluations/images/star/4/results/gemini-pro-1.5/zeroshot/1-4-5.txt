@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["star"],
+  "number_of_patterns": [4],
+  "analysis": "Each sub-graph has a central node connected to every other node in the sub-graph, and no other connections exist. These are star patterns. There are four such distinct sub-graphs."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "Each group of nodes forms a complete subgraph (clique) where every node is connected to every other node in the group. There are three such groups: nodes 0-3, nodes 4-7, and nodes 8-11."
+}
+```

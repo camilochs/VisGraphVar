@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph shows three distinct clique patterns. 1) The first clique in the top contains nodes 10, 11, 12, 13, and 14, where each node is connected to every other node in the group. 2) The middle clique consists of nodes 0, 1, 2, 3, and 4, again with full interconnection between all nodes. 3) The bottom right clique includes nodes 5, 6, 7, 8, and 9, also showing complete interconnection. Each group demonstrates the defining characteristic of a clique pattern where every node is connected to every other node within its group, forming three complete subgraphs."
+}

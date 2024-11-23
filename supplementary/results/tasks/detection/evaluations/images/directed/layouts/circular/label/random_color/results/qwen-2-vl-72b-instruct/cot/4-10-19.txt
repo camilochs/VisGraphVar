@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 18,
+   "analysis": "The graph is a directed graph with 10 nodes. The nodes are colored in blue, green, red, and yellow. The edges are black and connect various pairs of nodes, forming a complex network."
+}
+```

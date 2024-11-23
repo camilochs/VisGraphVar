@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['star'],
+   'number_of_patterns': [2],
+   'analysis': 'The graph contains two distinct star patterns. The first star pattern, located on the left side of the image, consists of a central node (node 0) connected to two other nodes (node 1 and node 2). The second star pattern, on the right side of the image, has a central node (node 4) connected to three other nodes (nodes 3, 4, and 5).'
+}
+```

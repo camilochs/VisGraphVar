@@ -1,0 +1,6 @@
+```json
+{
+   "match": "yes",
+   "analysis": "Both graphs have the same number of nodes (5) and identical node labels (0, 1, 2, 3, 4). The edges of each graph are also the same: both have an edge between nodes 0 and 1, nodes 1 and 2, and nodes 2 and 4. The edges 0-1 and 1-2 in the first graph correspond to the edges 0-1 and 2-4 in the second graph, and the edge 2-4 in the first graph corresponds to the edges 2-4 and 1-0 in the second graph (noting the edge direction could be reversed). Therefore, the graphs are the same."
+}
+```

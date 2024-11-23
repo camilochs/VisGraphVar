@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three clusters where each node is connected to every other node in the same cluster, forming complete subgraphs. These are cliques, characterized by the full connectivity among nodes within them."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["star"],
+  "number_of_patterns": [3],
+  "analysis": "There are three separate star patterns in this graph. A star graph is a tree where at most one node has degree greater than one and the central node is connected to other nodes by edges. The center node for each graph, respectively are 0, 10, and 5. The other nodes are connected to the center node only, forming the star-shaped pattern."
+}
+```

@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three distinct clique patterns. Each group consists of 5 nodes (labeled 10-14, 5-9, and 0-4) where every node is connected to every other node within its group, forming complete subgraphs. This is characteristic of clique patterns where all vertices are interconnected with each other within their respective groups."
+}

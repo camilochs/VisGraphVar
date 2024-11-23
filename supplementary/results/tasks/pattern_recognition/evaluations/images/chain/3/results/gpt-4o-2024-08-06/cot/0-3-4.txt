@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "chain",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three distinct chain patterns. Each set of nodes is interconnected in a continuous sequence without any branches. Cluster 1 is formed by nodes 0, 1, 2, and 3 creating a linear chain. Cluster 2 consists of nodes 4, 5, 6, and 7 also forming a sequence. Cluster 3 includes nodes 8, 9, 10, and 11 in a similar linear arrangement. None of the clusters form a 'clique' as they are not fully interconnected, nor do they form a 'star' as there is no central node with surrounding nodes."
+}
+```

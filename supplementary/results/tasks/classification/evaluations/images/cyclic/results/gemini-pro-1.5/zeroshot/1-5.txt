@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": ["planar", "cyclic"],
+  "analysis": "The image shows a directed cyclic graph. There are no edge crossings so the graph is planar.  It is possible to follow a sequence of edges returning to a starting node. For example, 3 -> 4 -> 5 -> 0 -> 3 is a cycle."
+}
+```

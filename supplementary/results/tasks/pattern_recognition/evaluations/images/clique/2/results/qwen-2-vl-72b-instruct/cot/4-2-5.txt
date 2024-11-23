@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "Both graphs in the image consist of a set of nodes where each node is fully connected to all other nodes, forming a complete graph known as a clique. There are no isolated nodes or chains present, and each cluster forms a closed loop."
+}
+```

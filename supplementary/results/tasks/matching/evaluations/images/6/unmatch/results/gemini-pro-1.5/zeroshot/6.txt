@@ -1,0 +1,6 @@
+```json
+{
+  "match": "yes",
+  "analysis": "Both graphs have the same number of nodes (6) and the same connections between nodes.  The layout and colors of the nodes/edges are different in the visualization, but the underlying graph structure is identical. For example, node 0 connects to nodes 1, 2, and 4 in both graphs.  This consistency in connectivity applies to all nodes in both graphs."
+}
+```

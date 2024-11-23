@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["chain"],
+   "number_of_patterns": 4,
+   "analysis": "The graph consists of four distinct chains ( sequences) A), B, C) and D), of nodes connected in a continuous sequence."
+}
+```

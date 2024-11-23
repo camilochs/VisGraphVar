@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 12,
+   "total_edges": 36,
+   "analysis": "The graph consists of 12 nodes and 36 edges. Each node is represented by a circle and each edge by a straight line connecting two nodes. The nodes are distributed evenly around the sides of a square, with each node being connected to all the other nodes in its own row, its own column, and its own diagonal."
+}
+```

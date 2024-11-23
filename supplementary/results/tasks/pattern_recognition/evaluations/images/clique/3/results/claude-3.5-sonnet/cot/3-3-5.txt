@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph shows three distinct clique patterns. A clique is a group of nodes where each node is directly connected to every other node in the group. In this image, there are three separate cliques: one in the top-left (nodes 0-4), one in the bottom-left (nodes 5-9), and one in the bottom-right (nodes 10-14). Each clique contains 5 nodes, and within each group, every node is connected to all other nodes in that group, forming a fully interconnected subgraph. The cliques are isolated from each other with no connections between them. The regular, dense interconnection pattern within each group clearly identifies these as clique structures rather than stars or chains."
+}

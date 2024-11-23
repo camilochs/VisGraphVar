@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [3],
+  "analysis": "Each group of nodes forms a complete graph, where every node is connected to every other node in the group. This structure defines a clique. There are three such groups, hence three cliques."
+}
+```

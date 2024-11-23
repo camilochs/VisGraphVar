@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['clique'],
+   'number_of_patterns': [2],
+   'analysis': 'The graph contains two distinct cliques. A clique is a group of vertices where every pair of vertices is adjacent. The first clique consists of vertices 5, 6, 7, 8, and 9, which are all interconnected. The second clique consists of vertices 0, 1, 2, 3, and 4, which are also fully interconnected with each other. These groups exhibit the characteristic of being maximally dense subgraphs, confirming the presence of cliques.'
+}
+```

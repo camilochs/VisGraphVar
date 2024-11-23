@@ -1,0 +1,10 @@
+```json
+{
+    "nodes_prediction": [1, 3],
+    "analysis": "Detailed step-by-step explanation of:
+    1. The structural patterns you identified
+    2. Why these specific nodes were selected
+    3. How this connection fits the graph's topology
+    4. The expected impact of adding this edge"
+}
+```

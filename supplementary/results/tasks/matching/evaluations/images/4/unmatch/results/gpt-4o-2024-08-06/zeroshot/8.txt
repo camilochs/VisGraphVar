@@ -1,0 +1,6 @@
+```json
+{
+   "match": "no",
+   "analysis": "Graph 1 is a complete graph with nodes 0, 1, 2, and 3 all connected to each other. Graph 2 forms a cycle with nodes 0, 1, 2, and 3, connected in a square shape, with no diagonal connections. The structures and connections differ significantly."
+}
+```

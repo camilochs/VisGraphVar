@@ -1,0 +1,9 @@
+To find the shortest path in this graph, analyze the structure step by step. Begin at {start_node} and examine each potential path segment toward {end_node}, taking note of any paths with fewer nodes or lower weights. For each path, assess and discard those that are longer or less direct until only the shortest path remains. Provide a JSON response with the chosen shortest path and an analysis of your decision.
+
+Expected output format:
+```json
+{
+   "shortest_path": ["{start_node}", "...", "{end_node}"],
+   "analysis": "Explanation of each path evaluated, why the selected path was the shortest, and any significant characteristics of the graph."
+}
+```

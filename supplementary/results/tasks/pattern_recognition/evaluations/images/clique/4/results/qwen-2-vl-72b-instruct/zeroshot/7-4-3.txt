@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 1,
+   "analysis": "The graph contains multiple groups of vertices where each group forms a complete graph (clique). Each group consists of three vertices, and each vertex is connected to every other vertex within the group."
+}
+```

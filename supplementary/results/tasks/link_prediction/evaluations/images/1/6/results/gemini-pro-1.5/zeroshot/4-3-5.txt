@@ -1,0 +1,6 @@
+```json
+{
+  "nodes_prediction": [3, 2],
+  "analysis": "Every other node is connected to every other node. The only missing edge to complete this pattern is between nodes 2 and 3."
+}
+```

@@ -1,0 +1,12 @@
+There is no attached image, so I cannot analyze a graph based on the given information. 
+
+However, I will create a generic response in the required JSON format after you upload the image.
+
+
+```json
+{
+    "total_nodes": 0,
+    "total_edges": 0,
+    "analysis": "Please attach the image to analyze the graph."
+}
+```

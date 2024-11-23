@@ -1,0 +1,3 @@
+The image is of a Compound Graph or an Isolated Graph. Compound Graphs have sub graphs with no connections to other sub graphs. The example below is parsed into 4 sub graphs.
+
+`{"pattern": "chain", "number_of_patterns": 4, "analysis": "The graph is parsed into 4 disconnected graph, within each graphs (compound), each node of the compound has a distinct neighboring node showcasing characteristic of the chain or it could be interpreted in context as a tree if the semantics do not require unique consecutive neighboring nodes in a chain."}`

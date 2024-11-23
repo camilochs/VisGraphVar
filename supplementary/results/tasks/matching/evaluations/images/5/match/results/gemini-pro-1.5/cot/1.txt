@@ -1,0 +1,6 @@
+```json
+{
+  "match": "no",
+  "analysis": "Graph 1 has 5 nodes labeled 0, 1, 2, 3, and 4. Graph 2 also has 5 nodes labeled 0, 1, 2, 3, and 4. In Graph 1, there's an edge between nodes 2 and 3. In Graph 2, there's an edge between nodes 2 and 3. However, the graphs are not isomorphic. The difference lies in the edges. The connections in Graph 1 only involve the connection 2--3, and all other nodes are isolated. In graph 2, besides the 2--3 edge, all the nodes are still isolated as well. The graphs are equivalent. But for graph 2, if we visualize an adjacency matrix: \n[[0, 0, 0, 0, 0],\n[0, 0, 0, 0, 0],\n[0, 0, 0, 1, 0],\n[0, 0, 1, 0, 0],\n[0, 0, 0, 0, 0]]\nThen if we consider if they are subgraph-ismorphic, 2 and 3 are ordered in G1 as to create a 2--3 edge. In G2, it is also 2--3 edge only, thus they are sub-graph-isomorphic, which means they match if we ignore the node positioning on the graph. The final decision of \"no\" match is based on the different global positions of the nodes, not based on the local structure."
+}
+```

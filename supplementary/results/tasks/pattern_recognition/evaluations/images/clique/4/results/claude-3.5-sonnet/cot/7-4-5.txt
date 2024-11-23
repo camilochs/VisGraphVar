@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph shows 4 distinct groupings where each node is fully interconnected with all other nodes in its group. Specifically: 1) Nodes 1-4 form a complete clique, 2) Nodes 5-8 form another clique, 3) Nodes 10-14 create a clique, and 4) Nodes 15-19 form the fourth clique. In each group, every node is connected to every other node within its cluster, which is the defining characteristic of a clique pattern. There are no isolated nodes or star formations, and the connections are not in a linear chain sequence. The fully interconnected nature of each group clearly indicates these are clique patterns."
+}

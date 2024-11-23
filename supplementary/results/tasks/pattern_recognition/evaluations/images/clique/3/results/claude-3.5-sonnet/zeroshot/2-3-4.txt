@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph shows three separate clique patterns, where each group of nodes (0-1-2-3, 4-5-6-7, and 8-9-10-11) forms a complete subgraph with every node connected to every other node within its group. This is characteristic of clique patterns where all vertices in each subgroup are adjacent to each other."
+}

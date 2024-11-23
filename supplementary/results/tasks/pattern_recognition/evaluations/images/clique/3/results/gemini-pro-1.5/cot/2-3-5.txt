@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [3],
+  "analysis": "The graph consists of three distinct clusters of nodes. Within each cluster, every node is connected to every other node in that same cluster, forming a clique. For example, nodes 5, 6, 7, 8, and 9 form a clique as they are all interconnected. Similarly, nodes 10, 11, 12, 13, and 14 constitute another clique, and nodes 0, 1, 2, 3, and 4 make up a third clique. There are no connections between nodes in separate clusters. Therefore, the graph contains three separate cliques."
+}
+```

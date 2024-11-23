@@ -1,0 +1,73 @@
+The following Python code utilizes NetworkX, a Python library for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. It compares the structure and edge weights of two graphs.
+
+**Graph Matching Code**
+```python
+import networkx as nx
+import matplotlib.pyplot as plt
+
+# Define two sample graphs and verify their properties.
+graph1 = nx.Graph()
+graph1.add_edge(0, 1, weight=2)
+graph1.add_edge(0, 3, weight=1)
+graph1.add_edge(1, 2, weight=1)
+graph1.add_edge(4, 0, weight=4)
+
+graph2 = nx.Graph()
+graph2.add_edge(0, 3, weight=1)
+graph2.add_edge(1, 2, weight=2)
+graph2.add_edge(2, 3, weight=3)
+graph2.add_edge(4, 0, weight=4)
+
+def compare_graphs(graph1, graph2):
+    # Initialize result dictionary.
+    result = {"match": "yes", "analysis": []}
+    
+    # Compare the number of nodes.
+    if graph1.number_of_nodes == graph2.number_of_nodes:
+        result["analysis"].append(f"Both graphs have the same number of nodes = {graph1.number_of_nodes}")
+    else:
+        result["match"] = "no"
+        result["analysis"].append(f"The number of nodes does not match: {graph1.number_of_nodes} (Graph 1) vs {graph2.number_of_nodes} (Graph 2)")
+        return result
+
+    # Compare edge weights.
+    for edge in graph1.edges:
+        weight1 = graph1[edge[0]][edge[1]]['weight']
+        weight2 = graph2[edge[0]][edge[1]]['weight']
+        if weight1 == weight2:
+            result["analysis"].append(f"Matching edge: edge {edge} in Graph 1 with weight {weight1} and edge {edge} in Graph 2 with weight {weight2}")
+        else:
+            result["match"] = "no"
+            result["analysis"].append(f"Edge weights do not match: edge {edge} in Graph 1 has weight {weight1} but edge {edge} in Graph 2 has weight {weight2}")
+            return result
+
+    return result
+
+result = compare_graphs(graph1, graph2)
+
+# Display results in JSON format.
+import json
+print(json.dumps(result, indent=2))
+
+# Optional: Visualize graphs.
+# Comment out the lines below if matplotlib is not installed.
+#pos1 = nx.spring_layout(graph1)
+#pos2 = nx.spring_layout(graph2)
+#nx.draw_networkx(graph1, pos1)
+#nx.draw_networkx_edge_labels(graph1, pos1, edge_labels = nx.get_edge_attributes(graph1, 'weight'))
+#nx.draw_networkx(graph2, pos2, node_color='g')
+#nx.draw_networkx_edge_labels(graph2, pos2, edge_labels = nx.get_edge_attributes(graph2, 'weight'))
+# plt.show()
+```
+
+**JSON Response Example**
+
+```json
+{
+  "match": "no",
+  "analysis": [
+    "Both graphs have the same number of nodes = 5",
+    "Edge weights do not match: edge (1, 2) in Graph 1 has weight 1 but edge (1, 2) in Graph 2 has weight 2"
+  ]
+}
+```

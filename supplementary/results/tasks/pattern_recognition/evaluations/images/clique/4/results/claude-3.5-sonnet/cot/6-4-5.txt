@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph shows 4 distinct clusters where each node within each cluster is fully interconnected with all other nodes in that cluster. Specifically: 1) One clique contains nodes 11-14, 2) Another clique contains nodes 17-19, 3) A third clique has nodes 5,6,8,9, and 4) The fourth clique contains nodes 1-4. Each of these groups forms a complete subgraph where every node is connected to every other node within its cluster, which is the definition of a clique pattern. There are no isolated nodes or star/chain formations present."
+}

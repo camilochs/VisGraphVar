@@ -1,0 +1,6 @@
+```json
+{
+   "match": "no",
+   "analysis": "The structures of the graphs are different. In Graph 1, the nodes are connected in a chain from 1 to 0 to 2. In Graph 2, the nodes are connected from 3 to 1 to 2, forming a different pattern despite sharing the same nodes."
+}
+```

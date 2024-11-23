@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 45,
+   "analysis": "The graph is a complete directed graph with 10 nodes (0 to 9). Each node is connected to every other node with directed edges, resulting in a total of 45 edges. All nodes are of the same color, and all edges are of the same color."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["chain"],
+  "number_of_patterns": [2],
+  "analysis": "The graph consists of two separate sets of nodes connected in a linear sequence. One chain is 0-1-2-3 and the other chain is 4-5-6-7. Each node in each chain except for the endpoints is connected to exactly two other nodes in the chain.  There are no cycles or central nodes connecting to all other nodes, ruling out 'clique' and 'star' patterns respectively."
+}
+```

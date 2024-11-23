@@ -1,0 +1,6 @@
+```json
+{
+   "match": "no",
+   "analysis": "Graph 1 and Graph 2 have different structures and connections. Graph 1 has nodes connected in a partial triangle and an isolated node. Graph 2 has a central node connected to others, forming a star-like structure without the isolated node."
+}
+```

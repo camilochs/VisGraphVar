@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three distinct groups where each node is connected to all other nodes in its group. This fully connected structure characterizes a 'clique' pattern. The groups are: nodes 0, 1, 2, 3; nodes 4, 5, 6, 7; and nodes 8, 9, 10, 11."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct cliques. Each group is fully connected internally (nodes 0, 1, 2, 3 in one clique, and nodes 4, 5, 6, 7 in another), meaning each node is connected to every other node in the same group."
+}
+```

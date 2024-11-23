@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": ["planar", "acyclic"],
+  "analysis": "The image shows a directed acyclic graph.  It can be drawn on a plane with no crossing edges, hence, it is also planar."
+}
+```

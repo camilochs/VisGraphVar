@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph shows three distinct clique patterns. A clique is a group where every node is connected to every other node in the group, forming a complete subgraph. The first clique contains nodes 0-4, the second contains nodes 5-8, and the third contains nodes 10-14. In each case, all nodes within the group are fully interconnected with each other, meeting the definition of a clique pattern. These groups are separated from each other with no connections between the cliques, forming three independent complete subgraphs."
+}

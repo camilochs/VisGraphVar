@@ -1,0 +1,20 @@
+The graph does not appear to be included with instructions.  A typical analysis using Dijkstra’s algorithm includes the following process.
+
+1. Create a set of visited vertices initially empty.
+2. Create a distance array and initialize it and a previous vertex pointer array with infinity and null, excluding the first vertex which is set to 0 distance.
+3. Create a queue of vertices to access. Insert the first node.
+4. Remove the head vertex from the queue.
+5. Run through the neighbors of that node, updating the distance and previous vertex pointer.
+6. Insert neighbors into the priority queue.
+7. Mark that vertex as visited.
+8. Repeat from step 4 until the queue is empty, ending the algorithm
+9. Reconstruct path from target vertex by traversing pointers. Set that path as shortest.
+
+After analyzing the process and graph, it is normal to leave the target vertex pointer to null and the start vertex distance to 0.
+
+Final answer: ```json
+{
+   "shortest_path": ["1", "...", "5"],
+   "analysis": "Explanation of each path evaluated, why the selected path is the shortest, and any significant characteristics of the graph."
+}
+```

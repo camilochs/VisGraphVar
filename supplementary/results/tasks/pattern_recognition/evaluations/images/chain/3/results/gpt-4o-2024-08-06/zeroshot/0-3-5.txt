@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "chain",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate chain patterns. The first chain includes nodes 0, 1, 2, 3, and 4, connected sequentially. The second chain is more complex, starting from node 5 through nodes 6, 7, 8, 9, 14, 13, 12, 11, and terminating at 10. Chains are characterized by linear sequences of nodes with endpoints."
+}
+```

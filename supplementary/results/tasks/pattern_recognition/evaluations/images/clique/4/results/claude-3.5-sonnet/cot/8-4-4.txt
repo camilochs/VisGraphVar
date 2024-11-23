@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph shows 4 distinct groupings, where each grouping consists of 4 nodes that are fully interconnected with each other, forming cliques. These cliques are located in different corners of the graph: one in the top-right (nodes 12,13,14,15), one in the top-left (nodes 8,9,10,11), one in the bottom-left (nodes 0,1,2,3), and one in the bottom-right (nodes 4,5,6,7). In each clique, every node is connected to every other node within its group, creating a complete subgraph. This fully interconnected structure within each group is characteristic of the clique pattern, where maximum connectivity exists between all members of the group."
+}

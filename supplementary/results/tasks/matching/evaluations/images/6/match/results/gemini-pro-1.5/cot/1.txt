@@ -1,0 +1,6 @@
+```json
+{
+  "match": "yes",
+  "analysis": "Both graphs have 6 nodes labeled 0-5.  Comparing the edges reveals identical connections:\n\nGraph 1 and Graph 2:\n- 0 connects to 1, 2, and 3\n- 1 connects to 0 and 4\n- 2 connects to 0, 3, and 5\n- 3 connects to 0, 2, and 5\n- 4 connects to 1\n- 5 connects to 2 and 3\n\nSince both graphs have the same nodes and the same connections between those nodes, they are considered isomorphic, which confirms that the graphs match. Although the spatial arrangement of nodes differs, the underlying structure is equivalent."
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+   "match": "yes",
+   "analysis": "Both graphs have the same number of nodes (4) and the same node labels (0, 1, 2, 3). The edges in both graphs are identical: node 0 is connected to nodes 1 and 3, and node 2 is connected to node 0. Both graphs have the same edge weights (both edges in each graph have a weight of 1). Therefore, the graphs match."
+}
+```

@@ -1,0 +1,13 @@
+model,type_label,cot,zeroshot,diff,mean_similarity
+claude-3.5-sonnet,label,0.95,0.92,0.03,0.94
+claude-3.5-sonnet,unlabel,0.93,0.94,-0.01,0.94
+gemini-pro-1.5,label,0.94,0.93,0.01,0.94
+gemini-pro-1.5,unlabel,0.94,0.94,0.0,0.94
+gpt-4o-2024-08-06,unlabel,0.88,0.77,0.11,0.82
+gpt-4o-2024-08-06,label,0.92,0.91,0.01,0.92
+llama-3.2-90b-vision-instruct,unlabel,0.89,0.78,0.11,0.84
+llama-3.2-90b-vision-instruct,label,0.86,0.92,-0.06,0.89
+pixtral-12b,unlabel,0.86,0.86,0.0,0.86
+pixtral-12b,label,0.9,0.9,0.0,0.9
+qwen-2-vl-72b-instruct,unlabel,0.5,0.75,-0.25,0.62
+qwen-2-vl-72b-instruct,label,0.96,0.83,0.13,0.9

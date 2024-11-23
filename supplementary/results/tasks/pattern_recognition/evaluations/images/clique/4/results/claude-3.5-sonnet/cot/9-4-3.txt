@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph shows 4 distinct clique patterns. Each clique consists of 3 nodes that are fully interconnected with each other. The cliques are: (0,1,2), (3,4,5), (6,7,8), and (9,10,11). These groups are separated from each other in the layout, and within each group, the nodes form complete triangles where each node is connected to every other node in its group. This fully interconnected structure within each cluster is characteristic of clique patterns."
+}

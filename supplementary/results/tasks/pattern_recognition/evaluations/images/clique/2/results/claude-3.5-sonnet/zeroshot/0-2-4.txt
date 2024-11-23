@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate clique patterns. The first clique is formed by nodes 4, 5, 6, and 7, where there are multiple interconnections between the nodes. The second clique is formed by nodes 0, 1, 2, and 3, also showing multiple connections between its nodes. Both subgraphs demonstrate the characteristic dense interconnectivity that defines a clique pattern."
+}

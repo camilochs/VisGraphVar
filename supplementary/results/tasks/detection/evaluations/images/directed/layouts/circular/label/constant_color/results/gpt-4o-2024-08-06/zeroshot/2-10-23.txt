@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 30,
+   "analysis": "The graph is a directed graph with black nodes and black edges. It appears to be symmetrical with several connections between the nodes, displaying a complex network."
+}
+```

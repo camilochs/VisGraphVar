@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [4],
+  "analysis": "Each distinct set of connected nodes forms a complete graph, where every node is connected to every other node in the set. This structure defines a clique. There are four such cliques present in the image."
+}
+```

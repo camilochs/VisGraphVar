@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three separate cliques, each comprised of a fully connected subgraph of three nodes. In each set, every node is directly connected to every other node in the pattern, forming a triangle."
+}
+```

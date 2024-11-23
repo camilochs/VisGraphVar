@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": ["planar"],
+  "analysis": "The image shows a planar graph.  It can be drawn on a plane without any edges crossing. It is not acyclic (it contains cycles), complete (not all vertices are connected), bipartite (it has odd length cycles), mesh (no regular grid structure), or a tree (it has cycles)."
+}
+```

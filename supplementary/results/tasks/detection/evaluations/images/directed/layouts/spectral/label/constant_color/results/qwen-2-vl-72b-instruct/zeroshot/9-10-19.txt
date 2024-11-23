@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 13,
+   "analysis": "The graph is a directed graph with nodes labeled 0 to 9. The edges are directed from one node to another. Node 5 is the only node with a black dot inside it, indicating a special condition or attribute."
+}
+```

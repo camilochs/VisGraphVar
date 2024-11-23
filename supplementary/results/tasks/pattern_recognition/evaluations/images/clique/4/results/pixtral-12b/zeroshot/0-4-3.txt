@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['clique'],
+   'number_of_patterns': [4],
+   'analysis': 'The graph contains four 'clique' patterns, each represented by a set of vertices that are fully connected to each other. This means each subset of nodes forms a complete subgraph, indicating that every pair of nodes within the subset is directly connected by an edge.'
+}
+```

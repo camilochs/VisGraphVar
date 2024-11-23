@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 5,
+   "analysis": "The graph contains five cliques: one 4-clique (nodes 0-3) and four 3-cliques (nodes 4-7, 8-11, 12-15, and 16-19). Each of these cliques is a fully connected component."
+}
+```

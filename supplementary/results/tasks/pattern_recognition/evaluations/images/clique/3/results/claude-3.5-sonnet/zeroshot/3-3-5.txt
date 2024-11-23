@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three separate clique patterns. Each component shows a complete subgraph where every vertex is connected to every other vertex in its group. The three cliques are: one with nodes 0-4, another with nodes 5-9, and a third with nodes 10-14. Each clique shows the characteristic full interconnection between all its vertices."
+}

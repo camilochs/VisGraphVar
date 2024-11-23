@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 30,
+   "analysis": "The graph is a directed graph with 10 nodes labeled from 0 to 9. The nodes are colored white, and the edges are black lines with arrowheads indicating direction."
+}
+```

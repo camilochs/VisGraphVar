@@ -1,0 +1,60 @@
+**Step 1: Identify existing elements within the image.**
+
+While images are not present within the prompt, notes for each image can be summarized here:
+
+### Image  1
+
+This is a *property graph* with a total of *9 nodes* and *15 edges*. Including:
+
+*   *Three* *directed* *solid* *pink* *edges*,
+*   *Two* *directed* *dashed* *green* *edges*,
+*   *Three* *undirected* *black* *edges*,
+*   *Three* *undirected* *green* *edges*,
+*   *Two* *directed* *solid* *blue* *edges*,
+*   *Two* *directed* *dashed* *red* *edges* 
+
+Of the *9 nodes*: 
+
+*   3 are *solid* *pink* *colored*
+*   2 are *red*
+
+The remaining *4* nodes are different colors not mentioned in the prompt as outlined below.
+
+
+
+### Image #2:
+
+This property graph contains a total of *10* nodes and *17* edges. The graph’s edges consist of:
+
+*   5 *solid* *directed* *black* *edges*
+*   1 *undirected* *black* *edge*
+*   2 *undirected* *black* *edges*
+
+Of the 10 nodes present within the graph:
+
+*   1 *blue* *solid* *edge*
+*   4 nodes are *black*
+*   1 node is *green*
+
+
+
+**Step 2: Organize the information into the requested JSON format.** 
+
+```json
+
+[
+ { 
+    "total_nodes": 9, 
+    "total_edges": 15, 
+
+    "analysis": "This is a property graph with a total of 9 nodes and 15 edges. Including: Three directed solid pink edges, two directed dashed green edges, three undirected black edges, three undirected green edges, two directed solid blue edges, two directed dashed red edges. Of the 9 nodes: 3 are solid pink colored, 2 are red. The remaining 4 nodes are different colors not mentioned in the prompt"
+ },
+
+ {
+    "total_nodes": 10, 
+    "total_edges": 17, 
+
+    "analysis": "This property graph contains a total of 10 nodes and 17 edges. The graph’s edges consist of: 5 solid directed black edges, 1 undirected black edge, 2 undirected black edges. Of the 10 nodes present within the graph: 1 blue solid edge, 4 nodes are black, 1 node is green"
+}
+]
+```

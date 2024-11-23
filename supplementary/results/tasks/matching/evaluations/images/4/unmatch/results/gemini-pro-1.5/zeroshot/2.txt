@@ -1,0 +1,6 @@
+```json
+{
+  "match": "no",
+  "analysis": "The two graphs have the same number of nodes, but different edges. Graph 1 has edges (0, 3) and (1, nothing else) and (2 nothing else). Graph 2 has edges (0, 1), and (2 nothing else) and (3 nothing else.  Thus, they do not match."
+}
+```

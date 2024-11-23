@@ -1,0 +1,33 @@
+models_availables:
+  - openai/gpt-4o-2024-08-06
+  - google/gemini-pro-1.5
+  - anthropic/claude-3.5-sonnet 
+  - meta-llama/llama-3.2-90b-vision-instruct
+  - qwen/qwen-2-vl-72b-instruct
+  - mistralai/pixtral-12b
+benchmark_path: ~/visgraphvar/
+prompts_type:
+  - zeroshot
+  - cot
+task_prompt_path:
+  detection:
+    zeroshot: prompts/zero-shot/prompt.txt
+    cot: prompts/chain-of-thought/prompt.txt
+  classification:
+    zeroshot: prompts/zero-shot/prompt.txt
+    cot: prompts/chain-of-thought/prompt.txt
+  segmentation:
+    zeroshot: prompts/zero-shot/prompt.txt
+    cot: prompts/chain-of-thought/prompt.txt
+  pattern_recognition:
+    zeroshot: prompts/zero-shot/prompt.txt
+    cot: prompts/chain-of-thought/prompt.txt
+  link_prediction:
+    zeroshot: prompts/zero-shot/prompt.txt
+    cot: prompts/chain-of-thought/prompt.txt
+  reasoning:
+    zeroshot: prompts/zero-shot/prompt.txt
+    cot: prompts/chain-of-thought/prompt.txt
+  matching:
+    zeroshot: prompts/zero-shot/prompt.txt
+    cot: prompts/chain-of-thought/prompt.txt

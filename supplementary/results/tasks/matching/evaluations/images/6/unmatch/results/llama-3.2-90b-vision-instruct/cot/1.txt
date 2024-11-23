@@ -1,0 +1,7 @@
+Based on the provided prompt, the following answer is:
+```json
+{
+    "match": "no",
+    "analysis": "The two graphs have different node labels, different numbers of edges, and the weights of each edge differ between graphs."
+}
+```

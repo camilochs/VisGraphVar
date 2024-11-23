@@ -1,0 +1,6 @@
+```json
+{
+  "match": "yes",
+  "analysis": "Both graphs have the same number of nodes (5) and the same connections. Graph 1 has edges (0,3), (3,1), (1,2), (1,4), (4,0). Graph 2 has edges (0,1), (1,4), (4,2), (2,0), (2,3).  By mapping node 0 in Graph 2 to node 1 in Graph 1, node 1 in Graph 2 to node 2 in Graph 1,  node 2 in Graph 2 to node 4 in Graph 1,  node 3 in Graph 2 to node 0 in Graph 1, and node 4 in G2 to node 3 in G1, we find identical connections. "
+}
+```

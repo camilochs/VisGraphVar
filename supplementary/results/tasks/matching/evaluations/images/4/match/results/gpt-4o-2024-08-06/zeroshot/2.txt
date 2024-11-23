@@ -1,0 +1,6 @@
+```json
+{
+   "match": "yes",
+   "analysis": "Both graphs have the same structure with three connected nodes forming a linear path and one isolated node. The node connections are identical, and no weights are present on the connections."
+}
+```

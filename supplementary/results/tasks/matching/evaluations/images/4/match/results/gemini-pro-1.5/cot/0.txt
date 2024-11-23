@@ -1,0 +1,6 @@
+```json
+{
+  "match": "yes",
+  "analysis": "Both graphs have 4 nodes labeled 0, 1, 2, and 3.  \nGraph 1 has the following edges:\n(0, 1)\n(0, 2)\n(0, 3)\n(1, 3)\n\nGraph 2 has the following edges:\n(0, 1)\n(0, 2)\n(0, 3)\n(1, 3)\n\nSince both graphs have the same nodes and the same edges connecting those nodes, the graphs are isomorphic and therefore match."
+}
+```

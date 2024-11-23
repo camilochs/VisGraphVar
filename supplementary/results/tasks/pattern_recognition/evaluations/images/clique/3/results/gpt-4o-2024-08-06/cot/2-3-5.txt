@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three distinct groups of nodes. Each group is fully interconnected without any isolated nodes, which classifies them as 'cliques.' The nodes in each group are connected to every other node within the same group. The top-left group includes nodes 5, 6, 7, 8, and 9. The bottom-right group includes nodes 0, 1, 2, 3, and 4. The central group includes nodes 10, 11, 12, 13, and 14. Each of these groups is independent and fully connected within itself."
+}
+```

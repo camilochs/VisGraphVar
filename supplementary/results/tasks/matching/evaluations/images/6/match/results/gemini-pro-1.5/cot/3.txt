@@ -1,0 +1,6 @@
+```json
+{
+  "match": "no",
+  "analysis": "Graph 1 and Graph 2 have the same number of nodes (6) with the same labels (0-5). However, the edges connecting the nodes differ. In Graph 1, node 0 connects to nodes 1, 4, and 5. In Graph 2, node 0 connects to nodes 1, 4, and 5. In Graph 1, node 1 connects to nodes 0 and 4. In Graph 2, node 1 connects to nodes 0 and 4. In Graph 1, node 2 connects to nodes 4 and 5. In Graph 2, node 2 connects to nodes 4, 5, and 0. Because graph 2 has edge (0,2) and graph 1 doesn't, the graphs don't match. Additionally, node 3 is isolated in both graphs."
+}
+```

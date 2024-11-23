@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["chain"],
+  "number_of_patterns": [2],
+  "analysis": "The graph contains two distinct chain patterns. The first chain consists of nodes 0, 1, 2, 3, 6, 5 and 4. Here, each node in the sequence except the leaves (nodes 7, 3, and 4) is connected to at most two other nodes in the same set. The second chain appears as nodes 8, 9, 10, and 11 are sequentially connected, forming a linear pattern."
+}
+```

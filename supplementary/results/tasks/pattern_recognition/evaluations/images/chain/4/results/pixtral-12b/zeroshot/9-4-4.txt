@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['chain', 'chain', 'star', 'chain'],
+   'number_of_patterns': 4,
+   'analysis': 'The graph contains four distinct patterns. The first pattern, starting from node 8 and ending at node 11, forms a chain with five nodes. The second pattern, starting from node 4 and ending at node 7, is also a chain with four nodes. The third pattern is a star centered around node 5, with nodes 4, 6, and 7 connected to it. The fourth pattern, starting from node 15 and ending at node 12, is a chain with four nodes. Each pattern is characterized by its linear, central, or branching structure.'
+}
+```

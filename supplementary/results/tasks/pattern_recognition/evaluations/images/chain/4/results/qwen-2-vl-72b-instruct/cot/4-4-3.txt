@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["chain", "clique"],
+   "number_of_patterns": [3, 1],
+   "analysis": "The graph contains 1 clique (fully interconnected nodes without isolated nodes) and 3 chains (nodes linked in a continuous sequence). The clique is formed by nodes 0, 1, and 2. The chains are formed by nodes 3-4-5, 6-7-8, and 9-10-11, respectively."
+}
+```

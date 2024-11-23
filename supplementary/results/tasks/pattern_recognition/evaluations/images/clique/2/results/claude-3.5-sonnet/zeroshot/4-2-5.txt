@@ -1,0 +1,5 @@
+{
+    "pattern": "clique",
+    "number_of_patterns": 2,
+    "analysis": "The image shows two separate subgraphs, each forming a clique pattern. In both cliques, every node is connected to every other node in its group. The first clique contains nodes 5-9, and the second clique contains nodes 0-4, with each node having direct connections to all other nodes within its respective group. This complete interconnection between all nodes in each subgraph is the defining characteristic of a clique pattern."
+}

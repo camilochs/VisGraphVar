@@ -1,0 +1,6 @@
+```json
+{
+  "match": "no",
+  "analysis": "Graph 1 has 4 nodes labeled 0, 1, 2, and 3. Node 0 connects to nodes 1 and 2. Node 3 is disconnected.\nGraph 2 has 4 nodes labeled 0, 1, 2, and 3. Node 0 connects to nodes 1 and 2. Node 3 is disconnected.\nAlthough both graphs have matching labeled nodes, their edges differ. In Graph 1, the edge connects node 0 to node 1, and node 0 to node 2 represented by gray lines. In contrast, Graph 2 connects node 2 to node 0 and node 0 to node 1 by means of an orange colored line. Based on the differences in edges between graphs, the graphs do not match."
+}
+```

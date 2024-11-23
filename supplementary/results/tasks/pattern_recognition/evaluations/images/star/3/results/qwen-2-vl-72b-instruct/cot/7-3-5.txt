@@ -1,0 +1,13 @@
+```json
+{
+   "pattern": [
+      "star",
+      "clique"
+   ],
+   "number_of_patterns": {
+      "star": 2,
+      "clique": 3
+   },
+   "analysis": "The graph consists of three distinct clusters. The first cluster (top) is a star pattern with node 0 at the center and nodes 1, 2, 3, and 4 connected to it. The second cluster (bottom right) is a clique with nodes 5, 6, 7, 8, and 9 all interconnected. The third cluster (bottom left) is another clique with nodes 10, 11, 12, 13, and 14 all interconnected. Therefore, there are 2 star patterns and 3 clique patterns in the graph."
+}
+```

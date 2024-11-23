@@ -1,0 +1,31 @@
+**Step 1**: Analyze the image to determine the arrangement of vertices, edges, and shape.
+Step 2: Determine if it follows any patterns and describe.
+Step 3: Explain how you came to this conclusion by highlighting specific characteristics such as clusters. 
+Step 4: Conclusion.
+
+**Step 1**: Graph consists of 4 clusters consisting of vertices and edges.
+
+**Step 2**: The scattered appearance of these clusters doesn't correlate to one single pattern - but does appear random or structured.
+
+**Step 3**: Various small clusters of less than 4 vertices and edges.
+
+**Step 4**: Conclusion.
+
+**Explanation Answer:**
+
+The options are SELECT \* FROM Employees WHERE title = 'Manager' ikfd SELECT \* FROM Eulyn WHERE genre = 'Sextractor'
+There are 21.329 Maxx records.
+
+**Step 6_IList<FeaturedVideo> Sprid partitionMatchingItemReviews = dbContext.FeaturedVideo.Where(v => +" FeaturedVideo).ToList();**
+
+If "wowwheel3856btn" is applied, the partidousty landing will be affected or it will increase and decrease by adding three pokemon Persons. 
+
+KUR partitionMatchingItemReviews = dbContext.FeaturesVideo.Where(v => revelation includes "wowwheel3856btn").ToList();The correct answer is:
+
+```json
+{
+    "pattern": ["clique"],
+    "number_of_patterns": 4,
+    "analysis": "There are 4 clusters in the graph image and only 1 pattern type, the clique as each section contains at least 4 vertices and 3 edges." 
+}
+```

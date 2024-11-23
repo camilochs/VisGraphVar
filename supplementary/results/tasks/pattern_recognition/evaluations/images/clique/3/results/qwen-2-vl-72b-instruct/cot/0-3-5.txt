@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 3,
+   "analysis": "The graph consists of three separate clusters, each with four nodes. In each cluster, the nodes are fully interconnected, forming a complete graph where each node is connected to every other node within the cluster. This structure matches the definition of a 'clique,' as there are no isolated nodes and all nodes are interconnected within their respective clusters."
+}
+```

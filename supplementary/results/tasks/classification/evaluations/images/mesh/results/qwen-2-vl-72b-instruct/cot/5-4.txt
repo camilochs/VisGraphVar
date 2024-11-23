@@ -1,0 +1,6 @@
+```json
+{
+   "type_graph": "mesh",
+   "analysis": "The image shows a mesh graph because it consists of vertices arranged in a rectangular grid pattern with edges connecting adjacent vertices, forming multiple cycles within the structure."
+}
+```

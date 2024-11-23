@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct clusters. Each cluster consists of three nodes where every node is interconnected with the others, forming a triangle. This configuration is identified as a 'clique' because all possible connections among nodes within each cluster are present. There are no isolated nodes or peripheral structures, which rules out 'chain' or 'star' patterns."
+}
+```

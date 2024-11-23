@@ -1,0 +1,23 @@
+**Property to determine:** Pattern type in the graph image.
+
+**Available data:**
+
+* The graph consists of two disconnected components.
+* Each component has its own set of interconnected nodes.
+
+**Analysis:**
+
+* In the top-right section, node 0 is connected to nodes 1, 2, 3, and 4. This forms a clique because all nodes are directly connected to each other.
+* In the bottom-left section, node 5 is connected to nodes 6, 7, 8, and 9. This also forms a clique for the same reason.
+
+**Conclusion:**
+
+```json
+{
+   'pattern': ['clique'],
+   'number_of_patterns': [2],
+   'analysis': "The graph contains two separate groups where every node within each group is directly connected to the others, fitting the definition of a clique."
+}
+```
+
+This analysis correctly identifies the graph structure as comprising two isolated cliques.

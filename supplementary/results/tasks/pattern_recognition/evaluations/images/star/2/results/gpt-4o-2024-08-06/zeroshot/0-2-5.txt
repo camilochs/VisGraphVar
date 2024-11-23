@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "star",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two star patterns. Each center node (0 and 5) is connected exclusively to several outer nodes. Node 0 is connected to nodes 1, 2, 3, and 4, forming one star. Node 5 is connected to nodes 6, 7, 8, and 9, forming another star."
+}
+```

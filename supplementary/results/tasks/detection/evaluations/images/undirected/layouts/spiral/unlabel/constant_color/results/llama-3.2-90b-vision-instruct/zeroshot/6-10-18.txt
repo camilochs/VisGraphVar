@@ -1,0 +1,14 @@
+I am not able to generate or analyze actual images due to the limitations of my training and the task for which I am designed. However, if you provide a text description, I would be more than happy to help you. 
+
+I can count and report the number of nodes and edges based off of your description. I can also provide a brief analysis of your textual graph. Please provide the description of the graph, including the color of its nodes and edges, as well as any other relevant information.
+
+Your JSON will be returned once all information is received.
+
+ Here is an empty JSON that I can fill and provide once you give me the graph description so I can perform my analysis. Here is the empty JSON as below: 
+```json
+{
+    "total_nodes": 0,
+    "total_edges": 0,
+    "analysis": "Analysis provided from description given"
+}
+```

@@ -1,0 +1,5 @@
+{
+    "pattern": "star",
+    "number_of_patterns": 3,
+    "analysis": "The graph contains three distinct star patterns. Each star has a central node connected to multiple peripheral nodes. Specifically: 1) Node 0 is connected to nodes 1, 2, 3, and 4; 2) Node 5 is connected to nodes 6, 7, 8, and 9; 3) Node 10 is connected to nodes 11, 12, 13, and 14. Each star follows the characteristic pattern where one central vertex connects to multiple outer vertices that are not connected to each other."
+}

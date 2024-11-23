@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate groups of nodes. The first group consists of nodes 0, 1, 2, and 3, where each node is connected to all the other nodes in the group, forming a fully interconnected subgraph or 'clique'. The second group consists of nodes 4, 5, 6, and 7, also forming a fully interconnected subgraph or 'clique'. Both groups exhibit no isolated nodes or central nodes with surrounding peripherals, supporting the identification of the 'clique' pattern."
+}
+```

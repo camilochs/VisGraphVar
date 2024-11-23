@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique", "star"],
+   "number_of_patterns": [2, 2],
+   "analysis": "The graph consists of two instances of pattern types. First, there are two cliques, each containing five nodes (0-1-2-3-4 and 6-7-8-9-5). All nodes within each clique are interconnected without isolated nodes, fitting the definition of a clique. Second, there are two star patterns, each with a central node (0 and 5) surrounded by peripheral nodes (1-2-3-4 and 6-7-8-9). The central node is connected to every peripheral node, indicative of a star pattern."
+}
+```

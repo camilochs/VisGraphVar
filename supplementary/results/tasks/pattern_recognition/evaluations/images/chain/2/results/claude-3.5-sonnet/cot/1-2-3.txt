@@ -1,0 +1,5 @@
+{
+   "pattern": "chain",
+   "number_of_patterns": 2,
+   "analysis": "The graph shows two distinct chain patterns. The first chain consists of nodes 0-1-2, and the second chain consists of nodes 3-4-5. In each case, the nodes are connected in a linear sequence where each node (except the endpoints) is connected to exactly two other nodes. There are no cycles or central nodes with multiple connections, which rules out clique or star patterns. Both chains follow the same structural pattern of nodes connected in a simple linear sequence."
+}

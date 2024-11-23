@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph contains 4 distinct groups of nodes where each group forms a clique pattern. Looking at the structure: 1) Nodes 3,4,5 form a fully interconnected group in the upper right. 2) Nodes 6,7,8 form another fully interconnected group in the left side. 3) Nodes 9,10,11 form a third fully interconnected group in the lower right. 4) Nodes 0,1,2 form a fourth fully interconnected group in the bottom center. In each case, every node is connected to every other node within its group, making these clear examples of clique patterns. There are no star patterns (central node with radiating connections) or chain patterns (sequential connections) visible in the graph."
+}

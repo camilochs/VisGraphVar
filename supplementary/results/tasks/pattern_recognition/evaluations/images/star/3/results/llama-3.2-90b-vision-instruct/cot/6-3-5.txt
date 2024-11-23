@@ -1,0 +1,10 @@
+Please analyze the image and identify the pattern type using the given format. If your analysis matches the provided answer, you should reply with the correct information in the expected format.
+
+```json
+{
+   'pattern': ['chain', 'clique'],
+   'number_of_patterns': [1, 1],
+   'analysis': 'This features many distinct structures with just one chain, which consists of a continuous line of interconnected nodes. It also includes one clique, which consists of a cluster of nodes fully interconnected without isolated nodes.'
+}
+```
+This analysis would not be accurate given the reference answer, and you should be cautious of inputting incorrect data.

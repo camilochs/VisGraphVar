@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate cliques. Each clique is a set of three nodes where each node is connected to every other node in the set. The first clique consists of nodes 0, 1, and 2. The second clique consists of nodes 3, 4, and 5. This complete connectivity among the nodes in each set indicates the 'clique' pattern."
+}
+```

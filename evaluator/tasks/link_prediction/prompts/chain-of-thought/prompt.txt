@@ -1,0 +1,32 @@
+Examine the given graph image and reason through the following steps to predict which two unconnected nodes should be joined by an edge:
+
+1. First, analyze the overall graph structure:
+   - Identify any visible communities or clusters
+   - Note the density of connections in different regions
+   - Observe any recurring patterns in how nodes are connected
+
+2. For each node pair that's not currently connected:
+   - Calculate their common neighbors
+   - Examine their respective degrees
+   - Consider their positions within communities
+   - Evaluate their structural similarity
+
+3. Based on these observations:
+   - Identify node pairs with unusually high similarity
+   - Look for structural holes that could be bridged
+   - Consider if the connection would maintain the graph's natural patterns
+   - Evaluate if the new edge would enhance the graph's functionality
+
+4. Select the most promising node pair and explain your reasoning.
+
+Provide your answer in the following JSON format:
+```json
+{
+    "nodes_prediction": [node1, node2],
+    "analysis": "Detailed step-by-step explanation of:
+    1. The structural patterns you identified
+    2. Why these specific nodes were selected
+    3. How this connection fits the graph's topology
+    4. The expected impact of adding this edge"
+}
+```

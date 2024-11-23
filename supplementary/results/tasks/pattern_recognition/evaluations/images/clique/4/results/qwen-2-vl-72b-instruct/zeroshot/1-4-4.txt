@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 5,
+   "analysis": "The graph contains multiple small, complete graphs (cliques) where all nodes are connected to each other. Each clique is a group of four nodes with edges between every pair of nodes within the group."
+}
+```

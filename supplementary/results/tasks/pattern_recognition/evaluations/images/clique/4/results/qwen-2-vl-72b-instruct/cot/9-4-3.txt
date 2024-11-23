@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 5,
+   "analysis": "The graph consists of five distinct clusters, each a clique or triad, where each set of three nodes is fully connected to each other. There is no central node as found in star patterns, nor is there a continuous sequence as seen in chain patterns. Each clique is isolated from the others, indicating five separate cliques."
+}
+```

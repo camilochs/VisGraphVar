@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": "bipartite",
+  "analysis": "The image shows a bipartite graph because the vertices can be divided into two disjoint sets (A, B, C, D, E and 1, 2, 3, 4, 5) such that every edge connects a vertex in one set to a vertex in the other set.  It's not complete since not all nodes from the first set are connected to all nodes in the second set.  There are no cycles, so it is acyclic. It is also planar because it can be drawn without edge crossings (though it's not drawn that way currently). It is not a tree because it doesn't have a root node and branches.  It is not a mesh because connections are not uniform."
+}
+```

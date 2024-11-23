@@ -1,0 +1,6 @@
+```json
+{
+  "match": "no",
+  "analysis": "Graph 1 has 6 nodes labeled 0, 1, 2, 3, 4, and 5. Graph 2 also has 6 nodes labeled 0, 1, 2, 3, 4, and 5.  Both graphs have the same number of nodes with the same labels.\n\nIn Graph 1:\n- Node 0 is connected to nodes 2 and 3.\n- Node 1 is isolated.\n- Node 2 is connected to nodes 0 and 3.\n- Node 3 is connected to nodes 0 and 2.\n- Node 4 is isolated.\n- Node 5 is isolated.\n\nIn Graph 2:\n- Node 0 is isolated.\n- Node 1 is connected to nodes 3 and 4.\n- Node 2 is isolated.\n- Node 3 is connected to nodes 1 and 4.\n- Node 4 is connected to nodes 1 and 3.\n- Node 5 is isolated.\n\nThe connections between nodes in the two graphs are different. Specifically, the triangle formed by nodes 0, 2 and 3 exists only in graph 1 and a triangle between 1, 3, and 4 is present in graph 2 but not graph 1.  Therefore, the graphs do not match."
+}
+```

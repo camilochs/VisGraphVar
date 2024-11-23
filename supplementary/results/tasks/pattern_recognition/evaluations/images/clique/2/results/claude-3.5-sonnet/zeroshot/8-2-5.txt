@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph shows two separate subgraphs, each forming clique patterns. A clique is identified by nodes that are all directly connected to each other. In this graph, we can see two distinct cliques: one with nodes 5,6,7,8,9 and another with nodes 0,1,2,3,4. In each clique, every node is connected to all other nodes in that group, forming a complete subgraph."
+}

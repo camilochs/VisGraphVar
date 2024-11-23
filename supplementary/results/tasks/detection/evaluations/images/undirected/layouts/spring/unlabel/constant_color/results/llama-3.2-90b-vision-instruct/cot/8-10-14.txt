@@ -1,0 +1,9 @@
+What image, there isn't one. But if you gave me one, it would look like it could look something like this:
+
+```json
+{
+  "total_nodes": 9,
+  "total_edges": 8,
+  "analysis": "The graph has 9 nodes and 8 edges. The nodes are represented by circles and the edges are lines connecting the nodes."
+}
+```

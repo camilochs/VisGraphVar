@@ -1,0 +1,6 @@
+```json
+{
+  "match": "yes",
+  "analysis": "Both graphs have the same nodes and edges. Graph 1 has edges (0, 3), (0, 4), (0, 2), (3, 1), (1, 2). Graph 2 has edges (0, 3), (0, 4), (0, 2), (3, 1), (1, 2). Therefore, although they have different layouts, the connections between nodes are the same in both graphs."
+}
+```

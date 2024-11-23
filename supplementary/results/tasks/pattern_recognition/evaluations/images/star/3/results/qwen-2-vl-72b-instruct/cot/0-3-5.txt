@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique", "star"],
+   "number_of_patterns": [2, 1],
+   "analysis": "There are 2 distinct 'clique' patterns, which are characterized by groups of four nodes that are all interconnected. These can be found in the top right and bottom right clusters. Additionally, there is 1 'star' pattern in the bottom left cluster, with one central node (node 0) connected to three peripheral nodes."
+}
+```

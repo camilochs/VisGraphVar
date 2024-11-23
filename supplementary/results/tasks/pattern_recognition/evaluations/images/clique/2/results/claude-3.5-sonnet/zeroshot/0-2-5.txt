@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate clique patterns. The first clique involves nodes 0,1,2,3,4 where each node is connected to every other node in its group. The second clique consists of nodes 5,6,7,8,9 with similar all-to-all connections within its group. Both structures demonstrate the complete interconnection characteristic of clique patterns."
+}

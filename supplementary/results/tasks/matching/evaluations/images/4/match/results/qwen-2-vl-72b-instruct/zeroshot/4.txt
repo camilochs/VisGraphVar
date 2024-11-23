@@ -1,0 +1,6 @@
+```json
+{
+   "match": "no",
+   "analysis": "The two graphs have different structures. Graph 1 has a line of nodes (3, 1, 0) and a separate node (2), while Graph 2 has a vertical line of connected nodes (3, 1, 0) and another separate node (2). The connections and positions of the nodes differ between the two graphs."
+}
+```

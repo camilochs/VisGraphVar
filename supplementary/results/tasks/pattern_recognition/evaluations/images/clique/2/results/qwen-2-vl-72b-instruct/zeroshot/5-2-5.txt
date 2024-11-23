@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate complete subgraphs (cliques) where each node is connected to every other node within the subgraph. There are no star or chain patterns visible."
+}
+```

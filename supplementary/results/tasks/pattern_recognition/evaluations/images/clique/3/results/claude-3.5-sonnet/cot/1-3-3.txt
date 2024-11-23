@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph shows three separate groupings, each consisting of three nodes that are fully interconnected with each other. Group 1 contains nodes 3, 4, and 5; Group 2 contains nodes 6, 7, and 8; and Group 3 contains nodes 0, 1, and 2. In each group, every node is connected to every other node within its group, forming complete triangles. This structure matches the definition of a clique pattern, where all nodes in a group are directly connected to all other nodes in that same group. There are no isolated nodes or central hub nodes (which would indicate a star pattern), and the connections are not in a linear sequence (which would indicate a chain pattern)."
+}

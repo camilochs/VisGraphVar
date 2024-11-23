@@ -1,0 +1,6 @@
+```json
+{
+   "shortest_path": ["1", "2", "4"],
+   "analysis": "Starting from node 1, we can see three potential paths to reach node 4. The first path is 1 -> 2 -> 4, which has a total weight of 2 + 5 = 7. The second path is 1 -> 0 -> 3 -> 2 -> 4, which has a total weight of 9 + 6 + 4 + 5 = 24. The third path is 1 -> 0 -> 3 -> 0 -> 3 -> 2 -> 4, which has a total weight of 9 + 1 + 6 + 4 + 5 = 25. Among these paths, the first path (1 -> 2 -> 4) is the shortest with a total weight of 7."
+}
+```

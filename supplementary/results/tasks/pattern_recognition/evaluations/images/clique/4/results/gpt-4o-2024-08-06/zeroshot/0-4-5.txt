@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 5,
+   "analysis": "The graph contains five separate clusters where each node is connected to every other node within the same cluster. This feature characterizes a 'clique' pattern. Each group of nodes forms a complete subgraph, which is a defining property of cliques."
+}
+```

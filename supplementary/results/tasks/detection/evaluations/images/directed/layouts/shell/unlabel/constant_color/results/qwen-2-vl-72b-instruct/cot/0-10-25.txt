@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 8,
+   "total_edges": 24,
+   "analysis": "The graph consists of 8 white nodes connected by 24 black edges. Each edge has an arrow indicating the direction of the connection. The graph appears to be a fully connected network where each node is connected to every other node."
+}
+```

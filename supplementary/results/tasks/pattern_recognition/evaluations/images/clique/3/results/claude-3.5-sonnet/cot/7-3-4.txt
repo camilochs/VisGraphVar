@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph shows three distinct groups of fully interconnected nodes (cliques). The first clique consists of nodes 0,1,2,3, the second clique contains nodes 4,5,6,7, and the third clique includes nodes 8,9,10,11. In each group, every node is connected to every other node within its group, forming a complete subgraph. There are no isolated nodes or star patterns, and the nodes are not arranged in a chain sequence. Each clique is separate from the others with no connections between different cliques."
+}

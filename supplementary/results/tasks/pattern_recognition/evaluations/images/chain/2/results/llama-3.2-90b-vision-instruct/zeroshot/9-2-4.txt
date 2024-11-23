@@ -1,0 +1,24 @@
+Step 1:
+To analyze the pattern in this graph completely, I will divide the graph into the two areas indicated by each of the subgraphs. Then, I will compare each subgraph with the three possible patterns to identify what types of patterns are exhibited.
+
+Step 2:
+Now that we know approximately how the graph "looks," we can begin to analyze each subgraph's pattern type. To do this, a subgraph-by-subgraph analysis is required to identify unique connections between the nodes in each subgraph.
+
+Step 3:
+To analyze the first subgraph, the nodes 0 and 1 are connected to the node 2. Then, node 2 is also connected to node 3. This type of connection pattern shows evidence of a" star" pattern.\ 
+ 
+
+Step 4
+For the second subgraph, node 4 is directly connected to node 5 and 6, and node 7 is connected to node 6. This pattern exhibits characteristics of a "chain" or hierarchical structure. However, the graph does not showcase a single starting point and resembles more closely a connected clique where each connected node is related to at least one other node. So, this subgraph shows evidence of a chain pattern.
+
+Step 5: The two subgraphs are not connected to each other, representing two unique patterns of connectivity.' Looking at both connected bipartite patterns, it is possible to conclude there is one distinct clique/star pattern and one chain or connected-pattern structure.
+ 
+
+Conclusion: In conclusion, this graph shows evidence of two different patterns being exhibited.
+
+```json
+{
+   "pattern": ["star", "chain"],
+   "number_of_patterns": 2,
+   "analysis": "Graph shows separate clique and chain patterns."
+}

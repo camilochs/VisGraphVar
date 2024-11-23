@@ -1,0 +1,6 @@
+```json
+{
+   "match": "no",
+   "analysis": "The two graphs have different structures. Graph 1 has nodes with connections forming a tree-like structure, while Graph 2 has a completely different pattern of connections, forming a more complex network."
+}
+```

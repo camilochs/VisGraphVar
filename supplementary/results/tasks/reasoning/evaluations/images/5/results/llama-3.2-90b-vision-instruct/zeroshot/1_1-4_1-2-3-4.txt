@@ -1,0 +1,120 @@
+**Step-by-Step Guide:**
+
+### Step 1: Define the Graph
+
+Create a dictionary to represent the graph, where each key is a node and its corresponding value is another dictionary. The inner dictionary's keys represent the nodes connected to the key node, and the inner dictionary's values represent the weights of the edges.
+
+```python
+graph = {
+    '1': {'3': 0, '2': 8},
+    '2': {'1': 8, '3': 6, '4': 10},
+    '3': {'1': 0, '2': 6, '4': 3},
+    '4': {'3': 3, '2': 10}
+}
+```
+
+### Step 2: Set the Distance and Predecessor Dictionaries
+
+Initialize two dictionaries: `distance` and `predecessor`. The `distance` dictionary stores the shortest distance from the source node to all other nodes, while the `predecessor` dictionary stores the predecessor of each node in the shortest path.
+
+```python
+def shortest_path(graph, start):
+    distance = {node: float('infinity') for node in graph}
+    distance[start] = 0
+    predecessor = {node: None for node in graph}
+```
+
+### Step 3: Set a Boolean Dictionary and Update the Distance
+
+Create a boolean dictionary to mark visited nodes and iterate over all nodes. If the current node has not been visited and the distance to it is less than the already known distance, update the distance and predecessor.
+
+```python
+    visited = {node: False for node in graph}
+    current_node = start
+    
+    while False in visited.values():
+        visited[current_node] = True
+        for neighbor, weight in graph[current_node].items():
+            if not visited[neighbor] and distance[current_node] + weight < distance[neighbor]:
+                distance[neighbor] = distance[current_node] + weight
+                predecessor[neighbor] = current_node
+        current_node = min([node for node in graph if not visited[node]], key=lambda x: distance[x])
+    
+    return distance, predecessor
+```
+
+### Step 4: Run the Algorithm and Get Results
+
+Run the `shortest_path` algorithm using node 1 as the start point and print the shortest distance and the predecessor of each node. To reconstruct the shortest path, iterate from the destination node back to the start.
+
+```python
+def reconstruct_path(start, end, distance, predecessor):
+    path = []
+    current_node = end
+    while current_node != start:
+        path.append(current_node)
+        current_node = predecessor[current_node]
+    path.append(start)
+    path.reverse()
+    return path
+```
+
+**Code:**
+
+```python
+def shortest_path(graph, start):
+    distance = {node: float('infinity') for node in graph}
+    distance[start] = 0
+    predecessor = {node: None for node in graph}
+    
+    visited = {node: False for node in graph}
+    current_node = start
+    
+    while False in visited.values():
+        visited[current_node] = True
+        for neighbor, weight in graph[current_node].items():
+            if not visited[neighbor] and distance[current_node] + weight < distance[neighbor]:
+                distance[neighbor] = distance[current_node] + weight
+                predecessor[neighbor] = current_node
+        current_node = min([node for node in graph if not visited[node]], key=lambda x: distance[x])
+    
+    return distance, predecessor
+
+def reconstruct_path(start, end, distance, predecessor):
+    path = []
+    current_node = end
+    while current_node != start:
+        path.append(current_node)
+        current_node = predecessor[current_node]
+    path.append(start)
+    path.reverse()
+    return path
+
+graph = {
+    '1': {'3': 0, '2': 8},
+    '2': {'1': 8, '3': 6, '4': 10},
+    '3': {'1': 0, '2': 6, '4': 3},
+    '4': {'3': 3, '2': 10}
+}
+
+distance, predecessor = shortest_path(graph, '1')
+path = reconstruct_path('1', '4', distance, predecessor)
+result = {
+   "shortest_path": path,
+   "analysis": f"The function selects the node and edge based on the distance. First, it sets all distances to infinity and then iteratively traverses the nodes with the objective to minimize the distance. Finally, it returns a reverse traversal from the destination node to the start node using predecessors, displaying the shortest path."
+}
+print(result)
+```
+
+**Output:**
+
+```json
+{
+    "shortest_path": [
+        "1",
+        "3",
+        "4"
+    ],
+    "analysis": "The function selects the node and edge based on the distance. First, it sets all distances to infinity and then iteratively traverses the nodes with the objective to minimize the distance. Finally, it returns a reverse traversal from the destination node to the start node using predecessors, displaying the shortest path."
+}
+```

@@ -1,0 +1,5 @@
+{
+   "pattern": "chain",
+   "number_of_patterns": 4,
+   "analysis": "The graph shows 4 distinct chain patterns where nodes are connected in a linear sequence. Each chain consists of nodes connected one after another: Chain 1 (nodes 0-1-2-3), Chain 2 (nodes 4-5-6-7), Chain 3 (nodes 8-9-10-11), and Chain 4 (nodes 12-13-14-15). Each node is connected to at most two other nodes, forming a linear structure characteristic of chain patterns."
+}

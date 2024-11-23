@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph shows two distinct components, each forming a clique pattern. The first clique consists of nodes 0, 1, 2, and 3, where each node is connected to every other node in that component. The second clique consists of nodes 4, 5, 6, and 7, also showing full interconnectivity between its nodes. In each clique, every node has direct connections (edges) to all other nodes within its group, which is the defining characteristic of a clique pattern. The two cliques are separate and not connected to each other."
+}

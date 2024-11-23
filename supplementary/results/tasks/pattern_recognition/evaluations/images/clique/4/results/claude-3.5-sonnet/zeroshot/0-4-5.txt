@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph shows 4 distinct groupings where each node is connected to every other node within its group. Each group contains 4 nodes with complete interconnections between them, forming perfect cliques. The groups are located at different positions in the graph but each maintains the same clique structure with nodes {0,1,2,3}, {5,6,7,8}, {11,12,13,14}, and {15,16,17,18}."
+}

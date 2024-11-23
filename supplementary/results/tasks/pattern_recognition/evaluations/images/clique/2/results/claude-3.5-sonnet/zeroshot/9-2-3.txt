@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate triangle formations where each node is connected to all other nodes within its group. The first clique involves nodes 3, 4, and 5, while the second clique consists of nodes 0, 1, and 2. In each clique, every node has exactly two edges connecting it to the other two nodes, forming a complete subgraph where all vertices are connected to each other."
+}

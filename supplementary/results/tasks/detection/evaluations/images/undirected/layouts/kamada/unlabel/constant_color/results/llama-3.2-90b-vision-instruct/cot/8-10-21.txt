@@ -1,0 +1,34 @@
+### Step 1: Identify the nodes
+
+*   The nodes are the distinct circles in the graph.
+*   Count the circles, noting any variation in color.
+
+    *   The following are present:
+        *   9 close circles
+*   The nodes are colored:
+    *   A shade of gray
+
+### Step 2: Identify the edges
+
+*   The edges are the lines connecting the nodes.
+*   Count the number of edges, noting any variation in color.
+
+    *   There are 15 total edges
+*   The edges are colored:
+    *   Black
+
+### Step 3: Summarize your findings
+
+*   **Total Nodes:** 9
+*   **Total Edges:** 15
+*   **Analysis:** This is a simple graph comprised of nine gray nodes, connected by fifteen black edges. This common graphing image does not have a caption or header. The image has no indication it represents any specific data set, and can be used as a placeholder for visualization. For example, it can show the relations between disparate individuals, locations or objects based on a boolean value (ie, true or false).
+
+### Step 4: Format Your Answer
+
+```json
+{
+    "total_nodes": 9,
+    "total_edges": 15,
+    "analysis": "This graph contains nine gray nodes, connected by fifteen black edges. The graph is undirected and connected, with distinguishable nodes, and has no information as to what information it is intended to convey. Like other example graphs, this image is likely a statistical placeholder."
+}
+```

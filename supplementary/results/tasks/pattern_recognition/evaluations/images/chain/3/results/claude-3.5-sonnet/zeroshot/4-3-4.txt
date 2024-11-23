@@ -1,0 +1,5 @@
+{
+    "pattern": "chain",
+    "number_of_patterns": 2,
+    "analysis": "The graph contains two separate chain patterns. The first chain runs from node 3 through nodes 2, 7, 1, 0 and branches to nodes 6, 5, 4. The second chain runs from node 11 through nodes 10, 9, to node 8. In both patterns, each node is connected to at most two other nodes in a linear sequence, which is characteristic of chain patterns."
+}

@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 20,
+   "analysis": "The graph is a directed graph with 10 nodes and 20 edges. The nodes are numbered from 0 to 9. The graph contains multiple connections between nodes, indicating a complex network structure. The edges do not have any specified colors."
+}
+```

@@ -1,0 +1,14 @@
+Analyze the following graph image and identify the type of pattern it contains. The possible patterns are 'chain,' 'clique,' or 'star.' Please respond in the JSON format provided:
+
+```json
+{
+   'pattern': [name],
+   'number_of_patterns': [number],
+   'analysis': '[explain].'
+}
+```
+Where:
+
+    - pattern is the name of the pattern type you detect.
+    - number_of_patterns is the total count of this pattern type found.
+    - analysis is a brief explanation of the features in the graph that led you to your conclusion.

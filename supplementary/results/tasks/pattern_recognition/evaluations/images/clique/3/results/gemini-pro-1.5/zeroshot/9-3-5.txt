@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [3],
+  "analysis": "The image contains three separate groups of interconnected nodes where each node within a group is connected to every other node in that same group. This fully connected subgraph pattern represents a clique. There are three such cliques present in the image."
+}
+```

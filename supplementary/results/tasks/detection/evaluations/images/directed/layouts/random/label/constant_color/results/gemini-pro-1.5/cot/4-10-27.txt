@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 24,
+  "analysis": "The graph contains 10 white nodes labeled 1 through 9 and 0. It has 24 black directed edges connecting various nodes. The graph appears moderately complex, with multiple interconnections between nodes, concentrated around a central cluster."
+}
+```

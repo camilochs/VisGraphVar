@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct cliques. The first clique is formed by nodes 0, 1, and 2, where each node is connected to every other node in this subset. The second clique is formed by nodes 3, 4, and 5, where each of these nodes is also connected to every other node within this subset."
+}
+```

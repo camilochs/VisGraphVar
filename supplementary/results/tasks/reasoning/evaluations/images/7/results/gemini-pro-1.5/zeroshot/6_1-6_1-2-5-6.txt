@@ -1,0 +1,6 @@
+```json
+{
+  "shortest_path": ["1", "5", "6"],
+  "analysis": "There are two paths between nodes 1 and 6:\n1 -> 5 -> 6 (cost of 5 + 5 = 10)\n1 -> 3 -> 4 -> 6 (cost of 6 + 8 + 5 = 19)\nThe path 1 -> 5 -> 6 has the lowest cost of 10."
+}
+```

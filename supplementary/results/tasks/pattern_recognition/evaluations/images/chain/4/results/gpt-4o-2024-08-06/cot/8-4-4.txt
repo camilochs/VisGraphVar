@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "chain",
+   "number_of_patterns": 4,
+   "analysis": "The graph consists of four separate linear sequences of nodes. Each sequence forms a 'chain,' where nodes are interconnected in a continuous sequence without branching. The identified chains are: 8-9-10-11, 7-6-5-4, 15-14-13-12, and 3-2-1-0."
+}
+```

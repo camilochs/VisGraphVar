@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph shows 4 distinct groups where each group consists of 3 nodes that are fully interconnected with each other. The first group contains nodes 0,1,2; the second group has nodes 3,4,5; the third group includes nodes 6,7,8; and the fourth group consists of nodes 9,10,11. In each group, every node is connected to every other node within its group, forming complete triangles. This creates a clique pattern, as each subgroup demonstrates full interconnectivity between its members. These cliques are isolated from each other, with no connections between different groups."
+}

@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': 'chain',
+   'number_of_patterns': 2,
+   'analysis': 'The graph contains two distinct chains of connected nodes. The first chain runs from node 0 to node 4, and the second chain runs from node 5 to node 9. There is also a separate chain from node 10 to node 14. These chains are connected linearly without any branching, indicating a chain pattern.'
+}
+```

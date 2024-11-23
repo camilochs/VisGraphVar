@@ -1,0 +1,5 @@
+{
+    "pattern": "star",
+    "number_of_patterns": 3,
+    "analysis": "The graph contains three distinct star patterns. Each component has a central node connected to multiple surrounding nodes in a star-like formation. The first star has node 1 as center, the second has node 6 as center, and the third has node 11 as center. Each center node connects to 4 peripheral nodes in a radial pattern, which is characteristic of a star topology."
+}

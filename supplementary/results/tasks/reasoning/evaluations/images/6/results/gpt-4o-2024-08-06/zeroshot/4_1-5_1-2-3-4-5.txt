@@ -1,0 +1,6 @@
+```json
+{
+   "shortest_path": ["1", "0", "2", "5"],
+   "analysis": "To find the shortest path from node 1 to node 5, the path chosen is 1 -> 0 -> 2 -> 5. Starting from node 1, the only direct path is to node 0 with a weight of 8. From node 0, the shortest weighted path goes to node 2 with a weight of 6. Lastly, from node 2 to node 5, the path has a weight of 5. This path has a total weight of 19, which is shorter than other possible paths given the weights and structure of the graph."
+}
+```

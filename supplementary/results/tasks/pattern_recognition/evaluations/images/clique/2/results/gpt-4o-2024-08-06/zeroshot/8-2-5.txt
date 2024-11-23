@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two groups where every node is connected to every other node within the group. In the top group (nodes 5, 6, 7, 8, 9) and the bottom group (nodes 0, 1, 2, 3, 4), each node has edges to all other nodes in its respective group, forming complete subgraphs, also known as cliques."
+}
+```

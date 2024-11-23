@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['chain'],
+   'number_of_patterns': [2],
+   'analysis': 'The graph contains two distinct chains: one from node 0 to node 1 to node 2, and another from node 3 to node 4 to node 5.'
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ["chain"],
+   'number_of_patterns': [4],
+   'analysis': "The graph comprises four distinct 'chain' patterns, also known as linear graphs. Each chain consists of nodes connected sequentially in a straight line without branching. These chains are non-overlapping and span different sets of nodes."
+}
+```

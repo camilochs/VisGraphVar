@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['clique', 'clique', 'clique'],
+   'number_of_patterns': 3,
+   'analysis': 'The graph contains three distinct cliques, each comprising fully interconnected nodes where every node is adjacent to every other node within the set. Cliques are types of subgraphs in which every node is connected with every other node in the set, making each subgraph highly cohesive.'
+}
+```

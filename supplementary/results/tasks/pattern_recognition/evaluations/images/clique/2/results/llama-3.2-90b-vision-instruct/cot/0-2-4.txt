@@ -1,0 +1,15 @@
+**Analysis of Graph Pattern**
+
+**Conclusion**
+
+To determine the type of pattern present in the graph image, we analyzed the relationships among the nodes and identified a specific structure. The results are as follows:
+
+**JSON Response**
+
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "The graph consists of two separate groups of interconnected nodes, each forming a fully connected subgraph where every node is linked to every other node within its group. This topology is characteristic of a clique, where all nodes within the subgraph are directly connected to one another. Since there are two such separable but fully connected groups, the number of patterns is 2."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 30,
+   "analysis": "The graph has 10 colored nodes, each connected to the others by 30 directed edges. The nodes are colored differently, indicating various types or states in the network. Arrows on the edges show the direction of influence or interaction between the nodes."
+}
+```

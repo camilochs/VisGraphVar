@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": "complete",
+  "analysis": "The image shows a complete graph.  Every node is connected to every other node."
+}
+```

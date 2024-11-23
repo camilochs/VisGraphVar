@@ -1,0 +1,9 @@
+Since no image was provided, I will leave the JSON file with zeros.
+
+```json
+{
+    "total_nodes": 0,
+    "total_edges": 0,
+    "analysis": "No image provided."
+}
+```

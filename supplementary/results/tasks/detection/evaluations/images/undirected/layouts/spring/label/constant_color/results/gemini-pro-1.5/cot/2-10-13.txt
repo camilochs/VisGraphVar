@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 11,
+  "analysis": "The graph consists of two disconnected components. The larger component has 10 nodes and 11 edges, forming an irregular shape. The smaller component consists of a single isolated node. All nodes and edges are black."
+}
+```

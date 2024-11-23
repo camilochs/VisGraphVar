@@ -1,0 +1,6 @@
+```json
+{
+   "type_graph": "bipartite",
+   "analysis": "The image shows a bipartite graph because vertices are organized in two distinct sets (left and right), with edges only connecting vertices between the sets and not within them. There are no cycles within each set, and the graph displays edge crossings typical of a bipartite structure."
+}
+```

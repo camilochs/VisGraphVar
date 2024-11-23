@@ -1,0 +1,13 @@
+Generate two prompts for graph link prediction using a Large Vision Model.  
+
+1. Zero-shot prompt: Ask the model to analyze the graph image without any prior examples or hints. The goal is to answer the question: Which two nodes should create an edge according to the graph structure?  
+
+2. Chain-of-thought prompt: Ask the model to reason step by step through the process of identifying which nodes should be joined. The question remains: Which two nodes should create an edge according to the graph structure?
+
+Expected output format (JSON example):
+```json
+{
+   "nodes_prediction": [node1, node2],
+   "analysis": "[explain]."
+}
+```

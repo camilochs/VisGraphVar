@@ -1,0 +1,26 @@
+**Step 1: Count the nodes in the image.**
+
+As you count the nodes from left to right, you'll find 10 nodes.
+
+**Step 2: Count the edges in the image.**
+
+As you count the edges from left to right, you'll find 19 edges.
+
+**Step 3: Provide an analysis of the image.**
+
+The graph is comprised of a connected collection of nodes and edges. All nodes share the same black/shaded color scheme for illustrative purposes. 
+
+**Raw and Total Values**
+
+* Total number of nodes: 10
+* Total number of edges: 19
+
+**JSON Response**
+
+```json
+{
+    "total_nodes": 10,
+    "total_edges": 19,
+    "analysis": "The graph is comprised of a connected collection of nodes and edges. All nodes share the same black/shaded color scheme for illustrative purposes."
+} 
+```

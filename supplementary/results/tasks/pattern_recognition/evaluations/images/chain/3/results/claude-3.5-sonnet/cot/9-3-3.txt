@@ -1,0 +1,5 @@
+{
+   "pattern": "chain",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three distinct chain patterns. First chain consists of nodes 0-1-2 connected in sequence. Second chain includes nodes 6-7-8 connected linearly. Third chain contains nodes 3-4-5 also connected in a linear sequence. Each chain shows nodes connected only to their immediate neighbors in a linear fashion, with no central hubs or complete interconnections. The nodes within each chain have exactly two connections (except end nodes which have one), forming clear linear sequences that match the chain pattern definition."
+}

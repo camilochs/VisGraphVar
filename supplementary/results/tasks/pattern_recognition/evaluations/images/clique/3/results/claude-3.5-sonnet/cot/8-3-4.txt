@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph shows three distinct groups, each forming a clique pattern. A clique is a group where every node is connected to every other node in the group. The first clique consists of nodes 4, 5, 6, and 7. The second clique contains nodes 0, 1, 2, and 3. The third clique includes nodes 8, 9, 10, and 11. In each group, all nodes are fully interconnected with each other, forming complete subgraphs. There are no isolated nodes or central nodes with radiating connections (which would indicate a star pattern), and the nodes are not arranged in a sequential chain. Each clique is separate from the others with no connections between the groups."
+}

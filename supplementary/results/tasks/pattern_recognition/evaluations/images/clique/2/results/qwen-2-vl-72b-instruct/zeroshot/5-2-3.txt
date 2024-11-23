@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two sets of three nodes, each set forming a complete triangle, where every node is connected to every other node within the set. This structure is characteristic of a clique."
+}
+```

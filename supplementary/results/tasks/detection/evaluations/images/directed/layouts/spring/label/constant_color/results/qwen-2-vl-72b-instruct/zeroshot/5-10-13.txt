@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 12,
+   "analysis": "The graph has 10 nodes and 12 edges. The nodes are colored in black and are labeled with numbers from 0 to 9. The edges are black lines with arrowheads indicating the direction of the connection between nodes."
+}
+```

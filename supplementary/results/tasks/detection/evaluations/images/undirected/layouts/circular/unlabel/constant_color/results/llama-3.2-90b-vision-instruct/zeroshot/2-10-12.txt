@@ -1,0 +1,12 @@
+The analysis of the graph, including its key characteristics in JSON format, is as follows:
+
+ رقم | Feature | Value |
+ interspersed with 
+
+```json
+{
+    "total_nodes": 9,
+    "total_edges": 10,
+    "analysis": "This graph consists of 9 nodes and 10 black edges on a white background. The lines all have the same width and there is one central node connected to every other node."
+}
+```

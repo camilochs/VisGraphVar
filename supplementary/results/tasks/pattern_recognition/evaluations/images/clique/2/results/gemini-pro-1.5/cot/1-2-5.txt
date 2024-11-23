@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [2],
+  "analysis": "The graph consists of two distinct groups of nodes. In each group, every node is connected to every other node within the same group, forming a fully connected subgraph. This structure defines a 'clique.' There are two such separate cliques in the image."
+}
+```

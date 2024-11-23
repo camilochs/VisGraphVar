@@ -1,0 +1,28 @@
+**Graph 1 is in blue**
+**Graph 2 is in green**
+
+*   **Step 1: Compare node counts and labels.**
+    *   Graph 1 has 4 nodes.
+    *   Graph 2 has 4 nodes.
+    *   Graph 1 has the following labels: 0, 1, 2, and 3.
+    *   Graph 2 has the following labels: 0, 2, 3, and 4.
+    *   Node counts match, and Node labels correspond to one another.
+*   **Step 2: Evaluate each connection or edge. (including any weights)**
+    *   On Graph 1: node 2 is connected to node 3.
+    *   On Graph 1: node 4 is connected to node 0.
+    *   On Graph 1: node 1 has no connections.
+    *   On Graph 2: node 3 is connected to node 2.
+    *   On Graph 2: node 4 is connected to node 0, but node 1 is connected to node 3.
+    *   Connections do not match.
+*   **Conclusion**
+
+While the second graph has a label that does not match the first graph, all other nodes match and no edge was found not to match as well. This however is not a great indicator as its just one input. However since there are multiple inconsistencies with the first edge of each of Graphs 1 & 2 and the different path of Graphs 2 and 3 makes it hard to consider consistent a second time.
+
+
+
+```json
+{
+    "match": "no",
+    "analysis": "no"
+}
+```

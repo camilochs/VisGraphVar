@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": "mesh",
+  "analysis": "The image shows a mesh graph because it exhibits a regular grid-like structure where nodes are connected to their immediate neighbors in a two-dimensional plane. It's planar as it can be drawn without edge crossings, and it contains multiple cycles (e.g., squares formed by the grid). It is not complete as not every node is connected to every other node, it isn't a tree as it has cycles, and it's not bipartite as nodes cannot be divided into two disjoint sets with no internal connections (neighbors are in the same set effectively)."
+}
+```

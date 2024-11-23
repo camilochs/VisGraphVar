@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": ["tree", "planar", "acyclic"],
+  "analysis": "The image shows a tree graph because it is connected and has no cycles.  A tree is a special case of an acyclic graph. Because the graph can be drawn on a plane with no edge crossings, it is also classified as a planar graph."
+}
+```

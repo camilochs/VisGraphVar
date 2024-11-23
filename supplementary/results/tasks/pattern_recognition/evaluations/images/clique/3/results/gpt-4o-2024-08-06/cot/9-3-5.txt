@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph has three distinct clusters, each forming a fully interconnected network. The first cluster consists of nodes 0, 1, 2, 3, and 4, each connected to every other node in the cluster, forming a clique. The second cluster consists of nodes 5, 6, 7, 8, and 9, also fully interconnected, forming another clique. The third cluster consists of nodes 10, 11, 12, 13, and 14, similarly fully interconnected to form a clique. The absence of unconnected nodes and the complete interconnection within each group confirms the 'clique' pattern."
+}
+```

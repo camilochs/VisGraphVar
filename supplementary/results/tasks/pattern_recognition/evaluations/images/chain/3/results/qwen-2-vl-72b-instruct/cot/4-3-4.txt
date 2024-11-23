@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["chain"],
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct chains. The first chain is a sequence of nodes from 0 to 7, and the second chain is a sequence of nodes from 8 to 11. There are no instances of a clique or a star pattern in the graph."
+}
+```

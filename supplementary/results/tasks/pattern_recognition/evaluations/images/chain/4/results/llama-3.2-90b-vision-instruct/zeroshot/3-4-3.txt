@@ -1,0 +1,55 @@
+**Step 1: Define patterns to compare**
+
+*   Star pattern: In the graph theory, star or star graph means Graph consists center vertices or target around which connects every other point in such a manner that no edge between the other vertices exist. 
+*   Clique pattern: Clique defined as set of vertices where an edge connects every  pair distinct of vertices and from remainder to set to none is joined.
+*   Chain pattern: It can be defined as a Graph with path consisting of path sequence linearly ordered, which means there is no path sequence in between those linearly ordered path sequence in n  number of nodes. Also known as n-ary tree.
+
+
+
+**Step 2: Identify the patterns in the provided graph image**
+
+The graph appears to be an unweighted, undirected graph. It has 11 edges and 11 vertices.
+
+
+
+**Step 3: Draw conclusions**
+
+To know the given structure of a graphic, start from each node and check if there are links to other nodes.
+
+
+
+    If the output is: 
+    
+    *   At least some nodes which are connected pairwise.
+    
+    *   Linkages between a minimum pair of them are not available.
+
+    Conclusion- Answer would be: **Star Pattern**.
+
+
+
+    If the output is
+    
+    *   Each node of the graph is connected pairwise.
+    
+    *   Linkage gap in none of the node.
+
+    Conclusion- Answer would be: **Clique Pattern**.
+
+
+
+This example demonstrates that each node is paired and not linked. Thus, the answer is **Star Pattern**.
+
+
+
+**Step 4: Conclude and provide the final answer**
+
+Answer:
+
+```json
+{
+       "pattern": "Star",
+       "number_of_patterns": "1",
+       "analysis": "There is one center node connected to various other nodes. There also exists the absence of any linkage when paired."
+}
+```

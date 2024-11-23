@@ -1,0 +1,4 @@
+{
+   "type_graph": "mesh",
+   "analysis": "The image shows a mesh graph. It consists of a regular grid pattern of 5x5 vertices (25 nodes total), where each internal node is connected to its adjacent nodes in a rectangular grid formation. Each vertex is labeled with coordinates, and the connections form a uniform mesh structure with horizontal and vertical edges only."
+}

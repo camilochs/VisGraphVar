@@ -1,0 +1,23 @@
+**Step 1**: Describe the connections in each of the two graphs and any feature weights for purposes of comparing them against each other.
+
+  *    Graph 1: 0 is connected to 3 and 2; 1 is connected to 3; There is no listed feature weight.
+  *    Graph 2: 0 is connected to 1 and 3; 2 is connected to 0; There is no listed feature weight.
+
+**Step 2**: Compare the nodes and edges found in each of the two corresponding graphs. Look for the pattern observed by node locations and any associated weights, if any.
+
+  *    *Graph 1*: There are a total of 4 listed edges: (0, 2), (0, 3), (1, 2),  (1, 3)
+  *    *Graph 2*: There are a total of 4 listed edges: (0, 1), (0, 3), (2, 0), (3, 0)
+  *    No common edges between the two listed graphs.
+
+**Step 3**: Deliver the result of the comparison between the two listed graph images.
+
+Since the comparison of the edges in each graph does not show there to be common edges after having analyzed them, the conclusion reached is that the graphs do not match.
+
+**Result**:
+
+```json
+{
+   "match": "no",
+   "analysis": "There are no edge connections found to be common between listed graph 1 and listed graph 2."
+}
+```

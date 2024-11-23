@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph contains 4 separate clique patterns. Each subgraph shows a set of nodes where every node is connected to every other node in its group. The cliques are: (0,1,2,3), (8,9,10,11), (4,5,6,7), and (12,13,14,15). Each of these groups demonstrates complete interconnectivity between its members, which is the defining characteristic of a clique pattern."
+}

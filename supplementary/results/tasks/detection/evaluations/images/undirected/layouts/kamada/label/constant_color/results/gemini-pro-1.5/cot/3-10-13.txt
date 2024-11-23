@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 12,
+  "analysis": "The graph has 10 white nodes labeled 0-9 and 12 black edges connecting them in a somewhat scattered arrangement.  It doesn't appear to be a specific type of graph like a complete graph or a tree. Node 1 is a central node connecting to many others."
+}
+```

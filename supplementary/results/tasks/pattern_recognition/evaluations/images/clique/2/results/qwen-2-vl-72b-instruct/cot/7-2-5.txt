@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": [2],
+   "analysis": "Both graphs in the image are fully interconnected without isolated nodes, forming a clique pattern. Each graph consists of nodes connected to each other, with no single nodes standing alone, fitting the definition of a clique."
+}
+```

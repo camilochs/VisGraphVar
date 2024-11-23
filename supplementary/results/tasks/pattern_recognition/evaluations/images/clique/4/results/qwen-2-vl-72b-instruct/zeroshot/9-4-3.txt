@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 4,
+   "analysis": "The graph contains four distinct groups of nodes where each group forms a clique. In each group, every node is connected to every other node within the group, forming a complete subgraph."
+}
+```

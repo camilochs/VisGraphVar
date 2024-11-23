@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [2],
+  "analysis": "The graph consists of two distinct connected components. In the first component, nodes 0, 1, 2, and 3 form a clique because every pair of nodes is connected by an edge. In the second component, the nodes 4, 5, 6, and 7 also form a clique due to the edges connecting every pair of these nodes."
+}
+```

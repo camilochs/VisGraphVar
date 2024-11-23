@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct clique patterns. Each component shows a group of nodes (one with nodes 0-4, and another with nodes 5-9) where most or all nodes are directly connected to each other, forming highly interconnected subgraphs characteristic of clique patterns. The dense connections between nodes within each component is a key identifier of clique structures."
+}

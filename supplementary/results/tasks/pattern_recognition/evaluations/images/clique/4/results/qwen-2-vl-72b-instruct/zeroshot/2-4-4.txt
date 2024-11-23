@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["cliq"],
+   "number_of_patterns": 4,
+   "analysis": "The graph contains four small clusters of nodes, where each cluster forms a complete subgraph (clique) with three nodes. Each node in a cluster is connected to every other node in the same cluster."
+}
+```

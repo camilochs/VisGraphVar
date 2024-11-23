@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [4],
+  "analysis": "The graph consists of four distinct sets of nodes (0-2, 3-5, 6-8, and 9-11), where the nodes within each set are fully connected. This fully connected structure within separate groups corresponds to cliques."
+}
+```

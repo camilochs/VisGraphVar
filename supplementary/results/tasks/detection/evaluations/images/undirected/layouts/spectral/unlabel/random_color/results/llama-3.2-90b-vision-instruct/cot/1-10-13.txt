@@ -1,0 +1,9 @@
+There is no attached image to analyze. Here is an example of what you can do when you provide the image:
+
+```json
+{
+   "total_nodes": 7,
+   "total_edges": 6,
+   "analysis": "The graph consists of 7 nodes, including 3 purple and 4 light-green colored nodes. The nodes are interconnected by 6 unique edges, which are all grey but one violet and one orange. The nodes and edges form a cluster at the left of the chart which is connected by a single vertical edge to a single light-blue node."   
+ }
+```

@@ -1,0 +1,7 @@
+```
+{
+   'pattern': ['clique'],
+   'number_of_patterns': [4],
+   'analysis': 'The graph consists of four fully connected subgraphs (or cliques), each containing three to five vertices that are all pairwise adjacent. No vertex in one subgraph is adjacent to any vertex in another subgraph, resulting in four distinct cliques.'
+}
+```

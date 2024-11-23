@@ -1,0 +1,5 @@
+{
+   "pattern": "chain",
+   "number_of_patterns": 4,
+   "analysis": "The graph contains 4 distinct chain patterns: (1) nodes 9-10-11 form a vertical chain, (2) nodes 2-1-0 form a horizontal chain, (3) nodes 8-7-6 form an angled chain, and (4) nodes 5-4-3 form a vertical chain with a slight angle. Each chain consists of nodes connected in a linear sequence where each node (except the endpoints) is connected to exactly two other nodes. None of the patterns show full interconnectivity (clique) or a central node with radiating connections (star). The chains vary in orientation but maintain the same basic linear structure."
+}

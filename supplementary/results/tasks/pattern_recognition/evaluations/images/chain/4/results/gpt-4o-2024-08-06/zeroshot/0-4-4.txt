@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "chain",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three chain patterns. Nodes are connected in a linear sequence without forming a closed loop. The first chain is formed by nodes 0, 1, 2, and 3. The second chain includes nodes 4, 5, 6, and 7. The third chain is made up of nodes 12, 13, 14, and 15. Additionally, branches from node 0 lead to nodes 9, 10, and 11, showing a branching pattern from the chain."
+}
+```

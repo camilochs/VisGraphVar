@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three distinct groups of nodes: (0, 1, 2), (3, 4, 5), and (6, 7, 8). Each group forms a perfect triangle where every node is directly connected to every other node in the group, indicating a fully interconnected pattern. This structure fits the definition of a 'clique.' There are no isolated nodes or hierarchical links, and clusters are separate, confirming three instances of the clique pattern."
+}
+```

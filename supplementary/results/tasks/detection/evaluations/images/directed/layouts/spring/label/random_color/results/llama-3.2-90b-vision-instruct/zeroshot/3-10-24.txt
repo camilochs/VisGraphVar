@@ -1,0 +1,42 @@
+**Step 1: Analyze the image and its details**
+
+*   The image appears to be a graph analysis. It contains nodes, represented by circles, as well as edges between them.
+
+**Step 2: Calculating Node**
+
+*   The graph contains the following number of nodes:
+    *   Black: 1 node
+    *   Green: 2 nodes
+    *   Tan (or brown): 1 node
+    *   Blue: 3 nodes
+    *   Grey: 1 node
+    *   Light blue: 1 node
+*   Each color has some but not all nodes that also have a number associated. That is, for black there is one numbered.
+    *   Node Black: 1 node with number
+    *   Node Green: 1 node with numbered
+    *   Node Tan: 1 node with number
+    *   Node Blue: 2 node with numbers
+    *   Node Grey: none
+    *   Node Light blue: 1 node with number
+*   For those that do not have an associate associated with them we will assign their name to be the associated number.
+
+**Step 3: Calculate number of edges**
+
+*   There are 14 edges in the graph.
+
+
+
+**Step 4: Calculate the JSON payload with the analysis information.**
+
+
+
+**Answer:**
+
+*   Below are the findings of the analysis 
+    ```json
+{
+   "total_nodes": 9,
+   "total_edges": 14,
+   "analysis": "8 nodes are colored while 1 node is not. There are 8 edges in total"
+}
+```

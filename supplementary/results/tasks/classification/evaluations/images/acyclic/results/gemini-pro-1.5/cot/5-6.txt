@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": "planar",
+  "analysis": "The image shows a planar graph because it can be drawn without any edge crossings.  It is not a complete graph as not all vertices are connected to each other. The graph is not bipartite because it cannot be divided into two sets where all edges connect only between the sets and not within the sets.  It is also not a tree, it contains cycles (a path from 0 to 1 to 3 to 2 and then back to 0). Because of the cycle it is, therefore, not acyclic.  It is not a mesh because the edges do not form a regular pattern or grid. Therefore, the most accurate classification is a planar graph."
+}
+```

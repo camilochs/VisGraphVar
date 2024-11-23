@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 4,
+   "analysis": "Each cluster in the graph contains a central node that is connected to all other nodes within the cluster, and no node outside the cluster. This structure is indicative of a 'clique', where all nodes are interconnected. There are four such clusters in the graph."
+}
+```

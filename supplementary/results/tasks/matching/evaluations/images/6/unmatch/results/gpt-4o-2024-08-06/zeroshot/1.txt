@@ -1,0 +1,6 @@
+```json
+{
+   "match": "yes",
+   "analysis": "Both graphs have six nodes labeled from 0 to 5, and their connections are identical. Graph 1 and Graph 2 both have the following edges: (0, 2), (1, 2), (2, 3), (2, 4), (3, 5). No weights are present in either graph."
+}
+```

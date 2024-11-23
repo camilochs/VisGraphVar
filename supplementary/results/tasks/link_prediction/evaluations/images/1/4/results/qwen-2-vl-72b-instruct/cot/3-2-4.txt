@@ -1,0 +1,10 @@
+```json
+{
+    "nodes_prediction": [2, 3],
+    "analysis": "Detailed step-by-step explanation of:
+    1. The structural patterns you identified: The graph has a small number of nodes with two distinct communities. Node 1 acts as a central node with high degree, connecting to nodes 2, 3, and 4. Node 2 has only one neighbor (node 1), and nodes 3 and 4 are connected to nodes 1 and themselves.
+    2. Why these specific nodes were selected: Nodes 2 and 3 were selected because they have the fewest common neighbors and are not directly connected. Adding an edge between them would help bridge the structural hole between these two communities.
+    3. How this connection fits the graph's topology: The new edge would create a more connected graph without disrupting the existing topology. It would integrate node 2 into the main cluster, enhancing the graph's overall connectivity.
+    4. The expected impact of adding this edge: The addition of this edge would likely improve the efficiency of information flow and connectivity within the graph. It would also strengthen the structure by bridging the gap between the communities."
+}
+```

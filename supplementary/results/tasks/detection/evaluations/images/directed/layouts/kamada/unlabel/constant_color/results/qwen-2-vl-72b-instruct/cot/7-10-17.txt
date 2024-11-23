@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 7,
+   "total_edges": 12,
+   "analysis": "The graph consists of 7 white nodes connected by 12 black edges, forming a interconnected network."
+}
+```

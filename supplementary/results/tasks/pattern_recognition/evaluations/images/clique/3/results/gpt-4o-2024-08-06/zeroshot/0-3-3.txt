@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "Each cluster in the graph forms a triangle, which is a simple form of a clique where every node is connected to every other node within the same cluster. There are three such clusters in the graph."
+}
+```

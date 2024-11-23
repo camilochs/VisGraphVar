@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [4],
+  "analysis": "The graph consists of four distinct clusters of nodes. Within each cluster, every node is connected to every other node in the same cluster. These fully connected subgraphs represent cliques. There are four such cliques present, forming the overall graph structure.  Each clique is isolated and not connected to any other clique."
+}
+```

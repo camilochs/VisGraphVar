@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct clusters of nodes. The first cluster, consisting of nodes 0, 1, 2, and 3, forms a fully interconnected group where each node is connected to every other node, indicating a 'clique' structure. Similarly, the second cluster with nodes 4, 5, 6, and 7 also forms a 'clique,' as all nodes within this group are fully connected without any isolated nodes."
+}
+```

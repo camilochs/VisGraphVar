@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate triangular structures (one with nodes 0,1,2 and another with nodes 3,4,5) where each node is connected to all other nodes within its respective group. This forms two distinct clique patterns, where each subgraph has complete connectivity between all its vertices."
+}

@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": [2],
+   "analysis": "The graph contains two distinct patterns, each identified as a clique. A clique is a subset of vertices in a graph where every pair of vertices is adjacent. In the graph, both patterns are fully connected subgroups of vertices indicating they are cliques."
+}
+```

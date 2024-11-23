@@ -1,0 +1,9 @@
+There is no image to analyze. However, here is a template you can use when given the image.
+
+```json
+{
+  "total_nodes": 0,
+  "total_edges": 0,
+  "analysis": "The graph's appearance is not available."
+}
+```

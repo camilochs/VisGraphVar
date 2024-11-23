@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "star",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three separate star patterns. Each central node (5, 0, and 10) connects to multiple surrounding nodes, forming a star shape. This indicates a central point with spokes extending outward, which is characteristic of the star pattern."
+}
+```

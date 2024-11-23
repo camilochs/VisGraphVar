@@ -1,0 +1,4 @@
+{
+   "type_graph": "mesh",
+   "analysis": "The image shows a mesh graph. It consists of a regular grid-like structure where each internal node is connected to its neighbors in a rectangular pattern, forming a 5x5 mesh network. The vertices are arranged in a regular grid pattern with horizontal and vertical connections between adjacent nodes."
+}

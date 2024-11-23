@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 20,
+  "analysis": "The graph consists of 10 white nodes arranged in two layers around a central square/rectangle. The outer layer has 6 nodes and the inner layer (square) has 4 nodes.  There are 20 black edges; each of the 6 outer nodes connects to all 4 inner nodes."
+}
+```

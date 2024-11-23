@@ -1,0 +1,15 @@
+Generate two prompts for graph matching using a Large Vision Model.  
+
+1. Zero-shot prompt: Ask the model to analyze the graph image without any prior examples or hints. The goal is to answer the question: Do these two graphs match?
+
+2. Chain-of-thought prompt: Ask the model to reason step by step through the process of identifying whether two graphs match. . The question remains: Do these two graphs match?
+
+The answer as to whether the two graphs coincide can be "yes" or "no".
+
+Expected output format (JSON example):
+```json
+{
+   "match": [answer],
+   "analysis": "[explain]."
+}
+```

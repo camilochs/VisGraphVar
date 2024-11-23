@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["chain"],
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct chain patterns. The first chain is formed by the nodes {1, 0, 2, 3} and the second chain by {6, 5, 8}. Each chain consists of nodes connected in a linear sequence."
+}
+```

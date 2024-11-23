@@ -1,0 +1,6 @@
+```json
+{
+  "match": "yes",
+  "analysis": "Both graphs have the same nodes and edges. Graph 1 uses a light blue color for the nodes and gray for the edges. Graph 2 uses light green nodes and orange edges. The structure and connections are identical."
+}
+```

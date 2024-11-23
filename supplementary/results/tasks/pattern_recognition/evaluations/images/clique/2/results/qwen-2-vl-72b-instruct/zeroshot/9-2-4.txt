@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "Both graphs consist of four vertices with all vertices interconnected to each other, which is characteristic of a clique. Cliques are complete subgraphs where every vertex is connected to every other vertex."
+}
+```

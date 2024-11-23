@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 20,
+   "analysis": "The graph consists of 10 nodes, each represented by a number within a colored circle. The nodes are colored differently. The graph has 20 edges, each connecting two nodes with a directional arrow indicating the flow or relationship between them."
+}
+```

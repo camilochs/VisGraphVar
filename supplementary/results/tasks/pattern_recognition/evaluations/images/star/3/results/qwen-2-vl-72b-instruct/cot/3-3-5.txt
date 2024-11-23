@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique", "star"],
+   "number_of_patterns": [7],
+   "analysis": "The graph consists of three distinct star patterns and four clique patterns. Each star pattern has one central node with connections to multiple peripheral nodes, while each clique pattern is a group of nodes where each node is connected to every other node within the group. There are no chain or ring patterns present in the image."
+}
+```

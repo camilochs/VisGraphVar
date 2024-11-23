@@ -1,0 +1,10 @@
+No image was provided. To complete this analysis, please provide the image to classify. We will then perform our analysis and give our response in the specified JSON format.
+
+In the absence of an image, a standard response will be provided to guide the process:
+
+```json
+{
+   "type_graph": "classification not possible",
+   "analysis": "No image was provided for evaluation; please provide the graph visualization to obtain its classification."
+}
+```

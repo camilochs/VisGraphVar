@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct groups of nodes where each node is connected to every other node within the same group, forming two cliques. Clique patterns are characterized by complete subgraphs, and there are no isolated nodes or distinct hubs as in chain or star patterns."
+}
+```

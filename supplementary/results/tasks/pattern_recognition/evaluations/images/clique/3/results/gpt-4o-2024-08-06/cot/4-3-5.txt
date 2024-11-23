@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph shows three distinct groups of nodes: [0, 1, 2, 3, 4], [5, 6, 7, 8, 9], and [10, 11, 12, 13, 14]. In each group, every node is connected to every other node, forming fully interconnected subgraphs. Since no node is isolated or central (as in a star) and there is no continuous sequence (as in a chain), the pattern is identified as a 'clique'. There are three instances of this pattern."
+}
+```

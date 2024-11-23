@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate clique patterns. Each clique consists of three nodes that are fully interconnected with each other. The first clique includes nodes 0, 1, and 2, where each node is connected to both other nodes in its group. The second clique includes nodes 3, 4, and 5, also showing full interconnection between all nodes in that group. This creates triangle-like structures where every node has a direct connection to every other node within its cluster, which is the defining characteristic of a clique pattern."
+}

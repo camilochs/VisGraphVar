@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph shows 4 separate groups where each node is connected to all other nodes within its group. Specifically, there are four triangular formations (nodes 1-2-0, nodes 3-4-5, nodes 6-7-8, and nodes 9-10-11) where each node has edges connecting it to the other two nodes in its group, forming complete subgraphs or cliques of size 3."
+}

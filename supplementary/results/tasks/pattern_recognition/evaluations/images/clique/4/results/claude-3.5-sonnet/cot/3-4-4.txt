@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph shows four distinct groups of nodes, and each group forms a clique pattern. Looking at each group: 1) Nodes 0-1-2-3 form a complete clique where each node is connected to all others in its group. 2) Nodes 4-5-6-7 form another clique with full interconnections. 3) Nodes 8-9-10-11 create a third clique with all nodes connected to each other. 4) Nodes 12-13-14-15 make up the fourth clique where each node has connections to all other nodes within its group. The layout clearly shows these four separate clusters, and within each cluster, the nodes are fully interconnected, which is the defining characteristic of a clique pattern."
+}

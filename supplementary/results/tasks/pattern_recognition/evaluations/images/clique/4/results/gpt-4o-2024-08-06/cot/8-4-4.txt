@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph contains four distinct groups of nodes. Each group forms a 'clique' as all nodes within each group are interconnected without any isolated nodes. The groups are located in separate clusters, and no central node connects these groups, confirming the clique structure."
+}
+```

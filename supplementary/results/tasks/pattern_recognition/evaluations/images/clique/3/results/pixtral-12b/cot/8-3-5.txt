@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['clique'],
+   'number_of_patterns': 3,
+   'analysis': 'The graph contains three clusters of fully interconnected nodes, which are characteristic of a clique. In a clique, every node is connected to every other node in the group.\n\nSteps to arrive at this conclusion:\n1. Identified distinct clusters: Three separate clusters were observed in the graph.\n2. Determined interconnections: Within each cluster, all nodes are directly connected to all other nodes.\n3. Counted cliques: There are three instances where each node within a cluster is connected to every other node in that cluster.\n4. Confirmed pattern: This fully interconnected structure without isolated nodes confirms the presence of cliques.'
+}
+```

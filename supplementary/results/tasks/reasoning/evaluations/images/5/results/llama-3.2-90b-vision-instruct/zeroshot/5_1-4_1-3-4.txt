@@ -1,0 +1,101 @@
+The following JavaScript application can be used to determine the shortest path based on Dijkstra’s algorithm.
+
+```javascript
+// Define a class to represent the graph.
+class Graph {
+  constructor() {
+    this.adjacencyList = {};
+  }
+
+  // Add a node to the graph.
+  addNode(node) {
+    this.adjacencyList[node] = {};
+  }
+
+  // Add an edge between two nodes in the graph.
+  addEdge(node1, node2, weight) {
+    if (this.adjacencyList[node1] && this.adjacencyList[node2]) {
+      this.adjacencyList[node1][node2] = weight;
+      this.adjacencyList[node2][node1] = weight; // Comment this line for directed graph.
+    }
+  }
+
+  // Dijkstra's algorithm to find the shortest path between two nodes.
+  dijkstra(startNode, endNode) {
+    const visited = {};
+    const unvisitedNodes = Object.keys(this.adjacencyList);
+    const shortestDistances = {};
+    const previousNodes = {};
+
+    // Initialize distances and previous nodes for all nodes.
+    for (const node of unvisitedNodes) {
+      if (node === startNode) {
+        shortestDistances[node] = 0;
+      } else {
+        shortestDistances[node] = Infinity;
+      }
+      previousNodes[node] = null;
+    }
+
+    while (unvisitedNodes.length > 0) {
+      let currentNode = null;
+      let minDistance = Infinity;
+
+      for (const node of unvisitedNodes) {
+        if (shortestDistances[node] < minDistance) {
+          minDistance = shortestDistances[node];
+          currentNode = node;
+        }
+      }
+
+      if (currentNode === null) {
+        break;
+      }
+
+      unvisitedNodes.splice(unvisitedNodes.indexOf(currentNode), 1);
+
+      for (const neighbor in this.adjacencyList[currentNode]) {
+        const distance = this.adjacencyList[currentNode][neighbor];
+        const tentativeDistance = shortestDistances[currentNode] + distance;
+        if (tentativeDistance < shortestDistances[neighbor]) {
+          shortestDistances[neighbor] = tentativeDistance;
+          previousNodes[neighbor] = currentNode;
+        }
+      }
+    }
+
+    // Build the shortest path by backtracking from the end node to the start node.
+    const shortestPath = [];
+    let currentNode = endNode;
+    while (currentNode !== null) {
+      shortestPath.unshift(currentNode);
+      currentNode = previousNodes[currentNode];
+    }
+
+    return shortestPath;
+  }
+}
+
+// Create a new graph and add nodes and edges.
+const graph = new Graph();
+graph.addNode("1");
+graph.addNode("2");
+graph.addNode("3");
+graph.addNode("4");
+graph.addNode("0");
+graph.addEdge("1", "2", 2);
+graph.addEdge("2", "4", 4);
+graph.addEdge("2", "3", 8);
+graph.addEdge("1", "3", 1);
+graph.addEdge("1", "0", 0);
+graph.addEdge("3", "0", 9);
+
+// Find the shortest path from node "1" to node "4".
+const shortestPath = graph.dijkstra("1", "4");
+
+// Print the shortest path and other details in the required JSON format.
+console.log(JSON.stringify({
+  "shortest_path": shortestPath,
+  "analysis": "The shortest path from node 1 to node 4 is determined using Dijkstra's algorithm. The path with the minimum total weight is selected. In this graph, the shortest path is from node 1 directly to node 2, then node 4, with a total path weight of 6."
+}));
+```

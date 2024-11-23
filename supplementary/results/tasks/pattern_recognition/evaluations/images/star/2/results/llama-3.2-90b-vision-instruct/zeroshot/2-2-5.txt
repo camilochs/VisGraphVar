@@ -1,0 +1,30 @@
+**Pattern Analysis**
+
+To identify the pattern in the graph, we need to examine its structure.
+
+**Step 1: Identifying the Graph Structure**
+
+The graph appears to be a disjoint graph because the vertices are split into separate, internally connected sets of vertices. Since this is a general format, we will use it to derive our pattern analysis. 
+
+**Step 2: Sequence Identification**
+
+Upon examining the graph, we find the following sequences:
+
+*   (0, 1, 0, 2)
+*   (9, 5, 7, 9)
+
+**Step 3: Pattern Derivation**
+
+After analyzing the graphs, we notice that both are stars. The first star has the center vertex labeled by '0' with two stars hanging. The second star has the center vertex labeled by '0' with three stars hanging.
+
+**Step 4: Pattern in the Entire Graph**
+
+We can see there is more than one pattern. Given all the edge graphs are stars, we see there are two 
+
+```json
+{
+    'pattern': ['star'],
+    'number_of_patterns': [6],
+    'analysis': 'From step 2 and step 3, we see both the center vertex and the vertex in its hanging branches have a path of length 1. Hence, they are of pattern "star" according to the given definition and from step 4, there are two "star" patterns.'
+}
+```

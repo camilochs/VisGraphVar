@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["chain"],
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct clusters: [0, 1, 2] and [3, 4, 5]. Both clusters display a linear structure where nodes are interconnected in a continuous sequence, which is characteristic of a chain pattern."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 5,
+   "analysis": "Each group of nodes in the graph is fully interconnected without isolated nodes, forming a complete subgraph known as a clique. There are 5 distinct clusters, each representing a clique."
+}
+```

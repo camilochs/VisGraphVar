@@ -1,0 +1,9 @@
+Based on the image you've described, I would reply:
+
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph seems to contain two patterns which look nothing like a 'chain' or 'star' pattern, where all the nodes seem to be connected to one another."
+}
+```

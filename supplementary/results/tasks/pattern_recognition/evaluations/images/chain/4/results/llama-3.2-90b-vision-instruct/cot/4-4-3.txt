@@ -1,0 +1,24 @@
+The pattern in the graph is a clique.
+
+**Number of Patterns:**
+There are 4 instances of cliques in the graph.
+
+**Explanation:**
+To determine the pattern type, we analyzed the graph based on the given steps:
+
+* The graph consists of several nodes connected by edges, forming clusters.
+* We identified distinct clusters, groups, or links: (6,7,8), (1,0,2), (3,4,5), and (9,10,11).
+* Each cluster contains nodes interconnected without isolated nodes, characteristic of a clique pattern.
+* No chains or stars are visible in the graph, as there are no continuous sequences or central nodes with surrounding peripheral nodes.
+* Therefore, the pattern type is a clique, and there are 4 instances of this pattern in the graph.
+
+**Answer:**
+
+```json
+{
+   'pattern': ['clique'],
+   'number_of_patterns': 4,
+   'analysis': 'The graph consists of several nodes connected by edges, forming clusters. Each cluster contains nodes interconnected without isolated nodes, characteristic of a clique pattern. No chains or stars are visible in the graph, as there are no continuous sequences or central nodes with surrounding peripheral nodes. Therefore, the pattern type is a clique, and there are 4 instances of this pattern in the graph.'
+}
+```
+ getMaxValueOfQagraph()

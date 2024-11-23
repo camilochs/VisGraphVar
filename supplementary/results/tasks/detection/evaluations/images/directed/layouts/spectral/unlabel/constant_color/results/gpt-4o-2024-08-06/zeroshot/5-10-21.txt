@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 15,
+   "analysis": "The graph is a directed graph with nodes and edges in black. All nodes are represented with circles, and arrows indicate the direction of the edges. The nodes are interconnected with varying edge directions, forming a complex network."
+}
+```

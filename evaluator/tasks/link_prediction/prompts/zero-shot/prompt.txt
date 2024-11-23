@@ -1,0 +1,9 @@
+Given the graph image before you, analyze its structure and topology. Based on the existing connection patterns and node relationships, identify two currently unconnected nodes that should logically be connected with an edge. Consider the graph's natural organizational principles and structural patterns.
+
+Your response should be formatted as a JSON object with the following structure:
+```json
+{
+    "nodes_prediction": [node1, node2],
+    "analysis": "Brief explanation of why these nodes should be connected based on the graph's structure."
+}
+```

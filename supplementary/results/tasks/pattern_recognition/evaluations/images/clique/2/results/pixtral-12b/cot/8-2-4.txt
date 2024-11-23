@@ -1,0 +1,10 @@
+```json
+{
+   "pattern": ["星形图"],
+   "number_of_patterns": 2,
+   "analysis": "1. The graph consists of two distinct clusters of nodes, which indicates that there are two separate subgraphs with their own sets of interconnected nodes.\n   
+   2. On the left, node 0 acts as a central node connected to nodes 1, 2, and 3, forming a star-like pattern. Nodes 1, 2, and 3 are peripheral and directly connected to the central node 0.\n   
+   3. On the right, node 7 acts as a central node connected to nodes 4, 5, and 6 in a similar star-like pattern. Nodes 4, 5, and 6 are peripheral and directly connected to the central node 7.\n   
+   4. Therefore, the identified pattern type in both subgraphs is a star pattern (星形图), where one node is central, and other nodes are connected to it."
+}
+```

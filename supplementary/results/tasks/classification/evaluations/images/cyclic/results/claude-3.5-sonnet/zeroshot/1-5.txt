@@ -1,0 +1,4 @@
+{
+   "type_graph": "cyclic",
+   "analysis": "The image shows a cyclic graph. The graph contains vertices numbered 0 through 5, with directed edges forming at least one cycle. For example, you can trace a cycle following the path 0 → 3 → 2 → 1 → 0. The presence of this cycle makes it a cyclic graph."
+}

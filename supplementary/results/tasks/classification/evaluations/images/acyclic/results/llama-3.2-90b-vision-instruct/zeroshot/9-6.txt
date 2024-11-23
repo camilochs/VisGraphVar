@@ -1,0 +1,3 @@
+Here is the analysis of the image in the requested JSON format:
+
+`{"type_graph": "tree", "analysis": "The image shows a tree graph."}`

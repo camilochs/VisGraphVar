@@ -1,0 +1,7 @@
+```json
+{
+  'pattern': 'clique',
+  'number_of_patterns': 1,
+  'analysis': 'No isolated nodes were identified but every node is connected in a complete subgraph.'
+}
+```

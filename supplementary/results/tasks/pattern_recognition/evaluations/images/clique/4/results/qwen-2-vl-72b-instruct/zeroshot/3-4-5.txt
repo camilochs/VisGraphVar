@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph contains four distinct clusters (cliques) of nodes, each with nodes connected to each other. The connections indicate a clique pattern, where each node is directly connected to every other node within the same cluster."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [3],
+  "analysis": "The graph contains three distinct sets of interconnected nodes where every node within each set is directly connected to every other node in the same set. These sets represent cliques. Specifically, nodes 0-4 form one clique, nodes 5-9 form another, and nodes 10-14 form a third."
+}
+```

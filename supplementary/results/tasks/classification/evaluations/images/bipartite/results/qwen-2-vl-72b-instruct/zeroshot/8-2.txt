@@ -1,0 +1,6 @@
+```json
+{
+   "type_graph": "bipartite",
+   "analysis": "The image shows a bipartite graph."
+}
+```

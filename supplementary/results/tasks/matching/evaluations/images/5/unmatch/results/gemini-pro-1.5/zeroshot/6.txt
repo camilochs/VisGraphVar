@@ -1,0 +1,6 @@
+```json
+{
+  "match": "no",
+  "analysis": "Graph 1 is a linear path with nodes 2, 3, 4, and 0 connected sequentially. Graph 2 has nodes 1, 0, 4, and 3 connected sequentially in a path, along with two isolated nodes 1 and 2.  The node order and the connections don't match, and graph 2 has additional nodes."
+}
+```

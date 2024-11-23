@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 3,
+  "total_edges": 2,
+  "analysis": "The graph consists of three nodes (two black and one white) connected by two edges (white). The nodes are not connected to each other, forming two separate components."
+}
+```

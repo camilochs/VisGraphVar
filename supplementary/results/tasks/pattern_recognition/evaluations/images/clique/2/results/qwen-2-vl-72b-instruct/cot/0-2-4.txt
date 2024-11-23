@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct clusters, each forming a clique (fully interconnected network without any isolated nodes). The first cluster, on the left, consists of nodes 5, 6, 7, and 0, where each node is connected to every other node within the cluster. The second cluster, on the right, includes nodes 0, 1, 2, and 3, again with full connectivity among the nodes. This structure clearly indicates the presence of cliques rather than chains or stars."
+}
+```

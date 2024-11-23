@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate subgraphs, each forming a clique pattern. The first clique consists of nodes 4, 5, 6, and 7, where each node is connected to every other node in the group. The second clique is made up of nodes 0, 1, 2, and 3, also with each node connected to all others in its group. Both structures demonstrate the defining characteristic of a clique pattern: complete interconnectivity between all nodes within each group. Neither subgraph shows the linear sequence of a chain or the centralized structure of a star pattern."
+}

@@ -1,0 +1,6 @@
+```json
+{
+   "type_graph": "tree",
+   "analysis": "The image shows a tree graph. This classification is determined by the hierarchical structure, with clearly defined root, branches, and leaves, and lacks any cycles."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph has four distinct clusters located at different corners of the image. Each cluster contains three nodes that are fully interconnected with each other, forming a triangle shape. This fully interconnected structure within each cluster identifies them as 'cliques.' There are no isolated or additional connections between these clusters, confirming the pattern type."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 20,
+   "analysis": "The graph is a directed network with 10 nodes, each represented by a circle with a number label. There are 20 edges, which are arrows connecting the nodes. The nodes and edges are black and the edges include both single and bi-directional connections between the nodes."
+}
+```

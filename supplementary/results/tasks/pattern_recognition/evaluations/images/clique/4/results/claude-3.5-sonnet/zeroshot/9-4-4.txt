@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph contains 4 distinct cliques where each node in a group is connected to every other node in that same group. These cliques are: (0,1,2,3), (4,5,6,7), (8,9,10,11), and (12,13,14,15). Each clique appears to be a complete subgraph where every vertex is connected to every other vertex within its group."
+}

@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "The graph consists of two distinct groups of nodes that are fully interconnected, forming two 'cliques.' Each clique is a group of nodes where every node is connected to every other node within the group. There are no isolated nodes or chains outside these cliques."
+}
+```

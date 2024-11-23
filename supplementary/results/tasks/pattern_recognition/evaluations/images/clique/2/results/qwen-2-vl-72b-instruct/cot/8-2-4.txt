@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['clique'],
+   'number_of_patterns': 2,
+   'analysis': 'The graph consists of two distinct clusters, each fully interconnected without any isolated nodes. The first cluster includes nodes 0, 1, 2, and 3, and the second cluster includes nodes 4, 5, 6, and 7. Each node within these clusters is connected to every other node within the same cluster, forming two cliques.'
+}
+```

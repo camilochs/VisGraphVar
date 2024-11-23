@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": ["planar"],
+  "analysis": "The image shows a planar graph.  It can be drawn on a plane without any edges crossing. It is not acyclic, as there exists a cycle (e.g. 0,1,2,0).  It is not bipartite since the cycle (0,1,2,0) has odd length.  It is not complete as not every pair of vertices has an edge between them. It is cyclic as highlighted above.  It is not a mesh (a spatial discretization of a mathematical space - if anything, it's 1-dimensional). Finally, it's not a tree, again as highlighted above."
+}
+```

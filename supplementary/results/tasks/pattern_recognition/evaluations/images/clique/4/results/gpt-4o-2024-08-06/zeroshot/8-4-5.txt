@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 5,
+   "analysis": "The graph contains several complete subgraphs (cliques) where every node is connected to every other node in the subgroup. There are five such cliques, each consisting of nodes connected to each other, distinct in different regions of the graph."
+}
+```

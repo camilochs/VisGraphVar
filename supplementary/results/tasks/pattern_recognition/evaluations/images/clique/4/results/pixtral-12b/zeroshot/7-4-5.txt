@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ["clique"],
+   'number_of_patterns': [4],
+   'analysis': "The graph consists of four distinct cliques, each containing a set of points that are all connected to each other. No two points within the same clique are connected to points outside of the clique. Cliques generally represent a scenario where all elements are fully interconnected."
+}
+```

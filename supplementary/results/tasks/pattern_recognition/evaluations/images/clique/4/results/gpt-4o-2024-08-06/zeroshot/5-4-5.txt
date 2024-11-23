@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 5,
+   "analysis": "Each group of connected nodes forms a complete subgraph, or clique, where every node is connected to every other node in the group. There are five such groups in the image (nodes 1-4, 5-9, 10-14, 15-19)."
+}
+```

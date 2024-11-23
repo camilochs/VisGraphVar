@@ -1,0 +1,6 @@
+```json
+{
+   "match": "no",
+   "analysis": "Graph 1 has nodes 0, 1, 2, and 3, with an edge between nodes 1 and 2. Graph 2 has nodes 0, 1, 2, and 3, with an edge between nodes 2 and 3. The graphs have different node connections."
+}
+```

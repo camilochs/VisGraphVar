@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph shows three distinct sets of fully interconnected nodes (cliques). The first clique consists of nodes 0-4, the second clique contains nodes 5-9, and the third clique includes nodes 10-14. In each group, every node is connected to every other node within its group, forming complete subgraphs. This creates a dense, highly interconnected structure within each cluster, which is characteristic of clique patterns. The three cliques are separate from each other with no connections between them, making them easily identifiable as independent clique structures."
+}

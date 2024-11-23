@@ -1,0 +1,6 @@
+```json
+{
+   "shortest_path": ["0", "1"],
+   "analysis": "From node 1, there are two direct paths to node 5 with weights of 15 and 20. The smallest weight path is chosen, which is 1. Therefore, the shortest path from node 1 to node 5 is [1, 5]."
+}
+```

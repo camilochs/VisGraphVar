@@ -1,0 +1,6 @@
+```json
+{
+  "match": "yes",
+  "analysis": "Both graphs have 5 nodes labeled 0 to 4. \nGraph 1:\n- Node 0 connects to 3 and 4.\n- Node 1 connects to 3.\n- Node 2 connects to 3 and 4.\n- Node 3 connects to 0, 1, and 2.\n- Node 4 connects to 0 and 2.\nGraph 2:\n- Node 0 connects to 1 and 3.\n- Node 1 connects to 0 and 4.\n- Node 2 connects to 4.\n- Node 3 connects to 0 and 4.\n- Node 4 connects to 1, 2, and 3.\n\nBy visualizing the rotation and reflection of Graph 1, we can confirm the connections match Graph 2. Though represented differently, they maintain isomorphic properties."
+}
+```

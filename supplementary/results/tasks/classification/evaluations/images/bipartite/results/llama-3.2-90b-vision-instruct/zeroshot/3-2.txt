@@ -1,0 +1,12 @@
+I'd be happy to help you with that. Since I cannot visually see the graph, please provide me with some information so I can recreate the image and continue with my analysis.
+
+
+Here's the JSON response with some helpful hints:
+
+
+```json
+{
+   "type_graph": "Provide more information",
+   "analysis": "Please provide me with a list of the nodes and edges used in your graph. I will then analyze the information and give the proper classification."
+}
+```

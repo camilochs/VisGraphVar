@@ -1,0 +1,9 @@
+To determine if these two graphs match, analyze each graph component by component. Start by comparing the node counts and labels, then evaluate each connection or edge, including any weights. If all elements align, conclude they match; otherwise, indicate they do not. Provide a response in JSON format with 'yes' or 'no' and a step-by-step analysis.
+
+Expected output format:
+```json
+{
+   "match": "yes" or "no",
+   "analysis": "Step-by-step explanation of each element compared and why the final decision was reached."
+}
+```

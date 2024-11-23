@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["chain"],
+  "number_of_patterns": [3],
+  "analysis": "The graph consists of three distinct chain patterns. A chain pattern is a sequence of nodes where each node is connected to the next one in the sequence. The chains present are 0-1-2-3, 4-5-6-7, and 8-9-10-11.  An additional small chain 12-13-14-15 exists."
+}
+```

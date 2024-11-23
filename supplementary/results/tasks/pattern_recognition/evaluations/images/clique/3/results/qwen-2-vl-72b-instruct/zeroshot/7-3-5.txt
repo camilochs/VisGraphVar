@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['clique'],
+   'number_of_patterns': 3,
+   'analysis': 'The graph contains three distinct patterns where each pattern consists of a central node connected to other nodes around it, with the outer nodes forming a partial cycle around the central node. This structure resembles a clique pattern.'
+}
+```

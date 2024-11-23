@@ -1,0 +1,23 @@
+**Step 1: Identify and count the nodes.**
+
+The nodes of a graph are the points, in which meet with the edges.  There are nine visualable points at which edges are connected in the provided image.
+
+**Step 2: Count the visible edges in the graph.**
+
+The edges are represented as visible lines connect to multiple nodes. There are 12 visible edges in the image. 
+
+**Step 3: Provide a description of expected results, including any specific node or edge colors**
+
+A graph usually has nodes and edges. *i.e. connected points*. The complexity of this graph is represented by diverse colors, used for nodes and edges as well. The nodes are represented in Plex, Olive, Slate, Violet, Maroon, Onyx, Sal, Tawney, Puce, as well as the edges which all hold the same color throughout.
+
+**Step 4: Combine all calculations into a JSON result.**
+
+Here is the response: 
+
+```json
+    {
+    	"total_nodes": 9,
+    	"total_edges": 12, 
+    	"analysis": "A graph containing (9) nodes at various colored nodes, connected by lines including (12) edges. All edges hold the same color throughout." 
+    }
+```

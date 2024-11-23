@@ -1,0 +1,74 @@
+**Step 1: Identifying nodes and their numbers**
+
+There are 19 labeled nodes spread out among a large number scattered on the image. This spread is approximately four times as big as the labeled nodes.  Assuming the smaller number is consistent in the image across as a group of 5
+
+• 1, 2, 3 in a green colour code
+• 4 is a small grey circle at the top
+• 5 is a medium grey, above 4 
+• 6 is a large magenta up
+• 7 is large chocolate circle next in a line moving towards the bottom of the image
+• 8 a small turquoise circle next on the line.
+• 0 is in a medium turquoise circle.  This is positioned slightly lower than 4 but roughly in a line between 7 and 8.
+
+There are 4 large dark grey nodes in the middle of the image.
+
+The next group, in the un-labelled nodes are: 
+
+- small green x 3 between 2 and 3 
+
+- small dark grey x5 scattered but positioned around 5 
+
+- small turquoise x2 spaced between 8 and 0 
+
+- small white x4 scattered among the entire image.
+
+
+
+There are four large un-labelled grey nodes near the middle the image is a group of 4.
+
+
+
+**Step 2: Determining edge count and drawing conclusions**
+
+Edge counting appears to be very hard in this situation.
+
+
+
+* 4 edges connect between all nodes of the grey un-labelled group in the middle
+* all the small white are connected within themselves
+* all the small un-labeled grey nodes connect
+* all the small un-labelled turquoise nodes connect
+* all the small un-labeled green nodes connect
+
+
+
+* Node 9, 8, 7, 6, 5 and node 4 has the edge between them all 
+* all the un-labeled small number connect to 4
+* all the un-labelled small green number connect to 1
+* all turqoise number connect to 0
+* all small grey nodes connect to 5
+* 2 and 3 have 1 edge in between
+
+
+
+The total count is 56 edges
+
+
+
+Conclusion:
+
+The graph contains a total of 92 nodes and 56 edges. The image has been depicted nicely in different node color schemes such green, grey, chocolate, and turquoise. The image is a graphical depiction of connection between different nodes and is therefore termed as a "graph",  a major subject of study in "Discrete Mathematics". This graph type is commonly used in computer science and operations research and therefore termed as a "flow network". The labeled nodes could be a depiction of the "source" or "sink" or "capacity" of the graph depicted in different colors. The unlabeled nodes could be simple connection point.
+
+
+
+```json
+{
+
+    "total_nodes": 92,
+
+    "total_edges": 56,
+
+    "analysis": "The image contains different graph nodes varying in size and are spread approx. between 4 - 5 times, and these have been nicely grouped into different colors such as, grey, green, turquoise and chocolate"
+
+}
+```

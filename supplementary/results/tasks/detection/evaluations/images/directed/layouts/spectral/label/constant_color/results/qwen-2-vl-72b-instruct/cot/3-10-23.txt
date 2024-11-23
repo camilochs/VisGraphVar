@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 21,
+   "analysis": "The graph is a directed graph with 10 nodes and 21 edges. The nodes are colored white with black labels, and the edges are black with arrowheads indicating directionality. There is a dense cluster of nodes (1, 3, 5, 6, 7, 8, 9) with multiple connections between them, and two isolated nodes (0 and 2) that connect to the cluster."
+}
+```

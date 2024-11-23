@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 18,
+  "analysis": "The graph consists of 10 white nodes and 18 black directed edges connecting them. The graph appears to be sparsely connected but contains cycles. The white circles within each node indicate they are empty or not filled with any specific color."
+}
+```

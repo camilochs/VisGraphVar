@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 20,
+  "analysis": "The graph consists of 10 white nodes connected by 20 black edges. One node is isolated. Eight nodes form an outer ring, with edges connecting each node to several other nodes in the ring. The remaining node is positioned more centrally, having several edges directed both towards and away from it. Edges are directed, indicating directionality between connected nodes."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 5,
+   "analysis": "The graph image contains multiple small groups of nodes where each node is connected to every other node within the group, forming complete graphs or cliques. Each clique contains four nodes."
+}
+```

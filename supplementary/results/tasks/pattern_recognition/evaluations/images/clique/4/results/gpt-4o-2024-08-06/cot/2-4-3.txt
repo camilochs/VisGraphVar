@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph displays four distinct groups of nodes. Each group consists of three nodes that are fully interconnected with each other, forming a complete graph or a 'clique'. No nodes are isolated, and there are no central nodes with peripheral nodes or linear sequences, which rules out 'star' and 'chain' patterns."
+}
+```

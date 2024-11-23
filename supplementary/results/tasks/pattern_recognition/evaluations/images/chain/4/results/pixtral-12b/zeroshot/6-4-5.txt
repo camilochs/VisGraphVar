@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['chain'],
+   'number_of_patterns': [3],
+   'analysis': 'The graph contains three distinct chain patterns. The first chain consists of nodes labeled from 5 to 9, forming a linear sequence. The second chain, composed of nodes from 10 to 14, also follows a straight sequence. The third chain includes nodes from 15 to 19, arranged in a consecutive linear manner. No other significant patterns such as cliques or stars are present.'
+}
+```

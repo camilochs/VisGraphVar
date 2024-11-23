@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph shows four distinct groups where each node is connected to every other node within its group. These are cliques of size 4-5 nodes each: one group with nodes 1-4, another with nodes 6-9, a third with nodes 11-14, and a fourth with nodes 15-19. Each subgraph demonstrates complete connectivity between its members, which is the defining characteristic of a clique pattern."
+}

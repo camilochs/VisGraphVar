@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["chain"],
+  "number_of_patterns": [3],
+  "analysis": "Three separate sets of nodes are connected in a linear sequence. Each node in a chain is connected to at most two other nodes. There are no cycles or central nodes."
+}
+```

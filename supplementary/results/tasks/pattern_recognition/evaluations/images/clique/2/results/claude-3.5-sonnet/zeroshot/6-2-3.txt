@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate clique patterns. Each component has three nodes (nodes 0,1,2 and nodes 3,4,5) where every node is connected to every other node within its component, forming triangular structures. This complete interconnection within each component is characteristic of clique patterns."
+}

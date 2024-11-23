@@ -1,0 +1,5 @@
+{
+    "pattern": "clique",
+    "number_of_patterns": 4,
+    "analysis": "The graph contains 4 distinct clique patterns where each node in a group is connected to every other node in that same group. These can be seen in the groups (0,1,2), (3,4,5), (6,7,8), and (9,10,11). Each clique consists of 3 nodes with all possible edges between them forming triangular structures."
+}

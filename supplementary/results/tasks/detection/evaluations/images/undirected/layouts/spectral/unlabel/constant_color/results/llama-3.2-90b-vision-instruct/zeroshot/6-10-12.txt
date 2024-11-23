@@ -1,0 +1,17 @@
+**Step 1: Identify the nodes present on the graph**
+
+There are seven nodes. Six of them appear to the left of the graph as a straight line, being relatively equally spaced from each other. The seventh node is to the top-right of the graph.  
+
+**Step 2: Identify the edges present on the graph**
+
+There are eight edges, Each of the seven nodes shares at least one edge with another node. Each of the six nodes on the left line shares an edge with the nodes to their adjacent sides with no crossovers in between any edges. The seventh node shares an edge with the rightmost node on the left line of nodes in the graph.  
+
+**Step 3 Combine information on edges and nodes**
+
+```json
+{
+   "total_nodes": 7,
+   "total_edges": 8,
+   "analysis":  "There are seven nodes and eight edges. All the nodes share a black edge with each adjacent node, while all the nodes are black dots"
+}
+```

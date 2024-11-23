@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 22,
+  "analysis": "The graph has 10 white nodes and 22 black edges connecting them in a somewhat irregular pattern.  It appears to be a bipartite graph with 4 nodes more densely connected to 6 other nodes."
+}
+```

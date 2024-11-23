@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "star",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three star patterns. In each pattern, there is one central node connected to several outer nodes, which do not connect to each other. For example, nodes 0, 5, and 10 serve as the centers in their respective star structures."
+}
+```

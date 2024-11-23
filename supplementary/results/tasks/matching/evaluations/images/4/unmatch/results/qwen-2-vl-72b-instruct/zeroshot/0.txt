@@ -1,0 +1,6 @@
+```json
+{
+   "match": "no",
+   "analysis": "The two graphs have different structures. Graph 1 has three nodes connected in a triangular pattern, while Graph 2 has a linear structure with three nodes. The connections between the nodes are also different. Therefore, the two graphs do not match."
+}
+```

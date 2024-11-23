@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "There are four distinct clusters in the graph. Each cluster is fully interconnected, meaning every node in a cluster is connected to every other node in the same cluster. This structure matches the definition of a 'clique'. Cluster 1 includes nodes 0, 1, 2, 3, 4. Cluster 2 includes nodes 5, 6, 7, 8, 9. Cluster 3 includes nodes 10, 11, 12, 13, 14. Cluster 4 includes nodes 15, 16, 17, 18, 19. There are no isolated nodes or central nodes indicating other types of patterns."
+}
+```

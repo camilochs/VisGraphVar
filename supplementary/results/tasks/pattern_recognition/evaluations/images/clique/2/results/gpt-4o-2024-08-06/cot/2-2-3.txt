@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct groups of nodes. The first group consists of nodes 0, 1, and 2; each node is directly connected to every other node, forming a fully interconnected subgraph (a clique). The second group consists of nodes 3, 4, and 5, which are also fully interconnected without any isolated nodes, forming a second clique. There are no central nodes with exclusively peripheral nodes forming a star pattern, nor are there nodes arranged in a continuous sequence as in a chain."
+}
+```

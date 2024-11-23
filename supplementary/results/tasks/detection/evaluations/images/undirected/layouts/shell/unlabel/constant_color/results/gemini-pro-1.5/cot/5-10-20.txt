@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 16,
+  "analysis": "The graph is a bipartite graph with two sets of 5 nodes.  All nodes are white circles, and all edges are black lines. Each node in the first set is connected to four nodes in the second set, and vice-versa."
+}
+```

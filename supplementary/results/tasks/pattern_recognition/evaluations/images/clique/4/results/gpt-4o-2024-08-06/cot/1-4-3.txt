@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph contains four distinct groups of nodes. Each group forms a triangle, indicating that every node within a group is interconnected with every other node, which defines a 'clique' pattern. There are no isolated nodes or central nodes with only surrounding peripheral nodes. The groups are as follows: {0, 1, 2}, {3, 4, 5}, {6, 7, 8}, and {9, 10, 11}. Each group exhibits full interconnection among its nodes characteristic of a clique pattern."
+}
+```

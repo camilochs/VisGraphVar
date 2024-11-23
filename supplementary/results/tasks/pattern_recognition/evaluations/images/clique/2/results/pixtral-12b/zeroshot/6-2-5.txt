@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['clique', 'clique'],
+   'number_of_patterns': 2,
+   'analysis': 'The graph contains two distinct patterns identified as cliques. A clique refers to a subgroup of nodes where every node in the subgroup is connected to every other node. The first pattern consists of five nodes labeled 5, 6, 7, 8, and 9, all of which are densely interconnected. The second pattern includes four nodes labeled 0, 1, 2, and 3, also densely interconnected with various connection paths among them.'
+}
+```

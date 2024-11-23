@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["chain"],
+   "number_of_patterns": 5,
+   "analysis": "The graph contains five separate chains, which are a series of nodes connected in a straight line. There are no cliques or star patterns present."
+}
+```

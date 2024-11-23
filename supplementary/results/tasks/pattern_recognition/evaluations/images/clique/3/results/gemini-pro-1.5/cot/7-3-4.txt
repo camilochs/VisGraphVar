@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [3],
+  "analysis": "The graph consists of three separate clusters of nodes.  Within each cluster, every node is directly connected to every other node in that same cluster. This fully interconnected characteristic within each distinct group defines them as cliques. There are three such cliques present in the image."
+}
+```

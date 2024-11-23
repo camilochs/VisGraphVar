@@ -1,0 +1,10 @@
+```json
+{
+   "pattern": ["chain"],
+   "number_of_patterns": 2,
+   "analysis": "The graph consists of two distinct sequences of nodes, each arranged linearly. This linear arrangement indicates that they are لط队链 patterns. 
+                1. In the upper sequence, the nodes (4-5-6-7) are connected in a linear manner.
+                2. In the lower sequence, the nodes (0-1-2-3) are also connected linearly. 
+                Both sequences satisfy the requirement of a 'chain' pattern where each node is connected to only two other nodes (except the endpoints)."
+}
+```

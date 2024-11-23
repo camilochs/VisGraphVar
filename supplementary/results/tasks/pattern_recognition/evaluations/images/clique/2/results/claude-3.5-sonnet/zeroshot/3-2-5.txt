@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph shows two separate components, each containing a clique pattern. In both components, all vertices are connected to each other, forming complete subgraphs. The first clique involves nodes 0,1,2,3,4, and the second clique involves nodes 5,6,7,8,9, where each node has edges connecting it to all other nodes within its respective component."
+}

@@ -1,0 +1,6 @@
+```json
+{
+  "match": "yes",
+  "analysis": "Both graphs have the same connections between nodes: 0-4, 1-3, 2-3, 2-4, and 3-0.  Although the layout and colors differ, the underlying structure is identical.  The graph is the same if we rotate one of the graphs and change the colors of nodes and edges."
+}
+```

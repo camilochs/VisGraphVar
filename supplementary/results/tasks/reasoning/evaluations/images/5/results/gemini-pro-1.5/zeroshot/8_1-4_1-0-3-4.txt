@@ -1,0 +1,6 @@
+```json
+{
+  "shortest_path": ["1", "4"],
+  "analysis": "The shortest path between nodes 1 and 4 is the direct edge connecting them, with a weight of 5.  There are no other paths with a shorter total weight. Although node 0 and 3 connects both node 4 and node 1, travelling those connecting paths is longer than the shortest path shown."
+}
+```

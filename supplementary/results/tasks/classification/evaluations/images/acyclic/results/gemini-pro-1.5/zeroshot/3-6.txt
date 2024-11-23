@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": ["cyclic", "planar"],
+  "analysis": "The image shows a cyclic and planar graph. It is cyclic because it contains a cycle (0 -> 1 -> 3 -> 2 -> 0). It is planar because it can be drawn on a plane without any edges crossing. It is not acyclic because it has a cycle. It is not bipartite because it has an odd cycle. It is not complete because not every pair of vertices has an edge. It is not a mesh because not every node connects to every node. It is not a tree because it contains a cycle."
+}
+```

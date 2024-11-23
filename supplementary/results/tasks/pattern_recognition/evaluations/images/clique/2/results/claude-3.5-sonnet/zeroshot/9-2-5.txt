@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate subgraphs, each forming a clique pattern. In both clusters, all vertices are connected to each other with edges, forming complete subgraphs. The first clique involves nodes 0,1,2,3,4 and the second clique consists of nodes 5,6,7,8,9. This dense interconnection where every node is connected to every other node within its cluster is characteristic of a clique pattern."
+}

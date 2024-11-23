@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct clusters where each node is connected to every other node in the cluster. Each cluster forms a complete graph, also known as a clique. The first clique consists of nodes 0, 1, 2, and 3, while the second clique consists of nodes 4, 5, 6, and 7. There are no isolated nodes or central nodes with surrounding peripheral nodes, and no continuous sequences, indicating that the pattern is a clique."
+}
+```

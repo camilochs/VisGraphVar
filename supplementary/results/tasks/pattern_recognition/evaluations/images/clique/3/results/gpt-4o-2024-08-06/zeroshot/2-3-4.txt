@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph consists of three separate clusters where each node in a cluster is connected to every other node, forming complete subgraphs. These complete subgraphs are typical of cliques."
+}
+```

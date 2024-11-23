@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph contains four clusters (nodes 0-3, 4-7, 8-11, 12-15) where each node within a cluster is connected to every other node in the same cluster. This indicates a 'clique' pattern, as all possible connections within each group of nodes are present."
+}
+```

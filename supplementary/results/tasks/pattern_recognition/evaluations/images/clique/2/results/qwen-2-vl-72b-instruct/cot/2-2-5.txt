@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "The graph has two distinct clusters where all nodes within each cluster are interconnected. In the first cluster (nodes 5, 6, 7, 8, 9) and the second cluster (nodes 0, 1, 2, 3, 4), each node is connected to every other node in their respective clusters, which is characteristic of a 'clique'. There are no chains or stars present in the graph."
+}
+```

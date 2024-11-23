@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['chain'],
+   'number_of_patterns': [2],
+   'analysis': 'The graph contains two chain patterns. One is a vertical chain from node 0 to node 4, and the other is a horizontal chain from node 10 to node 19. Additionally, there is a small subchain from node 5 to node 9, but it is part of a larger chain.'
+}
+```

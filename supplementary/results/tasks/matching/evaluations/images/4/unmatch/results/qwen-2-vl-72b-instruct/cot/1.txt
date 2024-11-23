@@ -1,0 +1,6 @@
+```json
+{
+   "match": "yes",
+   "analysis": "Both graphs have 4 nodes each. The node labels in Graph 1 are [0, 1, 2, 3] and in Graph 2 are [0, 1, 2, 3]. The edges in Graph 1 are [0-2, 2-1] and in Graph 2 are [0-1, 1-2]. Since the node labels and edge connections are the same in both graphs, they match."
+}
+```

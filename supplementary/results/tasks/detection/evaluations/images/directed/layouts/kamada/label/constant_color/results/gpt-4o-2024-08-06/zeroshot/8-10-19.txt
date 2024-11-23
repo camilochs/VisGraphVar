@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 18,
+   "analysis": "The graph contains black nodes and black edges. It is a directed graph with arrows indicating the direction of edges."
+}
+```

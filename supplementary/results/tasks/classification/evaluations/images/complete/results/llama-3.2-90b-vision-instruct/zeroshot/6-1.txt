@@ -1,0 +1,16 @@
+**Classification of the Graph Visualization**
+
+This graph diagram represents a bipartite graph. 
+
+A bipartite graph, also known as a bigraph, is a graph where every vertex belongs to one of two disjoint sets U and V. The edges connect vertexes across sets U and V only, and not with vertex from the same set. 
+
+Note that even bipartite graph can not contain odd cycles, bipartite graph may sometimes be complete so this, by definition, will not necessarily be acyclic. Also, a regular bipartite graph will have same degree on all node, although this will require every node to have even degree and consequently a full bipartite graph will have same number of vertices in each set U and V.
+
+**Classification Response**
+
+```json
+{
+   "type_graph": "bipartite",
+   "analysis": "The image shows a bipartite graph."
+}
+```

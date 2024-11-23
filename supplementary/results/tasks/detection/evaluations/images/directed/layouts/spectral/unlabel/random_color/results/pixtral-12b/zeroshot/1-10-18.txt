@@ -1,0 +1,9 @@
+Here is the detailed analysis in the requested format:
+
+```json
+{
+   "total_nodes": 11,
+   "total_edges": 15,
+   "analysis": "The graph contains 11 nodes in various colors (red, purple, green, blue, orange) and 15 directed edges. The nodes are connected in a complex manner, forming a directed network with multiple paths. There are nodes with different degrees, indicating varying levels of connectivity within the network."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three distinct groups of nodes, each fully interconnected without isolated nodes. Each group forms a clique pattern. The top-right group consists of nodes 12, 14, 13, and 11, the bottom-right group consists of nodes 0, 3, 4, and 2, and the bottom-left group consists of nodes 5, 7, 8, and 6. Therefore, the identified pattern is a clique, and there are three instances of this pattern in the graph."
+}
+```

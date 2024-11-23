@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['clique'],
+   'number_of_patterns': [3],
+   'analysis': 'The graph contains three triangles, which are complete graphs on three vertices (K3). Each triangle represents a clique, as all vertices are connected to each other.'
+}
+```

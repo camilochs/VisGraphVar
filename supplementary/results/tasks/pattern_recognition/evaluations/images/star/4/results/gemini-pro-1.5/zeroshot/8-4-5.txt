@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [4],
+  "analysis": "The graph contains four distinct connected components. Each component is a clique since every node within each component is connected to every other node in that same component by an edge. Thus, there are four cliques."
+}
+```

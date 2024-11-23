@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 3,
+   "analysis": "The graph consists of three distinct clusters of nodes, each forming a complete subgraph where each node is connected to every other node within the cluster. This structure is characteristic of a clique. Each cluster has nodes that are interconnected in such a way that there are no isolated nodes, and every node in the cluster is directly connected to all other nodes in the same cluster."
+}
+```

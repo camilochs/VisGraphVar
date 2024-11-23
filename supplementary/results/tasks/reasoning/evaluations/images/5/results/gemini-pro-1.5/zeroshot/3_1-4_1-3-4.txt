@@ -1,0 +1,6 @@
+```json
+{
+  "shortest_path": ["1", "2", "4"],
+  "analysis": "Starting at node 1, we can reach node 4 via node 2 with a cost of 1 (1 from 1 to 2) + 7 (7 from 2 to 4) = 8.  Alternatively, we can reach node 4 from node 1 by going through nodes 3 and 2, or through node 0 by taking edges of higher cost, making the first path cheaper."
+}
+```

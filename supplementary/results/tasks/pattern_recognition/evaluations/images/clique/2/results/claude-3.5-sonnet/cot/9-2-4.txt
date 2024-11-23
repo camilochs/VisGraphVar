@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph shows two distinct groups of nodes, each forming a clique pattern. In the first group (nodes 0-3), each node is connected to every other node in its group, forming a complete subgraph. Similarly, in the second group (nodes 4-7), each node is also fully connected to all other nodes within its group. This creates two separate clique patterns. Each clique has 4 nodes with 6 edges connecting them, ensuring every node has a direct connection to every other node within its respective group. The fully interconnected nature of nodes within each group clearly identifies these as clique patterns."
+}

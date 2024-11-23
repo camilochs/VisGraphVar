@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate clique patterns. The first clique is formed by vertices 0, 1, and 2, where each vertex is connected to every other vertex in the group. The second clique is formed by vertices 3, 4, and 5, which also form a complete subgraph where each vertex is connected to all others in the group."
+}

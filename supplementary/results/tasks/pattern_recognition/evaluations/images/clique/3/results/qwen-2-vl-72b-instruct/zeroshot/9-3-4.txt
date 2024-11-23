@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three instances of cliques, where each clique is a group of fully connected nodes (a complete graph). Each clique is represented by a group of four nodes, with each node connected to every other node within the group."
+}
+```

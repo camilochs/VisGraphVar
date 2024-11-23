@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["chain"],
+   "number_of_patterns": [4],
+   "analysis": "The graph contains multiple chains of nodes which are connected in a linear fashion. Each chain consists of at least two nodes with at least one node having connections to two other nodes."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['clique'],
+   'number_of_patterns': [4],
+   'analysis': 'The graph consists of four cliques, each represented as a cluster of four interconnected nodes. Cliques are fully connected subgraphs where every node is directly connected to every other node in the subset. In this specific image, each clique node forms a tight cluster without any connections extending outside the clique.'
+}
+```

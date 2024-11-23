@@ -1,0 +1,10 @@
+Here is your response in a JSON format:
+
+
+
+```json
+{
+   "type_graph": "yclic",
+   "analysis":  "The image shows a cyclic graph."
+}
+```

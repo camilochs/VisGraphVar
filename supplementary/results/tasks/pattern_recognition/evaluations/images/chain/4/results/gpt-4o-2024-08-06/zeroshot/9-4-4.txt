@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "chain",
+   "number_of_patterns": 5,
+   "analysis": "The graph contains several groups where nodes are connected sequentially, forming linear sequences. These are characteristic of chain patterns. There are five separate chains visible in the graph."
+}
+```

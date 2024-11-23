@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate clusters of nodes. The first cluster consists of nodes 0, 1, and 2, which are all interconnected forming a fully connected subgraph (a clique). The second cluster consists of nodes 3, 4, and 5, which are also all interconnected, forming another clique. There are no isolated nodes or nodes forming a central 'star' shape, and the connections do not form a continuous sequence like a chain. Thus, there are two distinct instances of the 'clique' pattern."
+}
+```

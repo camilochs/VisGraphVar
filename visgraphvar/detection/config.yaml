@@ -1,0 +1,18 @@
+layouts:
+  - spring
+  - random
+  - circular
+  - shell
+  - kamada
+  - spectral
+  - spiral
+
+num_nodes: 10
+size_node: 400
+size_border_node: 1
+color_node: "#fff"
+color_label: "black"
+color_edge: "black"
+edge_percentage: 0.2
+arrowsize: 15
+total_graph: 10

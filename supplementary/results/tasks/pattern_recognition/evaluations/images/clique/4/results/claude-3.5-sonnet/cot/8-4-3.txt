@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph shows 4 distinct sets of fully interconnected nodes (cliques), each containing 3 nodes. The first clique connects nodes 0-1-2, the second connects nodes 3-4-5, the third connects nodes 6-7-8, and the fourth connects nodes 9-10-11. In each clique, every node is connected to every other node within its group, forming a complete subgraph. These are not stars because there is no central node with only radiating connections, and they are not chains because the connections form triangular patterns rather than linear sequences."
+}

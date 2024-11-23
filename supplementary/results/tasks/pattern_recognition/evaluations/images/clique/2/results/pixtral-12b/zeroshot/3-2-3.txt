@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['clique'],
+   'number_of_patterns': [2],
+   'analysis': 'The graph contains two cliques. A clique is a pattern where every node is connected to every other node in the subset. The first clique includes nodes 0, 1, and 2, and the second clique includes nodes 3, 4, and 5.'
+}
+```

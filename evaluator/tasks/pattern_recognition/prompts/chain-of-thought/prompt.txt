@@ -1,0 +1,20 @@
+Carefully analyze the graph image to identify the pattern type by following these steps:
+
+1. Observe the structure and identify distinct clusters, groups, or links.
+2. Determine if nodes are interconnected in a continuous sequence (for a 'chain'), fully interconnected without isolated nodes (for a 'clique'), or if there is a central node with surrounding peripheral nodes (for a 'star').
+3. Count how many instances of each identified pattern appear in the graph.
+4. Explain your reasoning based on the layout and relationships among nodes.
+
+Possible answers for pattern type include 'chain,' 'clique,' or 'star.' Please respond in the JSON format:
+
+```json
+{
+   'pattern': [name],
+   'number_of_patterns': [number],
+   'analysis': '[explain].'
+}
+```
+Where:
+   - pattern is the identified pattern type.
+   - number_of_patterns is the total count of this pattern type in the image.
+   - analysis provides a step-by-step explanation of the graph’s layout and why you identified this pattern.

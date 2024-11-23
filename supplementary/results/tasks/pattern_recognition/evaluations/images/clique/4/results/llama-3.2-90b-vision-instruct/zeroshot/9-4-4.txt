@@ -1,0 +1,43 @@
+**Pattern Analysis**
+
+We will:
+* Identify the feature that distinguishes between a chain, clique, and star pattern.
+* Analyze the provided graph image using this feature.
+* Determine the type of pattern it contains and respond in JSON format.
+
+**Pattern Features**
+
+*   **Chain:** A linear sequence of nodes connected by edges, with no branches or loops.
+*   **Clique:** A fully connected subgraph where every node is directly connected to every other node.
+*   **Star:** A central node connected to multiple peripheral nodes, with no connections between peripheral nodes.
+
+**Analysis of Graph Image**
+
+The graph image shows five groups of nodes:
+
+*   Top: Three nodes are mutually connected (i.e., 10-9-11, 9-11-8, 9-10-11-8).
+*   Right: Three nodes are mutually connected (i.e., 0-1-2, 1-2-3, 0-1-3 and 2-3-0).
+*   Bottom: Three nodes are mutually connected (i.e., 12-15-13 and 14-13-12).
+*   Left-middle: Three nodes are mutually connected, but one only connects directly to one node (i.e., 5-4 and 6-5-7).
+*   No nodes directly connect groups besides the top group and the bottom-middle group.
+
+**Interpretation**
+
+*   These groups can be classified as cliques (fully connected subgraphs) or stars (a central node and peripheral nodes) in some cases.
+*   There are two cliques with three mutual connections each in the top and right of the graph.
+*   There is another clique with three mutual connections at the bottom of the graph.
+*   There is a star pattern where node 5 connects to two peripheral nodes (4 and 7). Node 6 only connects to one node, which is node 5.
+
+**Response in JSON Format**
+
+```json
+{
+    'pattern': ["clique", "chain", "star"],
+    'number_of_patterns': [4],
+    'analysis': "The four distinct groups of connected nodes show clique patterns. The straight line in the middle left of the graph also meets the criteria for a chain. Lastly, the connection between node 5 and nodes 4 and 7 at the bottom of the image meets the criteria of being the central node and peripheral node respectively, allowing it to be identified as a star pattern."
+}
+```
+
+**Conclusion**
+
+The graph image contains clique, chain, and star patterns. These patterns are identified by analyzing the connectivity between groups of nodes. Specifically, four groups of nodes form cliques, one group forms a chain, and one group forms a star pattern.

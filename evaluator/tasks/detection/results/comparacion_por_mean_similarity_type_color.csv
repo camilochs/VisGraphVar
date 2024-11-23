@@ -1,0 +1,13 @@
+model,type_color,cot,zeroshot,diff,mean_similarity
+claude-3.5-sonnet,random_color,0.93,0.94,-0.01,0.94
+claude-3.5-sonnet,constant_color,0.96,0.96,0.0,0.96
+gemini-pro-1.5,random_color,0.94,0.94,0.0,0.94
+gemini-pro-1.5,constant_color,0.94,0.96,-0.02,0.95
+gpt-4o-2024-08-06,random_color,0.88,0.77,0.11,0.82
+gpt-4o-2024-08-06,constant_color,0.93,0.89,0.04,0.91
+llama-3.2-90b-vision-instruct,constant_color,0.46,0.92,-0.46,0.69
+llama-3.2-90b-vision-instruct,random_color,0.89,0.78,0.11,0.84
+pixtral-12b,random_color,0.86,0.86,0.0,0.86
+pixtral-12b,constant_color,0.89,0.89,0.0,0.89
+qwen-2-vl-72b-instruct,random_color,0.5,0.75,-0.25,0.62
+qwen-2-vl-72b-instruct,constant_color,0.83,0.86,-0.03,0.84

@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph image consists of several groups where each node in a group is connected to every other node in the same group. These are known as cliques. Specifically, there are four cliques identified at different positions in the graph, each containing three nodes."
+}
+```

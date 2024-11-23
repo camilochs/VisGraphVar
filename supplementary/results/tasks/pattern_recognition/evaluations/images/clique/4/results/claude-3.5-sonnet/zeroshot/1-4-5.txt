@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph shows 4 distinct subgraphs where each node is connected to every other node within its group. Each cluster forms a complete graph where every vertex has an edge to all other vertices in that cluster. This is the defining characteristic of a clique pattern. The clusters contain nodes {11,12,13,14}, {2,3,4}, {16,17,18,19}, and {5,6,8,9}."
+}

@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three distinct groups of nodes, each forming complete connections among themselves without isolated nodes. These groups are located at the top, bottom-left, and bottom-right of the image. In each group, every node is connected to every other node, matching the definition of a 'clique'. There are no central nodes or chains within or between these groups, leading to the identification of the 'clique' pattern."
+}
+```

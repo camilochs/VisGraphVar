@@ -1,0 +1,22 @@
+**Step 1: Analyze the structure of the graph.**
+
+A directed acyclic graph (DAG) is a form of directed graph; the key notion captured by both is that nodes can be ordered naturally into sets or levels such that arcs point in one direction between any two levels but never the opposite direction. 
+
+**Step 2: Identify if the graph is connected.**
+
+A connected graph is a graph in which there is a path between every pair of vertices. 
+
+**Step 3: Conclusion.**
+
+Since there is a path between every pair of vertices, the graph is a connected graph.
+
+Since the relationships depicted in the graph only go one way and you never end up at the point you began from, this is a Directed Acyclic Graph (DAG). The above image depicts this perfectly, with each direction indicating the relationship between data.
+
+**Conclusion in JSON format**
+
+```json
+{
+  "type_graph": "Directed Acyclic Graph (DAG)",
+  "analysis": "The image shows a Directed Acyclic Graph (DAG)."
+}
+```

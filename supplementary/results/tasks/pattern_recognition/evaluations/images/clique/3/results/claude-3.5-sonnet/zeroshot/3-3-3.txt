@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three separate triangular formations where each node is connected to every other node in its group. These are found between nodes (0,1,2), (3,4,5), and (6,7,8). Each of these structures represents a clique pattern where every vertex is connected to every other vertex within its subgroup."
+}

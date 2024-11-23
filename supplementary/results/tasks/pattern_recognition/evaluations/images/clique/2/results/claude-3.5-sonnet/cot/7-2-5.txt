@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph shows two distinct subgraphs, each forming a clique pattern. In the first subgraph (nodes 0,1,2,3,4), all nodes are interconnected with multiple edges between them. Similarly, in the second subgraph (nodes 5,6,7,8,9), all nodes are also fully interconnected. Both structures exhibit the characteristics of a clique where each node is connected to every other node in its group. This creates a dense, fully-connected network structure within each subgraph. The presence of multiple edges between nodes and the complete interconnectivity within each group confirms these are clique patterns rather than chains or stars."
+}

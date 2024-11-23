@@ -1,0 +1,38 @@
+### Step 1: Identify the properties of each pattern type
+
+*   A chain pattern depicts vertices linked in a continuous chain
+*   A clique pattern is characterized by vertices that are each fully connected to every other vertex
+*   A star pattern consists of a central node connected to all other nodes with no connections between those nodes
+
+### Step 2: Identify Vertices, with Their Corresponding Connections, in the Image Supplied.
+
+*   Vertices 0 and 1 are connected to vertex 3 (top)
+*   Vertices 4, 5, 6, and 7 are all connected to each other and no other vertices (bottom).
+
+### Step 3: Investigate the Observed Properties of Each Pattern Type By Iterating Through Observed Vertices and Their Connections
+
+*   Vertices 0, 1, and 2 form a chain
+*   Vertices 4, 5, 6, and 7 form a clique
+*   Vertices 0, 1, and 2, and their connection to vertex 3, and vertices 4, 5, 6, and 7 can all be characterized as forming a clique with a chain linked to the clique.
+
+**This evidence collectively describes a clique of two chain-like sets.**
+
+
+
+### Final Steps: Create JSON Panel with Findings
+
+```json
+
+{
+
+   "pattern": ["clique", "chain"],
+
+   "number_of_patterns": 2,
+
+   "analysis": "One clique and one chain exist in the graph observed."
+
+}    
+
+
+
+```

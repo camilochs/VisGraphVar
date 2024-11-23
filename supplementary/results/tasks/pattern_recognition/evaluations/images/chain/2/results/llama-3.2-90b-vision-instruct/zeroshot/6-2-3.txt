@@ -1,0 +1,9 @@
+**Pattern Analysis Result**
+
+```json
+{
+   'pattern': 'star',
+   'number_of_patterns': 3,
+   'analysis': 'The graph features one central node (0 or 1). All other nodes are directly connected to this central node but are not directly linked to one another. The branches from central node may only connect to the far node, not in between nodes within the same branch. Three isolated star pattern features are noticed within the provided image.'
+}
+```

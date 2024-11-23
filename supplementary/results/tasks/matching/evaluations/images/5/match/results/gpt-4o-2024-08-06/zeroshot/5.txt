@@ -1,0 +1,6 @@
+```json
+{
+   "match": "yes",
+   "analysis": "Both graphs have identical structures with the same nodes and identical connections between nodes. Graph 1 and Graph 2 have nodes 0, 1, 2, 3, and 4 connected in the following way: 0-1, 0-2, 0-3, 0-4, and 3-4. There are no weights present in either graph."
+}
+```

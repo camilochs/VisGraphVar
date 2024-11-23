@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three separate groups of nodes, each forming a clique pattern. In each group, every node is connected to every other node within its group, forming fully interconnected subgraphs. Specifically: 1) nodes 8,9,10,11 form a clique, 2) nodes 0,1,2,3 form another clique, and 3) nodes 4,5,6,7 form a third clique. None of these groups shows the linear sequence of a chain pattern or the centralized structure of a star pattern. Instead, each group demonstrates complete interconnectivity among its members, which is the defining characteristic of a clique pattern."
+}

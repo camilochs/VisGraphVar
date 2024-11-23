@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": 3,
+  "analysis": "The graph consists of three distinct clusters of nodes. Each cluster is a clique because every node within a cluster is directly connected to every other node in the same cluster. There are no connections between nodes in different clusters. Therefore, there are three separate clique patterns in the graph."
+}
+```

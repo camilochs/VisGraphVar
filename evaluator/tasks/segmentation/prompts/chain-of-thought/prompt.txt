@@ -1,0 +1,32 @@
+Please analyze this graph visualization using the following steps to identify the critical cut edge that separates the graph into two subgraphs:
+
+1. First, identify all edges in the graph:
+
+   - List potential candidates for cut edges
+   - Look for edges that appear to be critical connections
+
+
+2. For each potential cut edge:
+
+   - Mentally remove the edge
+   - Check if the graph becomes disconnected
+   - Count the number of nodes in each resulting component
+
+3. Verify the cut edge properties:
+
+   - Confirm there is no alternative path between the separated components
+   - Ensure removing this edge creates exactly two subgraphs
+   - Check that no other path exists that could keep the components connected
+
+4. Analyze the resulting subgraphs:
+   - Count the nodes in each subgraph
+   - Verify they remain internally connected
+   - Confirm no other connections exist between them
+
+Provide your final analysis in the following JSON format:
+```json
+{
+   "cut_edge": "(node1, node2)",
+   "analysis": "Removing the edge between nodes [node1] and [node2] divides the graph into two subgraphs. The first subgraph contains [description of first subgraph], while the second subgraph contains [description of second subgraph]. This is a cut edge because [explanation of why this is the critical edge]."
+}
+```

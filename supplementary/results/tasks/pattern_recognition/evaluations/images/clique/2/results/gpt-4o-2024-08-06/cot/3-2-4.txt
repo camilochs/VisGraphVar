@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph consists of two distinct groups where each node in the group is connected to every other node within the same group. The left cluster includes nodes 4, 5, 6, and 7, all of which are interconnected, forming a clique. The right cluster includes nodes 0, 1, 2, and 3, also fully connected to each other, forming another clique. There are no isolated nodes or partial connections within each group, and there is no central node indicative of a star pattern. The absence of a linear sequence of nodes also rules out a chain pattern."
+}
+```

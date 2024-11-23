@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three distinct clique patterns. Each cluster shows nodes that are fully connected to each other, where every node has an edge connecting it to every other node in its group. These clusters appear at three different locations in the graph: one with nodes {8,9,10,11}, another with nodes {0,1,2,3}, and a third with nodes {4,5,6,7}. Each of these represents a complete subgraph where all vertices are connected to all other vertices within their cluster."
+}

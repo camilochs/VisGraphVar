@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct clusters. Both clusters exhibit a fully interconnected structure, where each node is connected to every other node within the cluster. This meets the criteria for a 'clique', where nodes are densely interconnected. In the first cluster (top right), there are 5 nodes, and in the second cluster (bottom left), there are 6 nodes. Hence, the graph features two cliques."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 18,
+   "analysis": "The graph consists of 10 nodes with various colors, including blue, purple, red, and green. It has 18 black edges connecting the nodes, forming a directed graph with arrows indicating direction."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 21,
+  "analysis": "The graph consists of 10 white nodes connected by 21 black edges. It appears as a somewhat complex, interconnected network with some nodes having multiple connections to others. The graph is not planar and the edges intersect at points where there are no nodes"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['clique'],
+   'number_of_patterns': 4,
+   'analysis': 'The graph displays four distinct cliques, each represented by a small cluster of nodes where every node is connected to every other node within the cluster. These clusters do not exhibit a central node or a linear sequence, which rules out the star or chain patterns.'
+}
+```

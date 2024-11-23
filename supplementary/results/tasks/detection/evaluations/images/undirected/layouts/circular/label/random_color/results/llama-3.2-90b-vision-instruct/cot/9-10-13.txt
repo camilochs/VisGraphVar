@@ -1,0 +1,9 @@
+The analysis is presented in the following JSON format:
+
+```json
+{
+  "total_nodes": 9,
+  "total_edges": 15,
+  "analysis": "The graph has 9 nodes with the following colors: blue, red, orange, green, yellow, purple, teal, lime, maroon and burgundy. The 15 black coloured edges connect the nodes in a random manner."
+}
+ ```

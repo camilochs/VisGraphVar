@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains 3 distinct clique patterns. 1) First clique consists of nodes 0,1,2,3 where all nodes are interconnected. 2) Second clique consists of nodes 4,5,6,7 where all nodes are fully connected to each other. 3) Third clique contains nodes 8,9,10,11 where again all nodes have connections to every other node in their group. Each of these formations shows complete interconnectivity within their respective groups, which is the defining characteristic of a clique pattern. There are no isolated nodes, and each node is connected to every other node within its group, making these clear examples of clique patterns."
+}

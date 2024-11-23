@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 11,
+  "analysis": "The graph has 10 white nodes and 11 black edges. Node 9 is isolated. Most other nodes are close to each other and connected, but node 8 is more separate and has edges connecting it to nodes 0, 1, and 2."
+}
+```

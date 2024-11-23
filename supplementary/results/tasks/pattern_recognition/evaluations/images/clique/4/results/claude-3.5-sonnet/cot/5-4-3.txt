@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph contains 4 separate clique patterns. Each clique is a fully connected subgraph where every node is connected to every other node in the group. Specifically: 1) Nodes 6,7,8 form a clique, 2) Nodes 3,4,5 form a clique, 3) Nodes 9,10,11 form a clique, and 4) Nodes 0,1,2 form a clique. Each of these groups shows complete interconnection between its member nodes, which is the defining characteristic of a clique pattern. There are no star patterns (where one central node connects to all others) or chain patterns (where nodes connect in a sequence) present in this graph."
+}

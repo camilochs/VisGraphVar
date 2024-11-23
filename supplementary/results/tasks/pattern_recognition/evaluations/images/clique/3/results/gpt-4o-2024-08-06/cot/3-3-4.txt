@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three distinct groups of nodes. Each group is fully interconnected with all nodes linked to each other without isolation, resembling a complete graph or 'clique'. These cliques are formed by the nodes labeled (0, 1, 2, 3), (4, 5, 6, 7), and (8, 9, 10, 11). There are no central or peripheral nodes characteristic of a 'star' nor a sequence like a 'chain'."
+}
+```

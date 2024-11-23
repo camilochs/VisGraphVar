@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 16,
+  "analysis": "The directed graph consists of 10 nodes, numbered from 0 to 9. The nodes are colored differently: Node 0 - teal, Node 1 - gold, Node 2 - light blue, Node 3 - light steel blue, Node 4 - light green, Node 5 - spring green, Node 6 - olive, Node 7 - brown, Node 8 - violet, Node 9 - dark olive green. There are 16 directed edges connecting these nodes. All edges are black."
+}
+```

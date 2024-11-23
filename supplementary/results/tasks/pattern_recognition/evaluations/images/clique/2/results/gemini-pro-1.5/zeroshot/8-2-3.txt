@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [2],
+  "analysis": "The graph contains two sets of fully connected nodes forming two 3-node cliques. The first clique includes nodes 0, 1, and 2. The second clique includes nodes 3, 4, and 5.  There are no connections between the two cliques."
+}
+```

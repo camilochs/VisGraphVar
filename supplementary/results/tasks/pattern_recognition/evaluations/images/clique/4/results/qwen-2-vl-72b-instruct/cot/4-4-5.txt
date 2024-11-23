@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 5,
+   "analysis": "The graph consists of five distinct clusters, each with a fully interconnected structure. Each cluster contains four nodes, and all nodes within a cluster are directly connected to each other, forming a clique. There are no isolated nodes or chains, and no single node is connected to all others as in a star pattern."
+}
+```

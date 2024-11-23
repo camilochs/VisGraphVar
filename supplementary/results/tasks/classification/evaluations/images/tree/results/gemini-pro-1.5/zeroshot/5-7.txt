@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": ["tree", "planar", "acyclic"],
+  "analysis": "The image shows a tree graph because it is connected and has no cycles.  It is also planar because it can be drawn on a plane without any edges crossing. Since there are no cycles, it is also an acyclic graph."
+}
+```

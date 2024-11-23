@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate subgraphs, each showing a clique pattern. The first clique involves nodes 0,1,2,3 where each node is connected to every other node in its group. The second clique involves nodes 4,5,6,7 with a similar all-to-all connection pattern. Both structures display the characteristic complete interconnection that defines a clique pattern."
+}

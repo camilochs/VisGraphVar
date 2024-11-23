@@ -1,0 +1,5 @@
+{
+    "pattern": "clique",
+    "number_of_patterns": 3,
+    "analysis": "The graph contains three separate triangular formations where each node is connected to every other node in its group. Specifically, we can see three distinct cliques: one formed by nodes 3-4-5, another by nodes 6-7-8, and a third by nodes 0-1-2. In each case, all nodes within the group are directly connected to each other, forming complete subgraphs, which is the definition of a clique pattern."
+}

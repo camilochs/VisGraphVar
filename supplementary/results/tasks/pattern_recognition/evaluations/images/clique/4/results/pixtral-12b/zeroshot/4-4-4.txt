@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['star'],
+   'number_of_patterns': [4],
+   'analysis': 'The graph shows four distinct clusters, each of which is arranged in a "star" pattern. In a star pattern, a central node is connected to several peripheral nodes, forming a structure resembling a hub with spoke lines. All clusters identified in the image exhibit this characteristics clearly, confirming the presence of star patterns.'
+}
+```

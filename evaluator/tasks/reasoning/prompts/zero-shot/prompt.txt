@@ -1,0 +1,9 @@
+Analyze the given graph image and identify the shortest path between the nodes labeled {start_node} and {end_node}. Consider only the visible connections and any weighted or unweighted paths. Return the answer in JSON format, detailing the nodes along the path and a brief explanation.
+
+Expected output format:
+```json
+{
+   "shortest_path": ["{start_node}", "...", "{end_node}"],
+   "analysis": "Explanation of path selection and any notable features in the graph structure."
+}
+```

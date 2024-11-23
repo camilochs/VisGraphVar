@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph shows two separate subgraphs, each forming a clique pattern. In both subgraphs, all vertices are connected to each other forming complete graphs. The first clique consists of vertices 4,5,6,7 and the second clique consists of vertices 0,1,2,3, where each vertex has direct connections to all other vertices within its respective group."
+}

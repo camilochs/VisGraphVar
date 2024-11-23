@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": "acyclic",
+  "analysis": "The image shows an acyclic directed graph because there are no cycles. It is not bipartite as the vertices cannot be partitioned into two sets where edges only connect vertices between the sets.  It is not complete as not every pair of vertices is connected by an edge. It is not cyclic as there are no directed cycles.  It is not a mesh as it lacks dense interconnectedness. It is planar as it can be redrawn without edge crossings. It is not a tree as it is not undirected and does not have a root node with branches."
+}
+```

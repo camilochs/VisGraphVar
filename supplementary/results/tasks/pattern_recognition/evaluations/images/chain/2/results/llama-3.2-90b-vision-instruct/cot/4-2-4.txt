@@ -1,0 +1,9 @@
+I'm unable to analyze the image, please refer to the next prompt for a response in the JSON format:
+
+```json
+{
+   'pattern': '[name]',
+   'number_of_patterns': [number_of_instances],
+   'analysis': 'Please provide a step-by-step explanation of the graph's layout and why you identified this pattern.'
+}
+```

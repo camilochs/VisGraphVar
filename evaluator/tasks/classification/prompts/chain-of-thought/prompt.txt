@@ -1,0 +1,20 @@
+Please analyze this graph visualization using the following steps to determine its type. Consider each characteristic carefully and classify it as either: acyclic, bipartite, complete, cyclic, mesh, planar, or tree.
+
+1. First, check if the graph contains any cycles (paths that start and end at the same vertex)
+2. Next, examine the connectivity pattern between vertices:
+   - Are all vertices connected to all other vertices?
+   - Are vertices organized in distinct sets?
+   - Do vertices form a hierarchical structure?
+3. Look at the edge crossings:
+   - Can the graph be drawn without edge crossings?
+   - Do edges form a regular pattern or grid?
+4. Based on these observations, determine which category best matches the graph's structure
+
+Provide your final classification and brief analysis in the following JSON format:
+
+```json
+{
+   "type_graph": "[classification]",
+   "analysis": "The image shows a [classification] graph because [brief explanation based on the above analysis]."
+}
+```

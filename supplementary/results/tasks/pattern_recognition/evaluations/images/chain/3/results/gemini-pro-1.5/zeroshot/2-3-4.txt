@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["chain"],
+  "number_of_patterns": [3],
+  "analysis": "The graph contains three distinct chain patterns. A chain is a sequence of nodes where each node is connected to the next one in the sequence. In this graph, nodes 0-1-2-3 form a chain, nodes 4-5-6-7 form another chain, and nodes 8-9-10-11 form the third chain. There are no clique or star patterns present."
+}
+```

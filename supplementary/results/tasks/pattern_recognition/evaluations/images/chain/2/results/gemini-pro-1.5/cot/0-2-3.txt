@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["chain"],
+  "number_of_patterns": [2],
+  "analysis": "The graph consists of two separate components. Each component has nodes connected in a linear sequence, resembling a chain. One component consists of nodes 0, 1 and 2. Node 0 is connected to 1 and node 1 is connected to 2. The other component contains nodes 3, 4 and 5, where 3 is connected to 4 and node 4 is connected to 5. Therefore, there are two separate chain patterns in this graph."
+}
+```

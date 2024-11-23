@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct clique patterns. One clique consists of nodes {5,6,7,8,9} and another clique consists of nodes {0,1,2,3,4}. In both cases, each node is connected to every other node in its respective group, forming complete subgraphs, which is the defining characteristic of a clique pattern."
+}

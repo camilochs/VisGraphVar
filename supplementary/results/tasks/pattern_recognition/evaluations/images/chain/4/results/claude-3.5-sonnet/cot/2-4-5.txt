@@ -1,0 +1,5 @@
+{
+   "pattern": "chain",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three distinct chain patterns: 1) Nodes 0-1-2-3-4 form a linear chain, 2) Nodes 10-11-12-13-14 form another linear chain, and 3) A more complex chain with a branch point at node 18, extending to nodes 15-16-17 vertically, nodes 5-6-7 horizontally, and nodes 8-9 and 19 in other directions. Each chain is characterized by nodes connected in sequence, where most nodes have exactly two connections (except endpoints with one connection and the branch point 18 with multiple connections). The layout clearly shows linear sequences of connected nodes rather than fully interconnected cliques or star patterns with central hubs."
+}

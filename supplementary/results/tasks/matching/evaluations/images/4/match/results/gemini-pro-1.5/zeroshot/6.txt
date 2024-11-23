@@ -1,0 +1,6 @@
+```json
+{
+  "match": "no",
+  "analysis": "While both graphs have 4 nodes, their connections differ. Graph 1 has edges (1, 2), (1, 3), (2, 3), and (2, 0). Graph 2 has edges (1, 2), (1, 3), (2, 3), (2, 0), but in Graph 2 the location of the nodes and length of the edges make the connections look different."
+}
+```

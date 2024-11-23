@@ -1,0 +1,14 @@
+```json
+{
+   'pattern': ['chain', 'clique', 'star'],
+   'number_of_patterns': [4, 1, 1],
+   'analysis': 'The graph contains three distinct patterns: 
+   "chain" patterns form linear sequences with nodes connected in a sequence. 
+   There are four such patterns. Examples include sequences 
+   [0-4] and [10-14]. 
+   "star" patterns have a central node connected to multiple peripheral nodes. 
+   There is one such pattern, example [5-9]. 
+   "clique" patterns are fully connected subgraphs where all nodes are connected to each other. 
+   There is one such pattern, example [15-19].'
+}
+```

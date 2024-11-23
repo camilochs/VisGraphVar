@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph shows four distinct groupings, each consisting of three nodes that are fully interconnected with each other. The groups are: (0,1,2), (3,4,5), (6,7,8), and (9,10,11). In each group, every node is connected to every other node within that group, forming complete triangles. This creates multiple small cliques rather than chains (which would be linear sequences) or stars (which would have central nodes with radiating connections). Each grouping demonstrates the defining characteristic of a clique pattern where all nodes are interconnected with each other within their respective groups."
+}

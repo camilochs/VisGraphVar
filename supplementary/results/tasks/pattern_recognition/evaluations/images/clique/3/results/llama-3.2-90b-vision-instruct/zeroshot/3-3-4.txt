@@ -1,0 +1,11 @@
+The graph image shows three separate subgraphs. 
+
+Here is the JSON response:
+
+```json
+{
+   'pattern': ['clique'],
+   'number_of_patterns': [3],
+   'analysis': 'The graph contains three cliques, which are subsets of nodes that are all connected to each other.'
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three distinct clusters: one with nodes 0, 1, 2, 3, 4; another with nodes 5, 6, 7, 8, 9; and a third with nodes 10, 11, 12, 13, 14. Each cluster is fully interconnected, indicating a 'clique' pattern with no isolated nodes or central node with surrounding nodes. Each cluster is separate and distinct, forming three instances of the 'clique' pattern."
+}
+```

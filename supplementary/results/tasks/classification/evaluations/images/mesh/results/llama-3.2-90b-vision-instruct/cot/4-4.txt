@@ -1,0 +1,12 @@
+**Classification Request**
+
+A detailed image of the graph being analyzed is required to provide an accurate classification. Without the image, it is impossible to determine the graph's structure and category.
+
+Here's a placeholder JSON response:
+
+```json
+{
+   "type_graph": "[awaiting image]",
+   "analysis": "Please provide the image for analysis and classification."
+}
+```

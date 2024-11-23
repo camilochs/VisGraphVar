@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 15,
+   "analysis": "The graph is a directed graph with nodes numbered from 1 to 10. Each node is represented by a circle, and the edges are directed, indicated by arrows pointing from one node to another."
+}
+```

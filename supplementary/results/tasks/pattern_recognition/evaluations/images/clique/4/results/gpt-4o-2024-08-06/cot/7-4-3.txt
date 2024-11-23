@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph consists of four distinct groups, each with nodes that are fully interconnected. There are no isolated nodes or central nodes with peripheral nodes; instead, each set of nodes forms a full subgraph where every node is connected to every other node within its group. These fully connected subgraphs match the pattern of a 'clique.' The groups are (0, 1, 2), (3, 4, 5), (6, 7, 8), and (9, 10, 11), making a total of four cliques."
+}
+```

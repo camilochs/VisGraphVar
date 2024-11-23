@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 4,
+   "analysis": "Each group of nodes is fully interconnected without isolated nodes, forming clusters. Each cluster has three nodes, and each node is connected to the other two nodes within the cluster, which defines a clique pattern."
+}
+```

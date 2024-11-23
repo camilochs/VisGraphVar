@@ -1,0 +1,7 @@
+```json
+{
+    "pattern": "star",
+    "number_of_patterns": 2,
+    "analysis": "The graph contains two star patterns. In each pattern, there is a central node (0 and 5) connected to multiple peripheral nodes (1, 2, 3, 4 for node 0 and 6, 7, 8, 9 for node 5), forming a star-like shape."
+}
+```

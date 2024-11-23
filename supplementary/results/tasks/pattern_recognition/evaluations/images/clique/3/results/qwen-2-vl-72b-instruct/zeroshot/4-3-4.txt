@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three distinct cliques. Each clique is a group of four nodes where each node is connected to every other node within the clique."
+}
+```

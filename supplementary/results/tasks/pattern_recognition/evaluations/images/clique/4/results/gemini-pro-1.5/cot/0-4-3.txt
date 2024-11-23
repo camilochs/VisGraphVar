@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": 4,
+  "analysis": "The graph consists of four distinct groups of nodes. Within each group, every node is connected to every other node in that same group. There are no connections between the groups.  This fully connected arrangement within each group signifies a 'clique' pattern. Since there are four such isolated groups, there are four cliques present."
+}
+```

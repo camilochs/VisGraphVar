@@ -1,0 +1,6 @@
+```json
+{
+   "match": "no",
+   "analysis": "Step-by-step explanation of each element compared and why the final decision was reached."
+}
+```

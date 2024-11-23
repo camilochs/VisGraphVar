@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": ["planar", "acyclic"],
+  "analysis": "The image shows a planar and acyclic graph.  It is planar because it can be drawn without any edge crossings. It is acyclic because it contains no cycles. The graph can also be interpreted as a tree with the root node at vertex 3. Therefore it contains no cycles."
+}
+```

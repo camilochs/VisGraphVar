@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [4],
+  "analysis": "The image displays four distinct clusters of interconnected circles. Each cluster represents a clique because every node within the cluster is directly connected to every other node in the same cluster.  There are no connections between nodes in different clusters. \n1. Top-Middle Cluster: Nodes 10, 11, 12, 13, and 14 form a clique. \n2. Top-Left Cluster: Nodes 5, 6, 7, 8, and 9 form a clique.\n3. Bottom-Left Cluster: Nodes 15, 16, 17, 18, and 19 form a clique.\n4. Bottom-Right Cluster:  Nodes 0, 1, 2, 3, and 4 form a clique."
+}
+```

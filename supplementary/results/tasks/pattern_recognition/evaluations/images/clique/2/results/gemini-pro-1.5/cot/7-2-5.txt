@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [2],
+  "analysis": "The graph consists of two distinct groups of nodes.  In the top group, nodes 0, 1, 2, 3, and 4 are fully interconnected, forming a clique. In the bottom group, nodes 5, 6, 7, 8, and 9 are also fully interconnected, forming another clique. There are no connections between the two groups. Therefore, there are two separate cliques."
+}
+```

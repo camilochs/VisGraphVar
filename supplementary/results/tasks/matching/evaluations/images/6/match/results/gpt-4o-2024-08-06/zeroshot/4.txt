@@ -1,0 +1,6 @@
+```json
+{
+   "match": "yes",
+   "analysis": "Both graphs have identical structures. Each one consists of two separate components: one with nodes (0, 1) and the other with nodes (2, 3, 5). The connections and node arrangements in each graph are the same."
+}
+```

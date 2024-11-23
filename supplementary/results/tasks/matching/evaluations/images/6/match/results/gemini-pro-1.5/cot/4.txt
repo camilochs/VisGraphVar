@@ -1,0 +1,6 @@
+```json
+{
+  "match": "no",
+  "analysis": "Graph 1 has the following connections:\n- 0 connected to 1\n- 2 connected to 5\n- 3 connected to 5\n\nGraph 2 has the following connections:\n- 0 connected to 1\n- 2 connected to 5\n- 3 connected to 5\n\nWhile the connections within the largest components of each graph are identical, Graph 1 has an isolated node labeled '4', whereas Graph 2 has an isolated node labeled '4'.  The presence and value of these isolated nodes does not affect the isomorphism test. Including the isolated nodes, both graphs have 6 nodes with the same labels. Therefore, the graphs are isomorphic."
+}
+```

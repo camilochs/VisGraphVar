@@ -1,0 +1,6 @@
+```json
+{
+   "match": "no",
+   "analysis": "The node counts and labels are the same in both graphs, but the connections (edges) differ. For example, in Graph 1, node 2 is connected to node 1, 3, and 4. In Graph 2, node 2 is connected to node 5, 4, and 1. This discrepancy in the edges means the two graphs do not match."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["chain", "clique", "star"],
+   "number_of_patterns": [5, 1, 0],
+   "analysis": "The graph consists of multiple clusters. In the top left, there is a chain pattern with a sequence of 3 nodes (12, 13, 14). Another chain is found in the top right with a sequence of 4 nodes (8, 9, 10, 11). In the bottom left, there is a chain pattern with a sequence of 4 nodes (4, 5, 6, 7). In the bottom right, there is a chain pattern with a sequence of 3 nodes (0, 2, 3). There is also a clique pattern in the bottom left with a fully interconnected group of 4 nodes (4, 5, 6, 7). There is no star pattern present in the graph."
+}
+```

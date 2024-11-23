@@ -1,0 +1,27 @@
+Graph 1:
+
+Nodes: 3
+Node labels: 0, 1, 2
+Edges: [(0, 1), (1, 2), (1, 3)]
+Edge weights: All weights equal 1
+
+Graph 2:
+
+Nodes: 4
+Node labels: 0, 1, 2, 3
+Edges: [(0, 1), (1, 0), (3, 2)]
+Edge weights: 1 for (0, 1) and (1, 0), 2 for (3, 2)
+
+Analysis with JSON Output:
+
+```json
+{
+  "match": "no",
+  "analysis": [
+    "Node counts do not match (Graph 1: 3 nodes, Graph 2: 4 nodes).",
+    "Node labels do not align (Graph 1: 0, 1, 2, Graph 2: 0, 1, 2, 3).",
+    "Edges do not align (Graph 1: [(0, 1), (1, 2), (1, 3)], Graph 2: [(0, 1), (1, 0), (3, 2)]).",
+    "Edge weights do not align (Graph 1: All weights equal 1, Graph 2: Weights vary)."
+  ]
+}
+```

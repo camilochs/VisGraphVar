@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['clique'],
+   'number_of_patterns': [5],
+   'analysis': 'The graph contains multiple nodes arranged in clusters where each node in a cluster is connected to every other node in the same cluster. This structure is characteristic of cliques.'
+}
+```

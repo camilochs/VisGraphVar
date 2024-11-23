@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate triangular formations (cliques). The first clique consists of nodes 0, 1, and 2, where all three nodes are fully interconnected with each other. The second clique is formed by nodes 3, 4, and 5, also showing full interconnection between all three nodes. Each clique represents a complete subgraph where every node is connected to every other node within that group. This layout clearly matches the clique pattern definition, as each set of three nodes forms a fully interconnected structure with no isolated nodes."
+}

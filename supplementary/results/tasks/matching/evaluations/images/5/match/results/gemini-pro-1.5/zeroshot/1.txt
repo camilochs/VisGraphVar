@@ -1,0 +1,6 @@
+```json
+{
+  "match": "no",
+  "analysis": "Graph 1 has edges between nodes 2 and 3. Graph 2 has an edge between nodes 2 and 3. However, the node positions are different, and Graph 2 has fewer nodes than Graph 1 overall."
+}
+```

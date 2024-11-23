@@ -1,0 +1,22 @@
+Generate two prompts for graph classification using a Large Vision Model.
+
+1. Zero-shot prompt: Ask the model to classify the graph image without any prior examples or hints. The goal is to answer the question: What type of network is it?
+
+2. Chain-of-thought prompt: Ask the model to reason step by step through the process of identifying which graph it is. The question remains: What type of network is it?
+
+The types of graphs available to answer are:
+1. acyclic
+2. bipartite
+3. complete
+4. cyclic
+5. mesh
+6. planar
+7. tree
+
+Expected output format (JSON example):
+```json
+{
+   "type_graph": "mesh",
+   "analysis": "The image shows a mesh graph."
+}
+```

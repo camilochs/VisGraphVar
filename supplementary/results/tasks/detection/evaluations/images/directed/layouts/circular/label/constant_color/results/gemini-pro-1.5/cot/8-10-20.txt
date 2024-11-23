@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 23,
+  "analysis": "The graph is a directed graph (digraph) with 10 nodes and 23 edges. Both nodes and edges are black."
+}
+```

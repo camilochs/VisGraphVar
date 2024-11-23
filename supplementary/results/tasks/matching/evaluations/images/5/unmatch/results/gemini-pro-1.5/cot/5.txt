@@ -1,0 +1,6 @@
+```json
+{
+  "match": "no",
+  "analysis": "Graph 1 has 5 nodes labeled 1, 2, 3, 4 connected linearly. Graph 2 has 6 nodes labeled 0, 1, 2, 3, 4. Nodes 0, 3, 4, 2 are connected as a simple path starting from 0 and ending in 2, while node 1 is isolated. Since both the node counts and edges differ, the graphs do not match."
+}
+```

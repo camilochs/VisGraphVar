@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct cliques. Each clique is a group of three nodes where every node is connected to every other node within the group. In the top right clique, nodes 0, 1, and 2 are fully connected. In the bottom left clique, nodes 3, 4, and 5 are fully connected. There are no star or chain patterns present as there are no central nodes with peripheral nodes or continuous sequences of interconnected nodes."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 20,
+  "analysis": "The graph consists of 10 white nodes arranged in a circular pattern, with black directed edges connecting them. Each node has two incoming and two outgoing edges, except for two nodes on opposite sides of the circle, which have three incoming and three outgoing edges. The edges form a complex pattern with overlapping lines inside the main circular shape.  All nodes are white, and all edges are black."
+}
+```

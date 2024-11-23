@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 4,
+   "analysis": "In the graph, there are four distinct groups of nodes where each node is fully connected to every other node within the group. These groups resemble cliques. The first clique is formed by nodes 0, 1, 2, and 3. The second clique includes nodes 4, 5, 6, and 7. The third clique consists of nodes 8, 9, 10, and 11. The fourth clique is made up of nodes 12, 13, 14, and 15. There are no isolated nodes, chains, or central nodes with peripheral nodes, which confirms that the pattern type is a clique."
+}
+```

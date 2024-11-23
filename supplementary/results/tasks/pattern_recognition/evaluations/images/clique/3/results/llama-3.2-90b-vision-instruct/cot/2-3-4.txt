@@ -1,0 +1,1 @@
+{ "pattern": "star", "number_of_patterns": 1, "analysis": "No, can’t do that, there is no image to analyze." }

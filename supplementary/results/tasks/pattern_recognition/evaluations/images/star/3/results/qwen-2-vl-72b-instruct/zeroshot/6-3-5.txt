@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["星"],
+   "number_of_patterns": 3,
+   "analysis": "这三个图形都是以一个中心点连接其他点形成星形的图案。"
+}
+```

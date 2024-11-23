@@ -1,0 +1,6 @@
+```json
+{
+   "match": "yes",
+   "analysis": "Both graphs have identical structures and node connections. They each consist of six nodes with the same connectivity. Graph 1 and Graph 2 share the same connections: 0-1, 1-4, 0-3, 3-2, 3-5, and 2-5. There are no weights present, and all connections are visually consistent."
+}
+```

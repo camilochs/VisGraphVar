@@ -1,0 +1,6 @@
+```json
+{
+   "type_graph": "planar",
+   "analysis": "The image shows a planar graph."
+}
+```

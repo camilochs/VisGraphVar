@@ -1,0 +1,5 @@
+{
+    "pattern": "clique",
+    "number_of_patterns": 3,
+    "analysis": "The graph shows three separate cliques, each consisting of 3 vertices where every vertex is connected to every other vertex within its group. These can be found in nodes {0,1,2}, {3,4,5}, and {6,7,8}. Each subgraph forms a complete triangle where all nodes are interconnected, which is characteristic of a clique pattern."
+}

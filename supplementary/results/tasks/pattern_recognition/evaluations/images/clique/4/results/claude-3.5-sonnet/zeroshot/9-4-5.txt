@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph shows 4 distinct cliques, where each group of nodes is fully connected to every other node within its group. These cliques are: nodes 1-4, nodes 5-9, nodes 10-14, and nodes 15-19. Each subgroup demonstrates the characteristic complete interconnection that defines a clique pattern."
+}

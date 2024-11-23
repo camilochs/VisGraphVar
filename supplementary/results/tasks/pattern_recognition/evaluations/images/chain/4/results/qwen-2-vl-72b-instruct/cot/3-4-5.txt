@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['chain'],
+   'number_of_patterns': 4,
+   'analysis': 'The graph contains four distinct chains. Chain 1 is formed by nodes 0 to 4, Chain 2 by nodes 5 to 9, Chain 3 by nodes 10 to 14, and Chain 4 by nodes 14 to 19. Each chain is a sequence of interconnected nodes without branching.'
+}
+```

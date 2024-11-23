@@ -1,0 +1,64 @@
+To determine if two graph images match, you would need to compare their structures, node connections, and any weights if present.
+
+### Step 1: Convert Images to Data
+
+Read in the images as graphs and make a note of their nodes, edges, and weights if present.
+
+For example, suppose one of the graphs is `graph_1` with five nodes and six edges (with directions and weights).
+
+The image will be encoded as:
+
+```json
+{
+   "nodes": [1, 2, 3, 4, 5],
+   "edges": [
+       {"source": 1, "target": 0, "weight": 0.5},
+       {"source": 2, "target": 0, "weight": 1},
+       {"source": 3, "target": 0, "weight": 0},
+       {"source": 5, "target": 1, "weight": 0.5},
+       {"source": 5, "target": 2, "weight": 0},
+       {"source": 5, "target": 4, "weight": 1}
+   ],
+}
+```
+
+And suppose the second graph is `graph_2` with six nodes and five edges (with directions and weights).
+
+The image will be represented as:
+
+```json
+{
+   "nodes": [0, 1, 2, 3, 4, 5],
+   "edges": [
+       {"source": 5, "target": 1, "weight": 0.5},
+       {"source": 5, "target": 3, "weight": 1},
+       {"source": 5, "target": 5, "weight": 1},
+       {"source": 5, "target": 3, "weight": 1},
+       {"source": 5, "target": 2, "weight": 0}
+   ]
+   }
+```
+
+### Step 2: Compare Data
+
+Compare the data structures you have created of the two graphs. We see that the same number of nodes is not present in `graph_1` and `graph_2`. Thus, the two graphs do not match in structure. However, we notice that certain edges and nodes are present in both graphs. 
+
+Although they have some nodes and connections in common, since the edge counts and graph structure are not equal we consider them non-matching.
+
+This comparison can be summarized in JSON as follows:
+
+```json
+{
+   "match": "no",
+   "analysis": "Since the numbers of both nodes and edges and graph structure are the same, we consider the two graphs non-matching."
+}
+```
+
+### Final Answer:
+
+```json
+{
+   "match": "no",
+   "analysis": "Since the numbers of both nodes and edges and graph structure are the same, we consider the two graphs non-matching."
+}
+```

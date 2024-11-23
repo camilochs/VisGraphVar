@@ -1,0 +1,6 @@
+```json
+{
+  "match": "yes",
+  "analysis": "Both graphs have the same nodes and edges. The difference is in the styling including node and edge colors which are not considered a structural difference. Graph 1 uses a light blue/grey color scheme while Graph 2 uses green/orange. The connections between nodes 0, 3, 4, and 5 are identical, as is the path from node 2 to 1 to 3."
+}
+```

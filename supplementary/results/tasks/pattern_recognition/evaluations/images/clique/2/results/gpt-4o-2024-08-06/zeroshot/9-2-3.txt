@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate triangular structures where each node is connected to every other node within the group. This is characteristic of a 'clique' pattern."
+}
+```

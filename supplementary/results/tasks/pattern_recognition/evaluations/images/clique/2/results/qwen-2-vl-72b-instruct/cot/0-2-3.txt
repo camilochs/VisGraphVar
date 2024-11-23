@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "The graph consists of two distinct clusters. Each cluster forms a triangular shape where each node is connected to every other node within the cluster. This structure is characteristic of a 'clique'. The first clique is formed by nodes 1, 2, and 0, and the second clique is formed by nodes 3, 4, and 5."
+}
+```

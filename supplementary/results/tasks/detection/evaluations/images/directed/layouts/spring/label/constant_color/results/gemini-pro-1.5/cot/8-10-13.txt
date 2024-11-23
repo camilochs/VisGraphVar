@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 11,
+  "analysis": "The graph consists of two disconnected components. The first component has two white nodes (0 and 6) connected by a single black edge. The second, larger component includes eight white nodes (1, 2, 3, 4, 5, 7, 8, and 9) connected by ten black edges.  The edges in the larger component create a somewhat complex structure, having some nodes with multiple connections."
+}
+```

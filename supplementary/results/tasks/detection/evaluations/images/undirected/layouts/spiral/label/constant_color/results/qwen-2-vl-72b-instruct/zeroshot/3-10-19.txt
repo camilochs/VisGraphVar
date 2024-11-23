@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 45,
+   "analysis": "The graph is a fully connected undirected graph with nodes labeled from 0 to 9. Each node is connected to every other node, forming a complete graph with 10 nodes. The nodes and edges are represented in black color."
+}
+```

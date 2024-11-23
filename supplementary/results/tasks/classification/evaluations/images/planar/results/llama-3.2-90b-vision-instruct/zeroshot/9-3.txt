@@ -1,0 +1,12 @@
+I am unable to provide an image analysis. Please provide the image of the graph.
+
+When the image is available, I will be able to provide a JSON classification of the graph in the following format: 
+
+```json
+{
+   "type_graph": "[classification]",
+   "analysis": "The image shows a [classification] graph."
+}
+```
+
+Please provide the image.

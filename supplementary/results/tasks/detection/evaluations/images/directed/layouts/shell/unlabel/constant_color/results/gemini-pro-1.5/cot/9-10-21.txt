@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 22,
+  "analysis": "The graph consists of 10 white nodes arranged in a circular pattern with multiple edges connecting them. All edges are black and directed."
+}
+```

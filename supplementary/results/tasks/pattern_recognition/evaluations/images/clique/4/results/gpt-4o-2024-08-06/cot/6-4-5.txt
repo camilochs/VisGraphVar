@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph displays four distinct groups of interconnected nodes with no isolated nodes within each group. Each group forms a fully connected subgraph (clique) where every node is connected to every other node within the same group. The structure is repeated in four areas of the graph, resulting in four instances of the 'clique' pattern. Each group has a similar arrangement, with the nodes densely packed and forming small, isolated complete graphs."
+}
+```

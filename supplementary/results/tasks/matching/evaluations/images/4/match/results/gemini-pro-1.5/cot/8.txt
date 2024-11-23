@@ -1,0 +1,6 @@
+```json
+{
+  "match": "yes",
+  "analysis": "1. **Node Count and Labels:** Both graphs have 4 nodes labeled 0, 1, 2, and 3. \n2. **Edge Analysis:**\n   - Graph 1:\n     - Edge between 0 and 1\n     - Edge between 0 and 2\n     - Edge between 0 and 3\n   - Graph 2:\n     - Edge between 0 and 1\n     - Edge between 0 and 2\n     - Edge between 0 and 3\n3. **Conclusion:** Both graphs have the same nodes and the same edges connecting those nodes. Therefore, the graphs are isomorphic, meaning they match."
+}
+```

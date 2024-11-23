@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["chain"],
+  "number_of_patterns": [2],
+  "analysis": "The graph contains two separate sets of nodes connected in a linear sequence.  One chain consists of nodes 0, 1, 2, and 3. The other chain consists of nodes 4, 5, 6, and 7.  Each node in a chain, except for the endpoints, is connected to exactly two other nodes, forming a linear structure.  Since there are two separate sets of linearly connected nodes, there are two distinct chain patterns present in the graph."
+}
+```

@@ -1,0 +1,8 @@
+Given that there are no provided images, a response is generated that notes the absence of required information:
+
+```json
+{
+   "match": "Unable to process",
+   "analysis": "Without the given graph images, it is not possible to determine if they match or not."
+}
+```

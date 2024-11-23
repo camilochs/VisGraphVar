@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three separate cliques, where each clique consists of three nodes that are all connected to each other, forming complete triangular subgraphs. These cliques are found between nodes (0,1,2), (3,4,5), and (6,7,8), where each node within each group is connected to every other node in its group."
+}

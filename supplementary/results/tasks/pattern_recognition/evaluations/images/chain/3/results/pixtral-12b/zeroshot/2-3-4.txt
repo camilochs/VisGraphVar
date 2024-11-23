@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['chain', 'star'],
+   'number_of_patterns': 3,
+   'analysis': 'The graph contains three distinct patterns. The first pattern is a structure starting at node 11 and forming a chain of nodes connected sequentially (11 -> 10 -> 9 -> 8). The second pattern consists of nodes 0, 1, 2, and 3 forming a linear chain (0 -> 1 -> 2 -> 3). The last pattern includes nodes 4, 5, 6, and 7 forming another linear chain (4 -> 5 -> 6 -> 7). Additionally, the central node within each chain can be considered as a "star" pattern formed by the connection of surrounding nodes particularly on node 10, node 1, and node 4.'
+}
+```

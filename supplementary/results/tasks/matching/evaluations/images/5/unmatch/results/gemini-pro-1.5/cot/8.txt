@@ -1,0 +1,6 @@
+```json
+{
+  "match": "yes",
+  "analysis": "Both graphs have 5 nodes labeled 0 to 4.  Comparing the edges:\n\nGraph 1:\n- Node 0 connects to Node 3\n- Node 1 connects to Node 2 and Node 3\n- Node 2 connects to Node 4 and Node 0\n- Node 3 connects to Node 1 and Node 0\n- Node 4 connects to Node 2\n\nGraph 2:\n- Node 0 connects to Node 3\n- Node 1 connects to Node 3 and Node 4\n- Node 2 connects to Node 4 and Node 3\n- Node 3 connects to Node 0, Node 1, and Node 2\n- Node 4 connects to Node 1 and Node 2\n\nWhile the order and visualization differ, the connections in both graphs are equivalent. Therefore, the graphs match."
+}
+```

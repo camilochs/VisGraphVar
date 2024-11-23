@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 3,
+   "analysis": "The graph shows three distinct clusters of nodes, each forming a complete network where all nodes are connected to each other. This structure is characteristic of a clique. There are no chains or star patterns present in the graph."
+}
+```

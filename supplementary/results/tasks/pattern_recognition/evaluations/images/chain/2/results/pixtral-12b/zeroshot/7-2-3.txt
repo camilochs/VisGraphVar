@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['chain', 'star'],
+   'number_of_patterns': 2,
+   'analysis': 'The graph contains two patterns. One is a chain pattern consisting of nodes 0, 1, 2 connected linearly. The second pattern is a star pattern with node 3 at the center connecting to nodes 4 and 5.'
+}
+```

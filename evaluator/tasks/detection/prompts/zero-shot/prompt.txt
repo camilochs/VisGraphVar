@@ -1,0 +1,9 @@
+Analyze the graph in this image. Count and report the number of nodes and edges present. Provide your answer in the following JSON format:
+
+```json
+{
+   "total_nodes": [number of nodes],
+   "total_edges": [number of edges],
+   "analysis": "[Brief description of the graph, including node and edge colors]"
+}
+```

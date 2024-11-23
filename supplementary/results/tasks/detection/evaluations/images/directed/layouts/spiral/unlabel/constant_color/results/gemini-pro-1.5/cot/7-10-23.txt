@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 22,
+  "analysis": "The graph consists of 10 white nodes connected by 22 black edges. It appears to be a directed graph, meaning the edges have a direction indicated by arrows. The connections between nodes are complex and interconnected, creating a dense structure."
+}
+```

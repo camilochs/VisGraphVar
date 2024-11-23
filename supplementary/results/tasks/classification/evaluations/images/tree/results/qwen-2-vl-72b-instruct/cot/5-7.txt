@@ -1,0 +1,6 @@
+```json
+{
+   "type_graph": "planar",
+   "analysis": "The image shows a planar graph because the graph can be drawn in such a way that no edges cross each other."
+}
+```

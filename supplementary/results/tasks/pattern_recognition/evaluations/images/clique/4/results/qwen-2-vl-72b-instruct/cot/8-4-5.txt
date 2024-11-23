@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 4,
+   "analysis": "The graph shows four distinct clusters where each cluster has nodes that are fully interconnected. There are no isolated nodes within these clusters, and each node is connected to every other node in the cluster. This indicates that the pattern is a 'clique.' There are four instances of this pattern in the graph."
+}
+```

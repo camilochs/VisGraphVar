@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph consists of three distinct groups of nodes, each forming a clique. In each group, every node is connected to every other node without any isolated nodes. Specifically, there are three cliques visible in the image: nodes 0-3 form one clique, nodes 4-7 form another, and nodes 8-11 form the third. This full interconnection within each group is characteristic of a clique pattern."
+}
+```

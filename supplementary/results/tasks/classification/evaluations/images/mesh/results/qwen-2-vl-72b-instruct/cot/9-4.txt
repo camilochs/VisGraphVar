@@ -1,0 +1,6 @@
+```json
+{
+   "type_graph": "mesh",
+   "analysis": "The image shows a mesh graph because it contains cycles, with each vertex connected to its four nearest neighbors in a grid pattern. The vertices are organized in a 2D grid, and the edges form a regular pattern without crossing."
+}
+```

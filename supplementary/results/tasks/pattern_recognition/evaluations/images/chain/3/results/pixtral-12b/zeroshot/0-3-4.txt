@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': [' Independent Ghats ',],
+   'number_of_patterns': 3,
+   'analysis': 'The graph consists of three separate subgraphs. None of these subgraphs form a chain, clique, or star pattern that spans more than one subgraph. Each subgraph is an independent isolated cluster of nodes connected in a chain-like manner. The first subgraph contains nodes 7, 6, 5, and 4. The second subgraph consists of nodes 3, 2, 1, and 0. The third subgraph includes nodes 10, 11, 9, and 8. These subgraphs are not interconnected, thereby representing independent clusters.'
+}
+```

@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph contains 4 separate clique patterns, where each group consists of 3 nodes that are fully connected to each other. Each node in these groups has edges connecting to both other nodes in its group, forming complete triangles. The groups are made up of nodes (0,1,2), (3,4,5), (6,7,8), and (9,10,11), and each represents a perfect clique pattern where every node is connected to every other node within its group."
+}

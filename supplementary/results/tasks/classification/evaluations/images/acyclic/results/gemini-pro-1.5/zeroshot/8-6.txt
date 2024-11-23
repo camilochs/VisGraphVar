@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": ["planar", "acyclic"],
+  "analysis": "The image shows a planar, acyclic directed graph. It is planar because it can be drawn without edge crossings.  It is acyclic because there are directed edges that don't form a cycle."
+}
+```

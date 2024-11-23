@@ -1,0 +1,6 @@
+```json
+{
+   "type_graph": "tree",
+   "analysis": "The image shows a tree graph."
+}
+```

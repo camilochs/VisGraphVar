@@ -1,0 +1,5 @@
+{
+    "pattern": "chain",
+    "number_of_patterns": 2,
+    "analysis": "The graph shows two separate chain patterns. The first chain consists of nodes 0-1-2-3 connected sequentially, and the second chain consists of nodes 4-5-6-7 connected sequentially. Each node (except endpoints) is connected to exactly two other nodes, forming linear sequences, which is characteristic of chain patterns."
+}

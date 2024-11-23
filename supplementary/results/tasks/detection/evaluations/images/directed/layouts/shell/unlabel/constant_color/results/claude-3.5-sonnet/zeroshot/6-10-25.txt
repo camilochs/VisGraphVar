@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 26,
+   "analysis": "The graph is a directed network with 10 circular nodes and 26 directed edges connecting them. All nodes and edges are black. The graph appears to be densely connected with multiple paths between most nodes."
+}
+```

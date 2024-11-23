@@ -1,0 +1,32 @@
+**Step One: Count the Number of Nodes**
+
+We must find and identify all the nodes (also referred to as data points or vertex’s), in this graph. In this graph there are 9 nodes, labeled as follows:
+
+*   Node 0
+*   Node 1
+*   Node 2
+*   Node 3
+*   Node 4
+*   Node5
+*   Node 6
+*   Node 7
+*   Node 8
+*   Node 9
+
+**Step Two: Determine the Total Number of Edges**
+
+We must count the number of connecting arcs/lines between the nodes that represent the flow between each node. In this graph, there are 17 edges.
+
+**Step Three: Analyze the colors of nodes and edges**
+
+In the provided graph, all nodes have unique colors for easy differentiation. Additionally, the color of the total number of edges appears to be black.
+
+**Step Four: Write out the result in the specified format**
+
+```json
+{
+   "total_nodes": 9,
+   "total_edges": 17,
+   "analysis": "There are 9 nodes in the graph with unique colors and 17 joining arcs also known as edges present in the the image. The bridges between these nodes are all in black." 
+}
+```

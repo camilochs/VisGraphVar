@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "The graph consists of two disconnected subgraphs, each forming a complete graph (clique). In a clique, every node is connected to every other node. The first subgraph includes nodes 0, 1, 2, and 3, and the second subgraph includes nodes 4, 5, 6, and 7. Both subgraphs have all possible edges between nodes, indicating a clique pattern."
+}
+```

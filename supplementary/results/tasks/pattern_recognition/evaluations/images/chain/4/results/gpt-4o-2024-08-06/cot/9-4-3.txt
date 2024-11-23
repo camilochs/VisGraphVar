@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "chain",
+   "number_of_patterns": 4,
+   "analysis": "The graph consists of four separate chains of nodes. Each chain consists of nodes linked in a continuous sequence without forming any other shape. Specifically, the chains are composed of the sequences: (0-1-2), (3-4-5), (6-7-8), and (9-10-11). There are no nodes that act as central hubs, and no fully interconnected groups are present, thus identifying them as chains."
+}
+```

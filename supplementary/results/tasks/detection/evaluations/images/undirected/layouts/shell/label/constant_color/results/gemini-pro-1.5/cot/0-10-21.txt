@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 30,
+  "analysis": "The graph is a Petersen graph. It has 10 nodes, all in white, and 30 black edges connecting them in a unique symmetrical pattern.  Each node appears to have a degree of 3."
+}
+```

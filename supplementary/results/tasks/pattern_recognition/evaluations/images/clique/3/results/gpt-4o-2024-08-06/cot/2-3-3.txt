@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three distinct clusters. Each cluster is fully interconnected without isolated nodes, forming a 'clique'. The first clique consists of nodes 0, 1, 2. The second clique consists of nodes 3, 4, 5. The third clique consists of nodes 6, 7, 8. There are no central nodes with surrounding nodes, excluding the 'star' pattern, and no continuous sequences indicative of a 'chain' pattern."
+}
+```

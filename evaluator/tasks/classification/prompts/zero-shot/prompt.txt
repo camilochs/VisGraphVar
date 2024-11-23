@@ -1,0 +1,10 @@
+Please analyze this graph visualization and classify it into one of the following categories: acyclic, bipartite, complete, cyclic, mesh, planar, or tree.
+
+Provide your response in the following JSON format:
+
+```json
+{
+   "type_graph": "[classification]",
+   "analysis": "The image shows a [classification] graph."
+}
+```

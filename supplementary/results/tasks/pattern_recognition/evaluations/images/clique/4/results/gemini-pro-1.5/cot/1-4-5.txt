@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [4],
+  "analysis": "The graph consists of four distinct groups of nodes. Each group represents a clique because every node within a group is directly connected to every other node in the same group.  There are no connections between nodes in different groups. Thus, there are four separate clique patterns."
+}
+```

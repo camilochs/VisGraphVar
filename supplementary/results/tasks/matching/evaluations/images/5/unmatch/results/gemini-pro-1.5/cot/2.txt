@@ -1,0 +1,6 @@
+```json
+{
+  "match": "no",
+  "analysis": "Graph 1 has 5 nodes labeled 0, 1, 2, 3, and 4. It has edges connecting (0, 2), (2, 3), and (0, 4). Graph 2 has 5 nodes labeled 0, 1, 2, 3, and 4.  It has edges connecting (0, 1), (1, 3), and (3, 4).  Node 2 is isolated in graph 2. Since the edges are different, the graphs do not match."
+}
+```

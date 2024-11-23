@@ -1,0 +1,5 @@
+{
+    "pattern": "chain",
+    "number_of_patterns": 3,
+    "analysis": "The graph contains three distinct chain patterns. Each chain is characterized by vertices connected in a linear sequence where each vertex (except endpoints) has exactly two neighbors. The first chain runs from node 0 to 4, the second chain from node 5 to 9, and the third chain spans from node 10 through nodes 11-19, with a branch at node 12 extending to node 14. All connections follow a linear path without forming cycles or star-like structures."
+}

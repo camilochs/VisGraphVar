@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 21,
+  "analysis": "The graph consists of 10 white nodes labeled 0 through 9. The edges are all black, and they connect the nodes in such a way that the graph is fully connected; however, it does not appear to be fully bi-directional. The graph has a circular layout. "
+}
+```

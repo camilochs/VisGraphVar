@@ -1,0 +1,6 @@
+```json
+{
+  "match": "yes",
+  "analysis": "Both graphs have 6 nodes labeled 0 to 5. Comparing the edges:\n\nGraph 1:\n- 0 connected to 1 and 5\n- 1 connected to 0, 2, and 4\n- 2 connected to 1, 4, and 5\n- 3 connected to 4\n- 4 connected to 1, 2, and 3\n- 5 connected to 0 and 2\n\nGraph 2:\n- 0 connected to 1 and 5\n- 1 connected to 0, 2, and 4\n- 2 connected to 1, 4, and 5\n- 3 connected to 4\n- 4 connected to 1, 2, and 3\n- 5 connected to 0 and 2\n\nSince all node connections are identical in both graphs, they are the same graph, just drawn differently."
+}
+```

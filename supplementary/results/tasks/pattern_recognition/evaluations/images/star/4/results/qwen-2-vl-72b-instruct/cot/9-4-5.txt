@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "Each node in a clique is connected to every other node within the same clique. In this graph, there are four cliques identified: nodes 0-3, nodes 5-8, nodes 10-13, and nodes 15-18. Each clique contains four nodes, with one central node and three peripheral nodes. This structure is characteristic of a clique pattern, where every node is directly connected to every other node without any isolated nodes."
+}
+```

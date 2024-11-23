@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['star', 'star', 'star'],
+   'number_of_patterns': 3,
+   'analysis': 'The graph contains three distinct star patterns. Each node is connected to a central node with three other nodes radiating out from it. This indicates that all graph structures are highly centralized around individual hub nodes.'
+}
+```

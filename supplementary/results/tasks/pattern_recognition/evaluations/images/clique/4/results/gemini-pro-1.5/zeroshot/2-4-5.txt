@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [4],
+  "analysis": "The graph contains four distinct groups of interconnected nodes where each node within a group is connected to every other node in that same group. These groups are characteristic of clique patterns."
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "match": "no",
+  "analysis": "While both graphs have 5 nodes labeled 0 to 4, their connections are different. Graph 1 is a path connecting nodes in increasing order (4-1-2-3-0). Graph 2 is also a path, but it connects the nodes in a different order (0-3-2-1-4)."
+}
+```

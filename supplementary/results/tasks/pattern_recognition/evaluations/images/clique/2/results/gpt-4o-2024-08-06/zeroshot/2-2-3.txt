@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate sets of nodes, where every node in each set is connected to every other node in the same set. This forms two complete subgraphs, known as cliques, one with nodes 0, 1, 2 and another with nodes 3, 4, 5."
+}
+```

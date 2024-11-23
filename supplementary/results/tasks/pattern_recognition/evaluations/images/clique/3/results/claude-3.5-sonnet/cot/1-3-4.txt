@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "This graph contains three separate clique patterns. A clique is a group of nodes where each node is connected to every other node in the group. Looking at the layout: 1) The top group shows nodes 8,9,10,11 forming a complete clique where each node connects to all others. 2) The bottom right has nodes 0,1,2,3 forming another complete clique. 3) The bottom left shows nodes 4,5,6,7 forming the third clique. Each cluster demonstrates full interconnectivity between its member nodes, which is the defining characteristic of a clique pattern. There are no isolated nodes or star/chain formations present."
+}

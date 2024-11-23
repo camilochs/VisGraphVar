@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [4],
+  "analysis": "The graph consists of four distinct cliques, which are groups of nodes where each node is directly connected to every other node in the group.  These are small cliques (3 nodes each, except for one with 2), and there are no connections between the cliques."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [3],
+  "analysis": "Three separate groups of interconnected nodes form three distinct cliques. Each node within a clique is directly connected to every other node in the same clique.  There are no connections between the cliques."
+}
+```

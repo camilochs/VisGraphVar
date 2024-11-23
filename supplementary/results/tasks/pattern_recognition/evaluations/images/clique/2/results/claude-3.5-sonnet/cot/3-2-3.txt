@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate triangular structures (cliques of size 3). The first clique consists of nodes 0, 1, and 2, while the second clique consists of nodes 3, 4, and 5. In each clique, every node is directly connected to every other node within its group, forming a complete subgraph. These structures match the definition of a clique pattern where all nodes are fully interconnected with each other within their respective groups. There are no isolated nodes or central hub nodes (which would indicate a star pattern), and the nodes are not arranged in a sequential chain."
+}

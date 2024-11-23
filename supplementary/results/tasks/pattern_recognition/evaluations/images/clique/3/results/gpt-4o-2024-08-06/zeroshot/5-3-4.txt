@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three clusters where each node is directly connected to every other node in the cluster. These clusters are nodes 0-3, 4-7, and 8-11, indicating the presence of cliques."
+}
+```

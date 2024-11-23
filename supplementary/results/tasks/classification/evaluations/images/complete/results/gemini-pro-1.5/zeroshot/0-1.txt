@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": ["complete", "cyclic", "mesh"],
+  "analysis": "The image shows a complete graph.  Every distinct pair of vertices is connected by a unique edge.  As such it is also a mesh and cyclic graph."
+}
+```

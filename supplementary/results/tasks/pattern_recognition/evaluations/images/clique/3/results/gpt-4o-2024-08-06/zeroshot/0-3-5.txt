@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three groups of nodes, each forming a complete subgraph where every pair of distinct nodes is connected by a unique edge. This is characteristic of a 'clique' pattern. Each subgroup perfectly fits this description."
+}
+```

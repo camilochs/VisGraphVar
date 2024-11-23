@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['clique'],
+   'number_of_patterns': 2,
+   'analysis': 'The graph consists of two distinct clusters, each with three nodes where each node is connected to the other two nodes in the same cluster. This pattern indicates fully interconnected groups without isolated nodes, which defines a clique pattern. Therefore, there are two instances of the clique pattern in the graph.'
+}
+```

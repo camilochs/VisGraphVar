@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph contains four sets of interconnected nodes forming complete subgraphs. Each group of three nodes (e.g., 0-1-2, 3-4-5, 6-7-8, 9-10-11) forms a clique, as every node is connected to every other node within its group."
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "match": "yes",
+  "analysis": "Both graphs have the same nodes and edges:\n\n**Nodes:** Both graphs have nodes labeled 0, 1, 2, 3, 4, and 5.\n\n**Edges:**\n* Graph 1 and Graph 2 have an edge between nodes 0 and 4.\n* Graph 1 and Graph 2 have an edge between nodes 0 and 5.\n* Graph 1 and Graph 2 have an edge between nodes 0 and 3.\n* Graph 1 and Graph 2 have an edge between nodes 4 and 5.\n* Graph 1 and Graph 2 have an edge between nodes 4 and 3.\n* Graph 1 and Graph 2 have an edge between nodes 3 and 5.\n* Graph 1 and Graph 2 have an edge between nodes 3 and 1.\n* Graph 1 and Graph 2 have an edge between nodes 1 and 2.\n\nSince both graphs have the same nodes and the same connections between them, the graphs match. The only difference is the color of the nodes and edges and the layout, which don't affect the graph structure."
+}
+```

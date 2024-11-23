@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": ["cyclic", "mesh"],
+  "analysis": "The image shows a cyclic and mesh graph. It contains several cycles, for instance, 1-5-7-1.  It's a mesh graph because most of the nodes are interconnected.  It's not a complete graph since not every pair of vertices is connected by an edge, therefore it can't be complete, bipartite, acyclic (e.g. tree), or planar (it contains the utility graph K3,3 as a minor)."
+}
+```

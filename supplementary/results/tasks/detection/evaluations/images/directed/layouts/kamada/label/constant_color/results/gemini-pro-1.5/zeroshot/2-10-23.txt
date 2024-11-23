@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 21,
+  "analysis": "The graph consists of 10 nodes labeled 0 through 9. The nodes are depicted as white circles with black outlines. The edges are represented by black arrows indicating the direction of connection.  There are 21 directed edges connecting various nodes."
+}
+```

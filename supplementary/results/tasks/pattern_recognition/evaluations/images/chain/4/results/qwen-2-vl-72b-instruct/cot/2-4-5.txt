@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "chain, clique, star",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three distinct patterns: 1) A chain of four nodes (0, 1, 2, 3, 4), 2) A clique of five nodes (11, 12, 13, 14), and 3) A star pattern centered around node 8 with peripheral nodes (9, 15, 16, 17, 18, 19)."
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": ["bipartite"],
+  "analysis": "The image shows a bipartite graph. The nodes can be clearly partitioned into two disjoint and independent sets (letters and numbers) where every edge connects a node from the letter set to a node in the number set.  There are no edges within either set themselves."
+}
+```

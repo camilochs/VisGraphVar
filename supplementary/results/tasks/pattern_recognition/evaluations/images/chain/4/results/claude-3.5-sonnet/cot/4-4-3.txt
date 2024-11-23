@@ -1,0 +1,5 @@
+{
+   "pattern": "chain",
+   "number_of_patterns": 4,
+   "analysis": "The graph contains 4 distinct chains: 1) Nodes 11-10-9 forming a 3-node chain, 2) Nodes 2-1-0 forming a 3-node chain, 3) Nodes 6-7-8 forming a 3-node chain, and 4) Nodes 3-4-5 forming a 3-node chain. Each chain shows a linear sequence of nodes where each node (except endpoints) connects to exactly two other nodes. There are no central nodes with multiple connections (ruling out star pattern) and no fully interconnected groups (ruling out clique pattern). The chains are clearly separated from each other in different areas of the graph, making them easily identifiable as independent chain patterns."
+}

@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": ["tree", "planar", "acyclic"],
+  "analysis": "The image shows a tree graph.  It is connected, acyclic, and undirected. Therefore, it is also planar and acyclic."
+}
+```

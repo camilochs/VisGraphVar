@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three patterns where each pattern consists of four nodes with every node being connected to the other three nodes in the same pattern. These are known as cliques in graph theory."
+}
+```

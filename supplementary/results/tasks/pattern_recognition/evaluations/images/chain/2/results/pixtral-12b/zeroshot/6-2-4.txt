@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['chain', 'star'],
+   'number_of_patterns': [1, 1],
+   'analysis': 'The graph contains two distinct patterns: a "chain" pattern and a "star" pattern. The chain pattern is a sequence of nodes where each node is directly connected to exactly two other nodes, except for the nodes at the ends ('autre bout) which are connected to only one node. Specifically, the nodes labeled 0, 1, 2, and 3 form this chain pattern. The star pattern consists of one central node (labeled 5) that is connected to multiple other nodes (labeled 4, 6, and 7). This star pattern is characterized by a central node having multiple peripheral nodes directly connected to it, forming a star shape.'
+}
+```

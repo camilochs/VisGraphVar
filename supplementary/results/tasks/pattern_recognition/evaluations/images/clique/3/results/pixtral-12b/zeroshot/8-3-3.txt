@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['clique'],
+   'number_of_patterns': 2,
+   'analysis': 'The graph contains two distinct cliques. A clique is a subgraph where each pair of vertices is adjacent. The first clique, consisting of nodes 6, 7, and 8, is in the upper part of the graph, and the second clique, consisting of nodes 3, 4, and 5, is in the bottom-right part of the graph.'
+}
+```

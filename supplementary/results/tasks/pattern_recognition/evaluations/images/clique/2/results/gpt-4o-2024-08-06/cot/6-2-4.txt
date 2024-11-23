@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct groups of nodes. Each group forms a 'clique,' meaning all nodes in each group are interconnected without any isolated nodes. The first clique involves nodes 0, 1, 2, and 3, each connected to every other node in this group. The second clique includes nodes 4, 5, 6, and 7, similarly fully connected internally. There are no isolated nodes or chain/star patterns observed."
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+  "match": "yes",
+  "analysis": "Both graphs have the same nodes (0, 1, 2, 3) and the same connections between the nodes (0-1, 0-2, 0-3, 2-3).  The layout and colors are different, but the underlying graph structure is identical."
+}
+```

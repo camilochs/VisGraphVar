@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 5,
+   "analysis": "The graph consists of five distinct clusters, each forming a clique. A clique is a group of nodes where every node is connected to every other node within the group. Each identified pattern (one in each of the five clusters) shows that all nodes are interconnected, forming a fully connected subgraph without isolated nodes."
+}
+```

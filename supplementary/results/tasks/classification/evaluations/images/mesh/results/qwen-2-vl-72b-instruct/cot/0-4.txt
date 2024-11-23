@@ -1,0 +1,6 @@
+```json
+{
+   "type_graph": "mesh",
+   "analysis": "The image shows a mesh graph because it is a grid-like structure with vertices arranged in rows and columns. Each vertex is connected to its four neighbors (up, down, left, and right), forming a regular pattern of squares. There are no cycles that start and end at the same vertex, and the graph can be drawn without edge crossings."
+}
+```

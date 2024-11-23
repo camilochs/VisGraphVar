@@ -1,0 +1,6 @@
+```json
+{
+   "type_graph": "acyclic",
+   "analysis": "The image shows a directed acyclic graph."
+}
+```

@@ -1,0 +1,31 @@
+**Graph Analysis**
+
+### Step 1: Count the number of nodes
+
+*   There are 11 nodes in the graph.
+
+### Step 2: Count the number of edges
+
+*   There are 13 edges in the graph.
+
+### **Step 3: Write JSON to report findings**
+
+```json
+{   
+   "total_nodes": 11,
+    "total_edges": 13,
+    "analysis": "A connected graph that contains no colors."
+}
+```
+
+**Answer:** 
+
+```
+{   
+   "total_nodes": 11,
+    "total_edges": 13,
+    "analysis": "A connected graph that contains no colors."
+}
+```
+
+Note that the graph is represented without specifying node and edge colors, as instructed.

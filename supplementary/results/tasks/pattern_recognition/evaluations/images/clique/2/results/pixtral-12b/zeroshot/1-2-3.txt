@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['star', 'star'],
+   'number_of_patterns': 2,
+   'analysis': 'The graph contains two distinct patterns: "star" patterns. The first pattern (bottom left) consists of a central node (0) connected to three other nodes (1, 2, and 3 all connected to the center node 0). The second pattern (top right) consists of a central node (4) connected to two other nodes (3 and 5 both connected to the center node 4). A "star" pattern is characterized by a single central node connected to all other nodes directly.'
+}
+```

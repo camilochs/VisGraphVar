@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 4,
+   "analysis": "Each group of nodes (1-2-0, 3-5-4, 6-8-7, and 9-10-11) is fully interconnected without isolated nodes, forming a 'clique' pattern."
+}
+```

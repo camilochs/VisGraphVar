@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "The graph consists of two distinct clusters, each fully interconnected without any isolated nodes. This indicates that each cluster represents a 'clique' pattern. There are no chains or star patterns visible in the graph. Therefore, the identified pattern is 'clique', and there are two instances of this pattern type in the image."
+}
+```

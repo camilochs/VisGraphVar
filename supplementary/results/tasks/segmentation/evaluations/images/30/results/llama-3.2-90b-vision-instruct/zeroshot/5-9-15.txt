@@ -1,0 +1,23 @@
+**Cut Edge Analysis**
+
+* The cut edge in the graph is between nodes 20 and 29.
+
+When the edge between these nodes is removed, the graph is divided into two separate subgraphs as follows:
+
+| Graph Components | Nodes |
+| --- | --- |
+| First graph | 21 - 20 - 19 - 18 - 17 - 16 - 15 - 29 - 25 - 24 - 23 - 22 - 21 |
+| Second graph | 21, 30 - 28 - 27 - 26 - 25, 15 - 9 - 29 |
+
+Note: The nodes 9, 15, 25, 29, and 27 do not belong to either component, but a single edge removal should split a graph into two subgraphs without having 1 node (or a handful) not being associated with either subgraph.
+
+Therefore, **the edge that splits the graph into two subgraphs is between node (20) and node (21).**
+
+```json
+{
+   "cut_edge": "(20, 21)",
+   "analysis": "Removing the edge between nodes 20 and 21 splits the graph into two subgraphs: Component with nodes 20, 19, 18, 17, 16, and another with the rest of the nodes."
+}
+```
+
+This question is adapted from the Microsoft Learn exercise Microsoft Azure - Fundamentals: develop cloud-based solutions (Modules 14 ~15)

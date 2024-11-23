@@ -1,0 +1,8 @@
+Based on the graph analysis, here is the response in the provided JSON format:
+
+```json
+{
+   "type_graph": "cyclic",
+   "analysis": "The image shows a cyclic graph because it contains at least one cycle (path 0 -> 1 -> 2 -> 0), with vertices connected in a loop, indicating that the graph is cyclic."
+}
+```

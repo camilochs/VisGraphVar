@@ -1,0 +1,6 @@
+```json
+{
+   "type_graph": "mesh",
+   "analysis": "The image shows a mesh graph."
+}
+```

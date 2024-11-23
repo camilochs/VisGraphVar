@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [2],
+  "analysis": "The graph consists of two distinct, fully connected components. The first component includes nodes 0, 1, 2, and 3, where each node is connected to every other node in this component. The second component includes nodes 4, 5, 6, and 7, similarly fully connected within themselves. Since both components show full interconnectedness with no isolated nodes within their respective groups, they represent two distinct cliques."
+}
+```

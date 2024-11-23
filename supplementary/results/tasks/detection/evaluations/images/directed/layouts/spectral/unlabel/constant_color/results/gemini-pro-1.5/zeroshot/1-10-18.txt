@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 14,
+  "analysis": "The graph consists of 10 white nodes and 14 black directed edges. The nodes are arranged roughly in a circular manner, with some additional edges connecting non-adjacent nodes. The direction of the arrows shows the direction of the edges."
+}
+```

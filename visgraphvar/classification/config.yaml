@@ -1,0 +1,17 @@
+type_graph:
+  - complete
+  - bipartite
+  - mesh
+  - planar
+  - tree
+  - cyclic
+  - acyclic
+
+num_nodes: 10
+size_node: 400
+size_border_node: 1
+color_node: "#fff"
+color_label: "black"
+color_edge: "black"
+arrowsize: 15
+total_graph: 10

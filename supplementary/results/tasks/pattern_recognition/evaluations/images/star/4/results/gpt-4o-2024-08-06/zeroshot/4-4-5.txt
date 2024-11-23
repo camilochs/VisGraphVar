@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph contains several clusters where each node is connected to every other node within the cluster, forming complete subgraphs or 'cliques'. There are four such cliques visible in the graph, each having all their nodes interconnected."
+}
+```

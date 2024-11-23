@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The image shows two separate clique patterns. Each subgraph consists of nodes that are densely interconnected. In the first clique (nodes 0,1,2,3,4), each node is connected to multiple other nodes forming a tightly interconnected group. Similarly, the second clique (nodes 5,6,7,8,9) shows the same pattern of multiple interconnections between nodes. These structures fit the definition of cliques where nodes form highly connected subgroups rather than chain-like sequences or star patterns with a central hub. The layout clearly shows that within each group, nodes share multiple connections with their neighbors rather than following a linear pattern or radiating from a central point."
+}

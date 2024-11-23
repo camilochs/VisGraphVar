@@ -1,0 +1,6 @@
+```json
+{
+  "match": "no",
+  "analysis": "Graph 1 and Graph 2 have the same number of nodes (6) with the same labels (0-5). However, their connections differ. Here's a breakdown:\n\nGraph 1:\n- 0 connects to 3, 4, and 5.\n- 1 connects to 5.\n\nGraph 2:\n- 0 connects to 1 and 2.\n- 1 connects to 3, 4, and 5.\n- Node 3 in graph 2 is not present in the same spot in graph 1.\n\nSince the connections are different, the graphs do not match."
+}
+```

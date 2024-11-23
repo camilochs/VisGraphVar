@@ -1,0 +1,9 @@
+```json
+{
+   "pattern": ["star"],
+   "number_of_patterns": 1,
+   "analysis": "1.isierung}),
+3. Each group can be seen as a star because there is a central node with several peripheral nodes connected directly to it.\
+   4. By identifying these components, it is evident that the single pattern repeated throughout the graph."
+}
+```

@@ -1,0 +1,6 @@
+```json
+{
+   "type_graph": "bipartite",
+   "analysis": "The image shows a bipartite graph because it consists of two distinct sets of vertices (left and right) where every edge connects a vertex from one set to a vertex from the other set. There are no edges connecting vertices within the same set. The graph is also acyclic and planar."
+}
+```

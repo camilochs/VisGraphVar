@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate structures where each node is connected to every other node in the same cluster. Nodes 0, 1, 2, and 3 form one complete subgraph or clique, and nodes 4, 5, 6, and 7 form another clique. Each node in these groups is connected to all the others in the same group."
+}
+```

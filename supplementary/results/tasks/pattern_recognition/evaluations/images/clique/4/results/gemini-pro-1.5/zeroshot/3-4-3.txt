@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [4],
+  "analysis": "The graph consists of four distinct sets of three nodes where each node in a set shares an edge with every other node in the same set. This complete interconnectedness within each set defines a clique.  There are no connections between the cliques."
+}
+```

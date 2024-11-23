@@ -1,0 +1,6 @@
+```json
+{
+   "match": "no",
+   "analysis": "Graph 1 and Graph 2 are not isomorphic. Here is a step-by-step explanation: \n1. Node count comparison: Both graphs have 4 nodes each. \n2. Node label comparison: Both graphs have nodes labeled 0, 1, 2. \n3. Node color comparison: The color of the nodes 0 in both graphs is different (Graph 1 node 0 is blue whereas Graph 2 node 0 is green). \n4. Edge count comparison: Both graphs have 2 edges each. \n5. Edge label comparison: Both graphs have edges between nodes 0-1, 1-2. \n6. Edge color comparison: The color of the edges 0-1 and 1-2 in both graphs is different (Graph 1 edge 0-1 is blue whereas Graph 2 edge 0-1 is orange)."
+}
+```

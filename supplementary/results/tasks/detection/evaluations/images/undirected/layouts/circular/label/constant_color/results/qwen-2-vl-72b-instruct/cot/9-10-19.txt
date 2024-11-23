@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 45,
+   "analysis": "The graph is a complete graph with 10 nodes (K10). Each node is connected to every other node with a single edge. The nodes are black circles labeled with numbers. The edges are black lines connecting all pairs of nodes."
+}
+```

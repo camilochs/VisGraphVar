@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 20,
+   "analysis": "This is a dense graph where each node is connected with multiple edges, forming a complex network. Nodes and edges are all in black."
+}
+```

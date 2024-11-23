@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct groups of nodes. Each group is fully interconnected, meaning every node within each group is connected to every other node in that group. This structure is characteristic of a 'clique.' In the left group (nodes 0, 1, 2, 3, 4), every node is connected to all others, and similarly in the right group (nodes 5, 6, 7, 8, 9), each node is connected to all others. There are no isolated nodes or a central node with peripheral nodes (as in a 'star'), nor is there a continuous sequence of nodes (as in a 'chain'). Therefore, the graph consists of two 'clique' patterns."
+}
+```

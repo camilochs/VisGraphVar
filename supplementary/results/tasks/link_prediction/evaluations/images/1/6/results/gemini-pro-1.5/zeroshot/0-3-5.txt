@@ -1,0 +1,6 @@
+```json
+{
+  "nodes_prediction": [3, 6],
+  "analysis": "This graph appears to be a complete graph (K6) with one edge missing.  Each node should be connected to every other node.  Nodes 3 and 6 are the only pair not connected."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "There are two separate groups of connected nodes, each forming a clique pattern. In both groups, every node is directly connected to every other node."
+}
+```

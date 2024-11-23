@@ -1,0 +1,6 @@
+```json
+{
+   "match": "no",
+   "analysis": "Graph 1 has nodes labeled 0, 1, 2, and 3, with the following connections: 1-2, 2-3, 3-1, and 2-0. Graph 2 has nodes labeled 0, 1, 2, and 3, with the following connections: 1-2, 1-3, 2-3, and 2-0. The node labels and counts are the same, but the connections differ. Graph 1 has a connection between 1 and 2, 2 and 3, 3 and 1, and 2 and 0, while Graph 2 has a connection between 1 and 2, 1 and 3, 2 and 3, and 2 and 0. The connection between 3 and 1 in Graph 1 does not have a corresponding connection in Graph 2, and the connection between 1 and 3 in Graph 2 does not have a corresponding connection in Graph 1. Therefore, the graphs do not match."
+}
+```

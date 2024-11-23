@@ -1,0 +1,23 @@
+**Step 1: Identify the pattern type**
+
+The graph appears to have a few distinct features. We can see that the majority of nodes are connected to three or fewer other nodes. However, one of the clusters in particular has all of its nodes (nodes 9, 10, 8, and 11) connected to each other. This is a good indication of a very strong social interaction among these users. 
+
+**Step 2: Identify the extent of these features in the graph**
+
+Upon further inspection of the graph, there is only one of these 'communities' detected. There is no further overlap between the nodes on the left (0, 1, 2, and 3) and (4, 5, 6, and 6). 
+
+**Step 3: Conclusion**
+
+Considering the previous steps, it is clear that there is only one identified community that exhibits characteristics of anyone of the three given structures (chain, star, or clique). We know it is not a chain structure because no nodes have only one edge. Likewise, it is not a star because not all edges connect back to one specific common node (for example, a "central" character). 
+
+We can therefore conclude that this community exhibits a clique structure because all nodes in the cluster connect to one another. The other community does not, however, and therefore is just an isolated community.
+
+**Answer:**
+
+```json
+{
+    'pattern': ['clique'],
+    'number_of_patterns': [1],
+    'analysis': 'There exist nodes (9, 10, 8, and 11) which all share edges only with each other. This forms a complete subgraph with four nodes.' 
+}
+```

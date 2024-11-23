@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['chain', 'star'],
+   'number_of_patterns': [1, 1],
+   'analysis': 'The graph image contains two distinct patterns. On the left side, there is a "chain" pattern, which is characterized by nodes arranged in a linear sequence where each node is connected by an edge to the next node. On the right side, there is a "star" pattern, where one central node is connected to multiple peripheral nodes, forming a star-like configuration. The detection of these patterns was based on the arrangement and connectivity of nodes observed in the graph.'
+}
+```

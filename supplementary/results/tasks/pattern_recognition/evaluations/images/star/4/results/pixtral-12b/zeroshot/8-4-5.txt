@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['star'],
+   'number_of_patterns': 4,
+   'analysis': 'The graph contains four distinct star patterns. Each pattern is characterized by one central node connected to multiple peripheral nodes. These star patterns can be identified by a central hub node with several nodes radiating outwards from it.'
+}
+```

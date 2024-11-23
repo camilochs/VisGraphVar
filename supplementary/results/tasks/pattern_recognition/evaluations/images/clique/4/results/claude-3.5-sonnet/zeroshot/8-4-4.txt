@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph contains 4 distinct clique patterns. Each clique consists of 4 nodes where every node is connected to every other node within its group. These cliques are isolated from each other and are positioned in different corners of the graph. The nodes in each clique are densely interconnected, forming complete subgraphs, which is the defining characteristic of a clique pattern."
+}

@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 7,
+   "total_edges": 21,
+   "analysis": "The graph is a directed, complete graph with 7 nodes and 21 edges. All nodes and edges are black in color."
+}
+```

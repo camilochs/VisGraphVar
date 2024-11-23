@@ -1,0 +1,5 @@
+{
+   'pattern': 'clique, star',
+   'number_of_patterns': '1, 1',
+   'analysis': ''
+}

@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate clique patterns. A clique is a pattern where every node is connected to every other node in the group. In this image, there are two distinct groups: one clique with nodes 5,6,7,8,9 and another clique with nodes 0,1,2,3,4. In each group, every node is connected to all other nodes within its respective group, forming complete subgraphs."
+}

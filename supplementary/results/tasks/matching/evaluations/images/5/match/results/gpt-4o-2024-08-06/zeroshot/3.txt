@@ -1,0 +1,6 @@
+```json
+{
+   "match": "yes",
+   "analysis": "Both graphs consist of two separate components with identical structures. Each component in both graphs has two nodes connected by a single edge. The labeling and weights do not affect the structural match."
+}
+```

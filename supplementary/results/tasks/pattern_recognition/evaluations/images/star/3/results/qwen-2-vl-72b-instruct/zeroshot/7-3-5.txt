@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["star"],
+   "number_of_patterns": 3,
+   "analysis": "Each group in the graph consists of one central node connected to multiple peripheral nodes, which is characteristic of a star pattern."
+}
+```

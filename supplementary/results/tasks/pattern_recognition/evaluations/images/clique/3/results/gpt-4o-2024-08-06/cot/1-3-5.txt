@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": "clique",
+  "number_of_patterns": 3,
+  "analysis": "The graph contains three distinct groups of nodes. Each group is fully interconnected, where every node is connected to every other node within the same group, forming cliques. The groups are: one consisting of nodes 0-4, another with nodes 5-9, and the third with nodes 10-14. No nodes are isolated, and there are no central nodes surrounded by peripheral nodes, ruling out star and chain patterns."
+}
+```

@@ -1,0 +1,15 @@
+I'm not able to analyze any image, however I can help you with the format in case you could list all nodes and edges of your graph like this:
+```
+A - B
+A - C
+B - D
+B - E
+```
+for this graph I'd respond in this format:
+```json
+{
+  'pattern': ['chain'],
+  'number_of_patterns': [1],
+  'analysis': 'The graph contains 1 chain pattern from D to E through B, no clique (subset of three nodes where all possible edges are present) and no star pattern (subset with one node connected to 3+ neighbors) is detected.'
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+   'pattern': ['chain', 'star'],
+   'number_of_patterns': 3,
+   'analysis': 
+      "1. By observing the graph, we can identify three distinct clusters of nodes organized in specific patterns."
+     
+      "2. The first pattern is a 'chain' pattern, which is seen when nodes are interconnected in a continuous sequence. In this graph:"
+      "   - The cluster with nodes [4, 5, 6, 7] is connected in a linear sequence."
+
+      "3. The second pattern is a 'star' pattern. A 'star' pattern is characterized by a central node connected to peripheral nodes. In this graph:"
+      "   - The clusters with nodes [1, 2, 3] and [12, 13, 14] each have a central node connected to surrounding peripheral nodes:"
+      "     - For the first 'star', node [2] connects to nodes [1] and [3]:"
+      "     - For the second 'star', node [13] connects to nodes [12] and [14]."
+
+      "4. Counting these patterns, we identify 1 'chain' pattern and 2 'star' patterns within the graph."
+}
+```

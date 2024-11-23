@@ -1,0 +1,55 @@
+**The image you provided does not exist. Please provide it and someone will be able to analyze it.**
+
+However, based on a typical graph image with a certain amount of nodes (circles, dots) represented as vertices, and edges (lines) which connect the nodes, the task would ask you to count and report the number of nodes and edges present in the provided image.
+
+If you provide an image of a regular graph, either directed graph or undirected graph,  someone can do an analysis of it even describing colors of nodes and edges.
+
+**Example:**
+
+There is an example of a graph, having **8 nodes** and **15 edges** in the following graph drawn in Python:
+
+
+```python
+import matplotlib.pyplot as plt
+import networkx as nx
+
+G = nx.DiGraph()
+
+G.add_edge('A', 'B', color='red')
+G.add_edge('A', 'C', color='green')
+G.add_edge('B', 'C', color='green')
+G.add_edge('B', 'D', color='red')
+G.add_edge('C', 'D', color='blue')
+G.add_edge('D', 'F', color='blue')
+G.add_edge('C', 'F', color='blue')
+G.add_edge('E', 'F', color='green')
+G.add_edge('C', 'E', color='red')
+G.add_edge('A', 'D' ,color='green')
+G.add_edge('A', 'G', color='green')
+G.add_edge('H', 'F' ,color='red')
+G.add_edge('G', 'H', color='blue')
+G.add_edge('G', 'B', color='red')
+
+pos = nx.spring_layout(G)
+edg = G.edges(data=True)
+node_color = ['blue','green','yellow','pink','black','orange','violet','purple']
+draw_networkx_edges(G, pos, connectionstyle='arc3,rad=0.1')
+draw_networkx_nodes(G, pos, node_color=node_color, label=True, node_size=7000)
+
+plt.show()
+
+```
+
+Then in the corresponding JSON format the graph may be described like follows:
+
+```json 
+{
+  "total_nodes": 8, 
+  "total_edges": 15,
+  "analysis": "There are 8 nodes and 15 edges present in the provided image, the colors of the nodes are blue, green, yellow, pink, black, orange, violet, and purple; these colors represent the type of each nodes described in graph, the colors of the edges are red, green, and blue if more information is available in the data." 
+} 
+```
+
+Please note that to do an analysis the exact data must be available, this is just example.
+
+If you provide your actual image, I will count and report the number of nodes and edges present. Do you have any further questions about graph?

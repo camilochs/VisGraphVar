@@ -1,0 +1,15 @@
+**Pattern Analysis**
+
+Unfortunately, the image you provided is not included in the text prompt. However, to meet the parameters of the answer, I will include an example of how the pattern analysis might be formatted.
+
+```json
+{
+   "pattern": ["chain"],
+   "number_of_patterns": 1,
+   "analysis": "We determined the pattern by looking at the chains of points. A chain represents any line that does not break or fork off into a separate line. In this way, the pattern follows a simple connection from one point to the next, where each point exists exclusively to lead to the next point."
+}
+```
+
+However, if an image was given, I could add the content as follows: 
+
+ chain, clique, and star each being separate point patterns, we determine the single one below.  The example result, which would be chain as the pattern type.  Number of patterns shows a single example. The number can be more than one in a pattern, the Analysis will provide how we came up with that result.

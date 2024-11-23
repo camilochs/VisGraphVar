@@ -1,0 +1,5 @@
+{
+   "pattern": "star",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct star patterns. The first star is centered at node 5 with connections to nodes 6, 7, 8, and 9. The second star is centered at node 0 with connections to nodes 1, 2, 3, and 4. Both patterns show the characteristic hub-and-spoke arrangement where a central node connects to multiple outer nodes, and the outer nodes are only connected to the central node."
+}

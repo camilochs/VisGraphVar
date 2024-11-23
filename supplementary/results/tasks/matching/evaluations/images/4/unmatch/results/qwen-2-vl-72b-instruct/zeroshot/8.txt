@@ -1,0 +1,6 @@
+```json
+{
+   "match": "no",
+   "analysis": "The two graphs do not match. The structures of the graphs are different. In Graph 1, node 0 is connected to nodes 1 and 2, and node 3 is connected to node 0. In Graph 2, nodes 0, 1, 2, and 3 are connected in a square formation. The adjacency and connectivity between the nodes are not the same."
+}
+```

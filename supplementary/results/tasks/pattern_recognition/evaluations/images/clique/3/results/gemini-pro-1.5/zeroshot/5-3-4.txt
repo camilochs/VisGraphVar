@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [3],
+  "analysis": "The graph contains three distinct sets of completely connected components. Each set forms a clique because every node within a set is directly connected to every other node in the same set."
+}
+```

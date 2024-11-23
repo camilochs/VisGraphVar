@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['chain', 'star'],
+   'number_of_patterns': [2],
+   'analysis': 'The graph contains two distinct patterns: a chain and a star. The chain pattern is represented by a linear sequence of nodes connected in a straight line (nodes 14-10). The star pattern is characterized by a central node (node 7) with multiple nodes connected to it (nodes 9, 18, 6, 5, 17, 16, and 15).'
+}
+```

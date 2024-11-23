@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 3,
+   "analysis": "The graph is composed of three distinct clusters, each forming a clique. In each cluster, the nodes are fully interconnected without any isolated nodes. The first cluster is formed by nodes 0, 1, 2, and 3; the second cluster by nodes 6, 7, 4, and 5; and the third cluster by nodes 9, 11, 10, and 8. This analysis shows that the structure of the graph is consistent with cliques."
+}
+```

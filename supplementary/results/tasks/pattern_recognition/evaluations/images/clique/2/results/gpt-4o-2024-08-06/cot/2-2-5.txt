@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct groups of nodes. The first group consists of nodes 5, 6, 7, 8, and 9, where each node is connected to every other node within the group, forming a fully interconnected structure without isolated nodes. This layout constitutes a 'clique.' The second group consists of nodes 0, 1, 2, 3, and 4, which exhibit the same fully interconnected pattern. Both groups exhibit the same pattern type, making these cliques. There are no isolated nodes, chains, or star formations visible."
+}
+```

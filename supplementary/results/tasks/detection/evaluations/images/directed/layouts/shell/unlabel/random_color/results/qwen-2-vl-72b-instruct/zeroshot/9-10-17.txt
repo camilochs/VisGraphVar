@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 15,
+   "analysis": "The graph is a directed graph with nodes of different colors. There are 10 nodes in total. The edges are represented as arrows connecting the nodes. The graph appears to be fully connected, with each node having at least one edge pointing towards it and one pointing away from it."
+}
+```

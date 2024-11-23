@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique", "star"],
+   "number_of_patterns": 2,
+   "analysis": "The graph contains 3 cliques (1-4, 5-8, and 10-13) and 1 star (10-12, with node 10 as the center)."
+}
+```

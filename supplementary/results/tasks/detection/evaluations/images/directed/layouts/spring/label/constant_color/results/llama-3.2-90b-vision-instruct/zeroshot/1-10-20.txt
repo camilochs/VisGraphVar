@@ -1,0 +1,15 @@
+The graph in the image is labeled with numbers from an arbitrary set, where there are nodes ranging from 0 to 9. Each node is connected by an arrow line. 
+
+This suggest that the graph is a Directed Graph, where each node (or vertex) is connected by a directed edge. A directed edge tells you which direction to travel in alongside the connection between vertices. 
+
+Finally, we can see by looking at the edges, that this graph is simple. A simple graph Is a graph with exactly two edges connecting one source node with one destination node, never allowing more.
+
+I've put the details you’ve requested together in the following JSON (JavaScript Object Notation):
+
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 14,
+  "analysis": "The graph is a directed (simple) graph, with all elements connecting from the number zero node using decreasing numbers, and there are no nodes sharing the same name."
+}
+```

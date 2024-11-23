@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["chain"],
+   "number_of_patterns": 5,
+   "analysis": "The graph contains five 'chain' patterns. Each 'chain' consists of three nodes connected in a linear sequence. The chains are as follows: 0-1-2, 3-4-5, 6-7-8, 9-10-11, and 0-1-3. There are no 'clique' or 'star' patterns present."
+}
+```

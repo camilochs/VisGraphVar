@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['clique'],
+   'number_of_patterns': 2,
+   'analysis': 'The image depicts two distinct patterns, both of which exhibit the characteristics of a "clique." A clique is a subgraph where every pair of vertices is connected by an edge, and each of the groups of vertices (one to the left and one to the right) meets this criterion. This means that every vertex in each group is connected to every other vertex within the same group, forming entirely interconnected subgroups.'
+}
+```

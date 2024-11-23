@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 17,
+   "analysis": "The graph is a directed network with 10 white circular nodes connected by 17 black arrows representing edges. The nodes are arranged in an irregular pattern, forming a complex interconnected structure."
+}
+```

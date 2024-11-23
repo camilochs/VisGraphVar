@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": "planar",
+  "analysis": "The image shows a planar graph because it can be drawn without any edge crossings.  It is cyclic as it contains several cycles (e.g., 0 -> 1 -> 2 -> 3 -> 0). It is not bipartite as the nodes cannot be split into two sets where edges only connect nodes in different sets.  It is not complete as not every node is connected to every other node. It is not a tree as it contains cycles. It is not a mesh as the edges do not form a regular grid like pattern."
+}
+```

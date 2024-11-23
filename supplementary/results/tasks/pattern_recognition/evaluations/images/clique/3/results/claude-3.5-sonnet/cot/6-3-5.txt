@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph shows three distinct groups, each consisting of 5 nodes. In each group, every node appears to be connected to every other node within its group, forming complete subgraphs or cliques. The first clique contains nodes 0-4, the second clique contains nodes 5-9, and the third clique contains nodes 10-14. The nodes within each group are arranged in a circular pattern, which is typical for clique visualization. There are no connections between the different cliques, making them isolated complete subgraphs. This pattern is clearly identifiable as a clique pattern because of the complete interconnectedness within each group."
+}

@@ -1,0 +1,6 @@
+```json
+{
+   "match": "no",
+   "analysis": "The two graphs have different structures. In Graph 1, nodes 2 and 3 are connected, while in Graph 2, nodes 2 and 3 are not connected. Additionally, the positions of the nodes do not match, indicating different layouts or structures."
+}
+```

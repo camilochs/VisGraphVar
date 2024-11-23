@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 3,
+   "analysis": "The graph consists of three connected components, each forming a clique (complete graph) where all vertices are directly connected to each other. The cliques are centered around vertices 2, 5, and 8."
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['chain', 'star'],
+   'number_of_patterns': 2,
+   'analysis': 'The image displays a graph with two distinct topologies. The first graph on the left is a "chain" pattern where each node is connected in a linear sequence, starting from node 0 to node 2. The second graph on the right is a "star" pattern where there is a central node (node 4) to which all the other nodes (nodes 3 and 5) are connected.'
+}
+```

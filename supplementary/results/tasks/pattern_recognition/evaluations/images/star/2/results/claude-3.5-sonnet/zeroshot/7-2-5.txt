@@ -1,0 +1,5 @@
+{
+    "pattern": "star",
+    "number_of_patterns": 2,
+    "analysis": "The graph contains two star patterns. The first star is centered at node 0 with four edges connecting to nodes 1, 2, 3, and 4. The second star is centered at node 5 with four edges connecting to nodes 6, 7, 8, and 9. In both cases, there is a central node connected to multiple outer nodes, and the outer nodes are only connected to the central node, which is characteristic of a star pattern."
+}

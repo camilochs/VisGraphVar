@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['clique', 'clique'],
+   'number_of_patterns': 2,
+   'analysis': 'The graph contains two distinct patterns, both of which are identified as cliques. A clique is a subset of nodes in a graph where every pair of nodes is adjacent. Each of the cliques consists of four interconnected nodes. The first clique is named "A" (nodes 0-3), and the second one is named "B" (nodes 5-8).'
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate clique patterns. The first clique consists of nodes 0, 1, and 2, where all nodes are directly connected to each other forming a triangle. The second clique involves nodes 3, 4, and 5, also forming a fully interconnected triangle where each node connects to both other nodes in that group. Both structures meet the definition of a clique where every node is directly connected to every other node within its group."
+}
+```

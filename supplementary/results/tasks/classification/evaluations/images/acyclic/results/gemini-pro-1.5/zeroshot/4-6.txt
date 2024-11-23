@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": ["acyclic", "planar"],
+  "analysis": "The image shows a directed acyclic graph (DAG).  It is also a planar graph because it can be drawn on a plane without any edges crossing."
+}
+```

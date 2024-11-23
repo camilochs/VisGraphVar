@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [3],
+  "analysis": "The graph contains three distinct cliques. Each clique is a complete graph where every node is connected to every other node within the same clique. The first clique consists of nodes 8, 9, 10, and 11. The second clique contains nodes 0, 1, 2, and 3.  The third clique comprises nodes 4, 5, 6, and 7. There are no connections between nodes of separate cliques."
+}
+```

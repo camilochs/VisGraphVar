@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["chain"],
+   "number_of_patterns": 5,
+   "analysis": "The graph contains one linear chain per line, with numbers labeled on the nodes. Each chain starts and ends at the point where two chains intersect."
+}
+```

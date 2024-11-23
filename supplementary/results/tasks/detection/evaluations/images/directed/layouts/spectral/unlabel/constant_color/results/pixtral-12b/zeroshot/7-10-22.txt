@@ -1,0 +1,9 @@
+Here is the required information in the specified JSON format:
+
+```json
+{
+   "total_nodes": 8,
+   "total_edges": 12,
+   "analysis": "The graph consists of 8 white nodes connected by 12 directed edges. It contains multiple connected nodes forming various paths. The overall shape of the graph resembles a star or tree structure with some additional branches."
+}
+```

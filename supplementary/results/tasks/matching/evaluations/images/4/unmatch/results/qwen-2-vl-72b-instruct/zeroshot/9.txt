@@ -1,0 +1,6 @@
+```json
+{
+   "match": "no",
+   "analysis": "Graph 1 has three nodes (1, 0, 2) with a single edge connecting nodes 1 and 2. Node 0 is isolated. Graph 2 has three nodes (3, 1, 2) with edges connecting nodes 1 and 2, and nodes 2 and 3. The edge connections are different between the two graphs, and Graph 2 includes a node (3) that does not exist in Graph 1."
+}
+```

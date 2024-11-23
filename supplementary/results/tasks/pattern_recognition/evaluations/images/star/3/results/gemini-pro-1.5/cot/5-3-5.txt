@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["star"],
+  "number_of_patterns": [3],
+  "analysis": "The graph consists of three separate components. Each component has a central node connected to multiple leaf nodes, which is characteristic of a star pattern.  The first star is centered around node 5 (connected to 6, 7, 8, and 9). The second star is centered around node 0 (connected to 1, 2, 3, and 4). The third star is centered around node 10 (connected to 11, 12, 13, and 14)."
+}
+```

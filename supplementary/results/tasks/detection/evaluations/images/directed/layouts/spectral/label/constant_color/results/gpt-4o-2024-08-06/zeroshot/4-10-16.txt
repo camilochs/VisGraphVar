@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 20,
+   "analysis": "The graph is a directed graph with nodes in a circular layout. The nodes are all white with black borders, and the edges are black arrows showing directed connections between the nodes."
+}
+```

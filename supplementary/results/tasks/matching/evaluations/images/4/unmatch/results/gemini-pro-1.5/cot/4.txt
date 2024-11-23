@@ -1,0 +1,6 @@
+```json
+{
+  "match": "yes",
+  "analysis": "Both graphs have 4 nodes labeled 0, 1, 2, and 3. Neither graph has any edges. Since they have the same nodes and the same lack of edges, the graphs are isomorphic, so they match."
+}
+```

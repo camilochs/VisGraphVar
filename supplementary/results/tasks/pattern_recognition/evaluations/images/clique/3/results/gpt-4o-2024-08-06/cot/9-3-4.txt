@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "There are three distinct groups of nodes in the graph. Each group forms a fully interconnected subgraph with no isolated nodes. The first group consists of nodes 0, 1, 2, and 3; the second group includes nodes 4, 5, 6, and 7; the third group consists of nodes 8, 9, 10, and 11. In each group, every node is directly connected to every other node, forming a 'clique'."
+}
+```

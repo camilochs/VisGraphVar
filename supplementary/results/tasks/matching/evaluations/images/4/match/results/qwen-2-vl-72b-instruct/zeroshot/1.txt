@@ -1,0 +1,6 @@
+```json
+{
+   "match": "no",
+   "analysis": "The two graphs have different structures. Graph 1 has a node 0 connected to node 1, while Graph 2 has node 3 connected to node 0. The nodes and their connections do not match between the two graphs."
+}
+```

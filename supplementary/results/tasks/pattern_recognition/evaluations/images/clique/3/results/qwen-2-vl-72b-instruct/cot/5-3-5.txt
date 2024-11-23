@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 3,
+   "analysis": "The graph consists of three separate clusters, each of which is a clique. In each cluster, all nodes are interconnected without any isolated nodes. There are no chain or star patterns present."
+}
+```

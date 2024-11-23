@@ -1,0 +1,6 @@
+```json
+{
+  "match": "yes",
+  "analysis": "Both graphs have the same number of nodes and the same connections between them. Graph 1 is visually different because of different node placement but has the same underlying structure. For example, node 2 connects to nodes 0, 3, 4, and 5 in both graphs."
+}
+```

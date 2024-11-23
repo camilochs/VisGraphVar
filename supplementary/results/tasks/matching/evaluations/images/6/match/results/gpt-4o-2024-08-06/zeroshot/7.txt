@@ -1,0 +1,6 @@
+```json
+{
+   "match": "yes",
+   "analysis": "Both graphs have identical structures with the same nodes and connections. Each node has the same edges in both graphs, indicating they are isomorphic."
+}
+```

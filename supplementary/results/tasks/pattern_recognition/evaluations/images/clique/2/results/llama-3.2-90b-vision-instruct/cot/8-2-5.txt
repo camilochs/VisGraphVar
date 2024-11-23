@@ -1,0 +1,9 @@
+Analyzing the image is not possible without the image in question, however, below is an example of the expected response in JSON format:
+
+```json
+{
+   'pattern': 'chain',
+   'number_of_patterns': 3,
+   'analysis': 'The image appears to display nine interconnected nodes organized into three groups and arranged in a chain sequence. Each identified chain consists of three nodes.'
+}
+```

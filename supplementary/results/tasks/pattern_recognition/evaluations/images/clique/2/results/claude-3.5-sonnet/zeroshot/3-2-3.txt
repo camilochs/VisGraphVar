@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two triangular formations (one with nodes 3,4,5 and another with nodes 0,1,2) where each node is connected to every other node in its group. This complete interconnection of nodes in each triangle is characteristic of a clique pattern."
+}

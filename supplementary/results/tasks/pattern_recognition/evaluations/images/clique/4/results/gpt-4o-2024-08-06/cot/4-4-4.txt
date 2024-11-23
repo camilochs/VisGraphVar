@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph consists of four distinct clusters where each node is connected to every other node within the cluster, indicating fully interconnected groups. These groups are located in four areas of the graph: the top right, bottom right, center, and bottom left. Each cluster forms a 'clique' pattern with no isolated nodes inside the clusters."
+}
+```

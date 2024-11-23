@@ -1,0 +1,14 @@
+Generate two prompts for graph analysis using a Large Vision Model.
+
+1. Zero-shot prompt: Ask the model to analyze the graph image without any prior examples or hints. The goal is to answer the question: How many nodes and edges are in the image?
+
+2. Chain-of-thought prompt: Ask the model to reason step by step through the process of identifying the nodes and edges in the graph. The question remains: How many nodes and edges are in the image?
+
+Expected output format (JSON example):
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 5,
+   "analysis": "The image shows ten nodes with color red and five edges with color black."
+}
+```

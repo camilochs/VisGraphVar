@@ -1,0 +1,6 @@
+```json
+{
+  "type_graph": ["tree", "planar", "acyclic"],
+  "analysis": "The image shows a tree graph. A tree is an undirected graph in which any two vertices are connected by exactly one path. It is also acyclic because there are no cycles, planar because it can be drawn on a plane without any edges crossing, and connected since there is a path between any two vertices."
+}
+```

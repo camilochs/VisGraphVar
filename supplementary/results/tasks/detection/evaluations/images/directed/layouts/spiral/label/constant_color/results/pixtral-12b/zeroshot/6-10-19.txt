@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 10,
+   "total_edges": 20,
+   "analysis": "The graph contains 10 nodes and 20 directed edges. Each node is labeled with a unique number from 0 to 9. The edges illustrate directed connections between various nodes, forming a complex interconnected network."
+}
+```

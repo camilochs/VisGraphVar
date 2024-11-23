@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three separate triangular formations where each node is connected to every other node in its group (nodes 0-1-2, nodes 3-4-5, and nodes 6-7-8). This complete interconnection within each group is characteristic of clique patterns, where every vertex is connected to every other vertex in the subgraph."
+}

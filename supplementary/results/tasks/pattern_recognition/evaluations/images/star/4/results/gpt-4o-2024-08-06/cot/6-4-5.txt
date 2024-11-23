@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 4,
+   "analysis": "The graph consists of four distinct groups, where each group is fully interconnected without isolated nodes. These groups are cliques, as every node within each group has a direct connection to every other node in that group. The groups are: {5, 6, 7, 8, 9}, {10, 11, 12, 13, 14}, {0, 1, 2, 3, 4}, and {15, 16, 17, 18, 19}. Each group forms a fully connected subgraph."
+}
+```

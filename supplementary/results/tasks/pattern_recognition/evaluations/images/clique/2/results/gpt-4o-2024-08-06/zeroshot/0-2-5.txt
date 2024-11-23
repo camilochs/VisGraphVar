@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two disjoint fully connected subgraphs. Each subgraph has nodes where every node is connected to every other node in the same subgraph. This pattern is characteristic of a clique."
+}
+```

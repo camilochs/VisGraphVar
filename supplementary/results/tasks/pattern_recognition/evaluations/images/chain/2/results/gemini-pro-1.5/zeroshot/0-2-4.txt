@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["chain"],
+  "number_of_patterns": [2],
+  "analysis": "The graph contains two distinct sets of nodes connected in a linear sequence.  One chain consists of nodes 0, 1, 2, and 3. The other chain consists of nodes 4, 5, 6, and 7.  Each node in each chain is connected to at most two other nodes."
+}
+```

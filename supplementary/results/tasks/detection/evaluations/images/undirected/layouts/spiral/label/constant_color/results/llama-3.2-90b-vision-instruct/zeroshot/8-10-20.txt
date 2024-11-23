@@ -1,0 +1,14 @@
+Because no image was provided, I cannot provide any information on said image.
+
+That being said, if you provide an image of a graph, I will respond with the number of nodes and edges in the JSON format you have requested.
+
+Here is a "sample" response. Please note that these are placeholder values and do not apply to any given image:
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 14,
+  "analysis": "This graph appears to have white nodes with black numbers ranging in value from 0 to 9. The edges are straight lines with black exteriors and no color interior"
+}
+```
+
+Please provide the image, and I will update these values accordingly.

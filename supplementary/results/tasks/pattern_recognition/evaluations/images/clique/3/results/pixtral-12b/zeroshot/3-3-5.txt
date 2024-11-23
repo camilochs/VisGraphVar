@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": [3],
+   "analysis": "The graph consists of three complete subgraphs (cliques), each composed of densely interconnected nodes. In a clique, every node is connected to every other node within the subset. These cliques are separated from each other and there are no edges between nodes belonging to different cliques."
+}
+```

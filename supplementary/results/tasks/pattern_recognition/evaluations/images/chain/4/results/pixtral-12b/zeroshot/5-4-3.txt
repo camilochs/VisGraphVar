@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ["clique", "chain"],
+   'number_of_patterns': [2, 3],
+   'analysis': "The graph contains several distinct patterns: two 'cliquest' and three 'chains'. Each 'clique' is a cluster of nodes where every node is connected to every other node. The three 'chains' are sequences of nodes where each node is connected linearly to the next. This results in a diverse connectivity within the graph without forming any central nodes or hub - characteristic of 'star' patterns."
+}
+```

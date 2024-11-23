@@ -1,0 +1,5 @@
+{
+   "pattern": "star",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct star patterns. First star has node 0 as the center with nodes 1, 2, 3, and 4 as peripheral nodes. Second star has node 5 as the center with nodes 6, 7, 8, and 9 as peripheral nodes. In both cases, each central node connects to multiple outer nodes while the outer nodes are only connected to their respective central node - a defining characteristic of star patterns."
+}

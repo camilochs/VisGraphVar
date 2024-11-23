@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 11,
+  "analysis": "The graph consists of 10 white nodes connected by 11 black edges. One part of the graph is a straight line of connected nodes and the other is like a small dense cluster.  The two parts meet at a single node. "
+}
+```

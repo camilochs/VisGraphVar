@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ["star", "star"],
+   'number_of_patterns': 2,
+   'analysis': "The image contains two distinct star patterns. The first pattern at the top-left has a central node connected to four surrounding nodes. The second pattern at the bottom-right also depicts a central node connected to four surrounding nodes, but with different labeling. These star patterns are characterized by one central node with other nodes forming a symmetrical arrangement around it."
+}
+```

@@ -1,0 +1,5 @@
+{
+   "pattern": "chain",
+   "number_of_patterns": 3,
+   "analysis": "The graph shows three distinct chain patterns. First chain consists of nodes 0-4 connected in a linear sequence. Second chain contains nodes 5-9 also arranged linearly. The third and largest chain starts at node 14, connects through nodes 13 and 12, then branches at node 12 into two segments: one going to nodes 11-10 and another going through nodes 15-19. Each chain demonstrates a sequential connection where each node (except endpoints) connects to exactly two other nodes, forming linear paths without cycles or central hubs. The branching at node 12 doesn't change the fundamental chain nature of the pattern since each segment maintains linear connectivity."
+}

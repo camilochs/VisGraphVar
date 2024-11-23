@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 3,
+   "analysis": "Each group of connected nodes forms a clique (triangle), with each node connected to all other nodes within the group."
+}
+```

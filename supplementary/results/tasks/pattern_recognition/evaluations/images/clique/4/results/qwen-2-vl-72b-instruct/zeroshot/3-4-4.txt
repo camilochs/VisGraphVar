@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 5,
+   "analysis": "The graph contains five sets of vertices where each set forms a complete graph, meaning every vertex is connected to every other vertex within the set. This indicates the presence of cliques."
+}
+```

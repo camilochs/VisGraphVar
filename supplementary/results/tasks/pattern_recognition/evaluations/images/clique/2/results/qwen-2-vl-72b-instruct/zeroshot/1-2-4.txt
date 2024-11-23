@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two sets of fully connected nodes (cliques). Each set has four nodes, and each node is connected to every other node within the set. There are no chains or star patterns present."
+}
+```

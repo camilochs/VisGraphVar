@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three separate clique patterns. Each group consists of four nodes that are fully connected to each other, meaning every node in each group has edges connecting it to all other nodes in its group. The three cliques are located in different areas of the graph: one in the upper portion (nodes 8,9,10,11), one in the lower left (nodes 4,5,6,7), and one in the lower right (nodes 0,1,2,3)."
+}

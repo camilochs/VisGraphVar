@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "The graph is divided into two distinct clusters, each forming a clique (a fully interconnected structure without isolated nodes). Each clique contains five nodes, all of which are directly connected to every other node within their respective clusters. This is evident from the complete interconnection of nodes in each of the two cliques, with no nodes left out or connected in a linear sequence."
+}
+```

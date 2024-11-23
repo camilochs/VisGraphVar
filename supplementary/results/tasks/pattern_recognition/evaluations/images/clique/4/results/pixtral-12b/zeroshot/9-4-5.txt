@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ['clique'],
+   'number_of_patterns': [4],
+   'analysis': 'The graph features four distinct dense clusters where each node is directly connected to every other node in the cluster. This indicates the presence of four "clique" patterns. In graph theory, a clique refers to a fully connected subset of nodes.'
+}
+```

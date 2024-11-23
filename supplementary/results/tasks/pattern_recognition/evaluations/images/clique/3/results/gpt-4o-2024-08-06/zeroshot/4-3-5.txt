@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three complete subgraphs where each node is connected to every other node within the subgraph. This is characteristic of a clique pattern. There are three distinct cliques in the image: one formed by nodes 0-4, another by nodes 5-9, and a third by nodes 10-14."
+}
+```

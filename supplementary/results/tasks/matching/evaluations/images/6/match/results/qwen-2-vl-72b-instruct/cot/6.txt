@@ -1,0 +1,6 @@
+```json
+{
+   "match": "yes",
+   "analysis": "Both graphs have the same number of nodes (6) and the labels on the nodes match (0, 1, 2, 3, 4, 5). The connections between the nodes are also the same in both graphs. Therefore, the graphs match."
+}
+```

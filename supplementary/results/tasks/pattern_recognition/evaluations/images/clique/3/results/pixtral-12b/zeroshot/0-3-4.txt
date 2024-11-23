@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ["star", "star", "star"],
+   'number_of_patterns': 3,
+   'analysis': "The graph contains three patterns, each resembling the 'star' pattern. A star pattern typically involves a central node connected to multiple peripheral nodes. In this case, each star consists of a single central node connected to several other nodes, indicating a hierarchical or distributed structure."
+}
+```

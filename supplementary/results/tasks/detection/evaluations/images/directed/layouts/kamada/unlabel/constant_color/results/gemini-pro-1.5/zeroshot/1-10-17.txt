@@ -1,0 +1,7 @@
+```json
+{
+  "total_nodes": 10,
+  "total_edges": 14,
+  "analysis": "The graph consists of 10 white nodes and 14 black directed edges. One node is isolated. The remaining nodes and edges form a directed acyclic graph (DAG)."
+}
+```

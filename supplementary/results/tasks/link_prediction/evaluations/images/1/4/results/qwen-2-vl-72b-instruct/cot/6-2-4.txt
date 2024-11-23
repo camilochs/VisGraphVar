@@ -1,0 +1,10 @@
+```json
+{
+    "nodes_prediction": [2, 3],
+    "analysis": "Detailed step-by-step explanation of:
+    1. The structural patterns you identified: The graph has a few visible communities. Node 1 is well-connected to nodes 2 and 4, suggesting it might play a central role. Nodes 2 and 3 are each isolated from the other, indicating a possible structural hole.
+    2. Why these specific nodes were selected: Nodes 2 and 3 have no current edges connecting them, but they both connect to node 4, which suggests they might share similar relationships or community memberships.
+    3. How this connection fits the graph's topology: Connecting nodes 2 and 3 would bridge the structural hole between two communities, enhancing the overall connectivity and maintaining a natural flow of connections.
+    4. The expected impact of adding this edge: Adding an edge between nodes 2 and 3 would improve the connectivity of the graph by reducing the average path length and increasing the global efficiency, making it easier for information to flow between the two communities."
+}
+```

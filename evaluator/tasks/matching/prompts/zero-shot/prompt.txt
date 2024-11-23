@@ -1,0 +1,9 @@
+Examine the two given graph images and determine if they match. Matching implies identical structures, node connections, and any weights if present. Provide a response in JSON format with a 'yes' or 'no' answer and a brief explanation.
+
+Expected output format:
+```json
+{
+   "match": "yes" or "no",
+   "analysis": "Explanation of key similarities or differences observed between the graphs."
+}
+```

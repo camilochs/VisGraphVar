@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two separate triangle formations (cliques) with 3 nodes each. In the first clique, nodes 0, 1, and 2 are fully interconnected with each node connected to every other node. In the second clique, nodes 3, 4, and 5 follow the same pattern of complete interconnection. These formations are classic examples of cliques because every node is connected to every other node within its group, forming a complete subgraph. Each clique has three edges forming a triangle structure."
+}

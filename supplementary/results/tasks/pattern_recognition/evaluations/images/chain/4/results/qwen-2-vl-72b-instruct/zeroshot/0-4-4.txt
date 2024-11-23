@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["chain", "clique"],
+   "number_of_patterns": [4],
+   "analysis": "The graph contains multiple chains and one clique. Chain patterns are observed in the sequences 0-1-2-3, 4-5-6-7, 8-9-10-11, and 12-13-14-15. A clique pattern is observed in the nodes 8-9-10-11, where all nodes are directly connected to each other."
+}
+```

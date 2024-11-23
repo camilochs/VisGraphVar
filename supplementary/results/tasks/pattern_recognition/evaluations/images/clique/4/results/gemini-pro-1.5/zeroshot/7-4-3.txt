@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [4],
+  "analysis": "The graph contains four distinct cliques, each consisting of three nodes. A clique is a fully connected subgraph, meaning every node within the clique is connected to every other node in the same clique. This pattern is evident by the four separate groups of three interconnected nodes (0, 1, 2), (3, 4, 5), (6, 7, 8) and (9, 10, 11)."
+}
+```

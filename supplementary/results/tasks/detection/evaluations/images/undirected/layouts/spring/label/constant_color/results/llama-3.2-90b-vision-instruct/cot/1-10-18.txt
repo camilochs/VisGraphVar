@@ -1,0 +1,11 @@
+I'm a large language model, I don't have the capability to visually examine an image. However, based on your request, I can provide you with a template response that you can use to answer the question given the image:
+
+```json
+{
+  "total_nodes": 0,
+  "total_edges": 0,
+  "analysis": "Unable to provide an analysis without an image or a detailed description of the image."
+}
+```
+
+To provide a more accurate answer, please provide a detailed description of the image or attach the image to your request if possible.

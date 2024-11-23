@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [4],
+  "analysis": "The graph contains four distinct groups of interconnected nodes where every node within a group is connected to every other node in that same group. These groups are cliques, and there are four of them in the graph.  There are no connections between nodes in different groups, so larger patterns like chains or stars are not present."
+}
+```

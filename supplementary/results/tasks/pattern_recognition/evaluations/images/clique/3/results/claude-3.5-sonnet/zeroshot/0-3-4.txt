@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three separate clique patterns. Each component consists of 4 nodes that are highly interconnected, forming complete or near-complete subgraphs. This is characteristic of clique patterns where most or all nodes are connected to each other within their group. The three cliques are located at different positions in the graph: one in the upper left (nodes 8,9,10,11), one in the middle right (nodes 0,1,2,3), and one in the lower left (nodes 4,5,6,7)."
+}

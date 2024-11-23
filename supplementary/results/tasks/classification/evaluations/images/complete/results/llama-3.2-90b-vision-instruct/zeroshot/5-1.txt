@@ -1,0 +1,12 @@
+No image was provided, I'm unable to provide a classification.
+
+Here is an example of the format you requested:
+
+```json
+{
+   "type_graph": "[classification]",
+   "analysis": "The image shows a [classification] graph."
+}
+```
+
+Please provide the graph to analyze. I'll be happy to assist you once I have more information.

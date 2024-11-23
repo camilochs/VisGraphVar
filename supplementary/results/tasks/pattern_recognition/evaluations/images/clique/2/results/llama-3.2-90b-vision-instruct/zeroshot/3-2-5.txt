@@ -1,0 +1,9 @@
+Here is the JSON-formatted response:
+
+```
+{
+  'pattern': ['chain'],
+  'number_of_patterns': 2,
+  'analysis': 'The graph contains two chains. One chain consists of nodes 0, 3, and 4, while the other chain comprises nodes 5, 6, 7, 8, and 9. Both chains are connected in a linear sequence without any cycles or branches, which is characteristic of a chain pattern.'
+}
+```

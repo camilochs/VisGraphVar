@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains three distinct clusters, each consisting of five nodes. Within each cluster, every node is directly connected to all other nodes, forming a highly interconnected group without isolated nodes. This setup matches the structure of a 'clique,' where all nodes are fully interconnected."
+}
+```

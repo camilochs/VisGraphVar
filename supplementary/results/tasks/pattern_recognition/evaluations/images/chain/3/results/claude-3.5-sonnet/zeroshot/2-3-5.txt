@@ -1,0 +1,5 @@
+{
+   "pattern": "chain",
+   "number_of_patterns": 3,
+   "analysis": "The graph contains 3 distinct chain patterns. Each chain consists of nodes connected in a linear sequence with exactly two connections per node (except for end nodes which have one connection). The chains are: one from nodes 0-4, another from nodes 5-9, and a third from nodes 10-14. Each node is only connected to its immediate neighbors in a linear fashion, which is characteristic of chain patterns."
+}

@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "There are two complete subgraphs (cliques) in the image, each containing four nodes and all possible edges between them."
+}
+```

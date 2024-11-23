@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": 2,
+   "analysis": "The graph contains two distinct clusters. Each cluster has three nodes where each node is connected to every other node in the cluster. This structure is indicative of a clique, where all nodes are fully interconnected. The first clique consists of nodes 0, 1, and 2, and the second clique consists of nodes 3, 4, and 5."
+}
+```

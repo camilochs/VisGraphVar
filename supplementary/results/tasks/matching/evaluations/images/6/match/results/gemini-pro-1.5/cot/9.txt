@@ -1,0 +1,6 @@
+```json
+{
+  "match": "yes",
+  "analysis": "Both graphs have 6 nodes labeled 0 to 5.  Analyzing the connections:\n\nGraph 1:\n- 0 connects to 1, 2, and 3\n- 1 connects to 0\n- 2 connects to 0 and 4\n- 3 connects to 0 and 5\n- 4 connects to 2\n- 5 connects to 3\n\nGraph 2:\n- 0 connects to 1, 2, and 3\n- 1 connects to 0\n- 2 connects to 0 and 4\n- 3 connects to 0 and 5\n- 4 connects to 2\n- 5 connects to 3\n\nAll node connections are identical. Therefore, the graphs are isomorphic (they represent the same underlying structure)."
+}
+```

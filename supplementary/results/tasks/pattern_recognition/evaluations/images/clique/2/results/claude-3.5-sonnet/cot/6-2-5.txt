@@ -1,0 +1,5 @@
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph shows two distinct groups of interconnected nodes. In both groups, the nodes are highly connected to each other forming cliques. The first clique consists of nodes 5,6,7,8,9 where each node is connected to multiple other nodes in its group. The second clique consists of nodes 0,1,2,3,4 with a similar pattern of multiple interconnections between nodes. Both structures demonstrate the characteristics of cliques where nodes are densely interconnected within their respective groups rather than forming chains or star patterns. Neither group shows a central hub node (ruling out star pattern) or a linear sequence (ruling out chain pattern)."
+}

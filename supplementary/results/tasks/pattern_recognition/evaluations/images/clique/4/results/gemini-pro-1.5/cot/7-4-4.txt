@@ -1,0 +1,7 @@
+```json
+{
+  "pattern": ["clique"],
+  "number_of_patterns": [4],
+  "analysis": "The image consists of four distinct clusters of nodes. Each cluster represents a clique because all nodes within each cluster are interconnected.  No nodes are isolated within their respective clusters.\n\nCluster 1: Nodes 0, 1, 2, and 3 form a clique.\nCluster 2: Nodes 4, 5, 6, and 7 form a clique.\nCluster 3: Nodes 8, 9, 10, and 11 form a clique.\nCluster 4: Nodes 12, 13, 14, and 15 form a clique."
+}
+```

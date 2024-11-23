@@ -1,0 +1,8 @@
+```json
+{
+   "type_graph": "cyclic",
+   "analysis": "The image shows a cyclic graph."
+}
+```
+
+This graph contains at least one cycle, which is evident from the directed edges forming a loop. Therefore, it is classified as a cyclic graph.

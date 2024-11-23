@@ -1,0 +1,7 @@
+```json
+{
+   "total_nodes": 9,
+   "total_edges": 24,
+   "analysis": "The graph is a directed graph with white nodes and black edges. The nodes are connected in a complex network, with some nodes having multiple outgoing and incoming edges. The graph does not have any self-loops or isolated nodes."
+}
+```

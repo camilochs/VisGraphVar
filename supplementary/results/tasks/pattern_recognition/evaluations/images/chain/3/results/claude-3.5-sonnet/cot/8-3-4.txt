@@ -1,0 +1,5 @@
+{
+   "pattern": "chain",
+   "number_of_patterns": 3,
+   "analysis": "The graph shows three distinct chain patterns. First chain consists of nodes 0-1-2-3 in sequential order, second chain contains nodes 4-5-6-7, and third chain includes nodes 8-9-10-11. Each chain exhibits a linear sequence where nodes are connected only to their immediate neighbors, forming a path-like structure. There are no central nodes with multiple connections (which would indicate a star pattern) and no fully interconnected groups (which would indicate a clique pattern). Each node has at most two connections, which is characteristic of chain patterns."
+}

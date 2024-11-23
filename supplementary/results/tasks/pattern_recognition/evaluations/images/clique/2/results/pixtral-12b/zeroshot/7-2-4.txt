@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": ["clique"],
+   "number_of_patterns": [2],
+   "analysis": "The image contains two distinct cliques. A clique is a subgraph in which every pair of vertices is connected by an edge. The first clique consists of vertices 0, 1, 2, and 3, and the second clique consists of vertices 4, 5, 6, and 7. These groups of vertices are fully connected within each group but not between different groups."
+}
+```

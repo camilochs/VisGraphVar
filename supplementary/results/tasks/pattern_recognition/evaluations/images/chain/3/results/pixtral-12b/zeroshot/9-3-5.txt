@@ -1,0 +1,7 @@
+```json
+{
+   'pattern': ["chain", "star"],
+   'number_of_patterns': 3,
+   'analysis': 'The graph contains three distinct patterns: two chain patterns and one star pattern. The first chain starts at node 8 and continues through nodes 7, 6, 5, 13, 12, 11, and 10. The second chain starts at node 1 and continues through nodes 2 and 3, with node 4 branching off into an additional chain from node 3. The third pattern is a star centered around node 5 with edges extending to nodes 6, 7, 8, and 9, indicating node 5 as the central hub in this structure.'
+}
+```

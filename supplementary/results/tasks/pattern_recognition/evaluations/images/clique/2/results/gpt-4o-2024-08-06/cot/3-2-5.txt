@@ -1,0 +1,7 @@
+```json
+{
+   "pattern": "clique",
+   "number_of_patterns": 2,
+   "analysis": "The graph image shows two distinct groups of nodes. The first group consists of nodes labeled 0, 1, 2, 3, and 4. Every node in this group is connected to every other node, which defines a 'clique' where there are no isolated or disconnected nodes within the group. Similarly, the second group consists of nodes labeled 5, 6, 7, 8, and 9. Each node in this second group is also fully interconnected with every other node, forming another 'clique'. Therefore, there are two instances of the 'clique' pattern in the graph."
+}
+```
