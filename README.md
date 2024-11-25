@@ -5,7 +5,7 @@ Home page: [here](https://camilochs.github.io/visgraphvar-website/).
 
 ## Research Findings
 
-Our research, detailed in the paper ["VisGraphVar: A benchmark for assessing variability in visual graph using LVLMs"](), demonstrates the effectiveness of this approach. 
+Our research, detailed in the paper ["VisGraphVar: A benchmark for assessing variability in visual graph using Large Vision-Language Models"](https://arxiv.org/abs/2411.14832), demonstrates the effectiveness of this approach. 
 
 ## Installation
 
@@ -19,7 +19,6 @@ pip3 -r requirements.txt
 ## VisGraphVar Dataset
 
 To review the dataset generated with VisGraphVar in the paper you can find it in [Huggingface](https://huggingface.co/datasets/camilocs/VisGraphVar).
-
 
 ## Create a new benchmark
 
