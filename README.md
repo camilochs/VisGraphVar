@@ -56,5 +56,13 @@ All the results of the experiments presented in our paper can be found in the [s
 
 ## Cite
 ```
-
+@misc{sartori2024visgraphvarbenchmarkgeneratorassessing,
+      title={VisGraphVar: A Benchmark Generator for Assessing Variability in Graph Analysis Using Large Vision-Language Models}, 
+      author={Camilo Chacón Sartori and Christian Blum and Filippo Bistaffa},
+      year={2024},
+      eprint={2411.14832},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2411.14832}, 
+}
 ```
