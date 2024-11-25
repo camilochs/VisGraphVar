@@ -1,7 +1,0 @@
-model,directed_cot,directed_zeroshot,undirected_cot,undirected_zeroshot
-claude-3.5-sonnet,1.1,1.05,1.0,1.4
-gemini-pro-1.5,1.0,0.9,0.7,1.55
-gpt-4o-2024-08-06,2.3,4.25,1.75,3.0
-llama-3.2-90b-vision-instruct,2.38,3.3,2.42,1.4
-pixtral-12b,2.0,2.05,2.8,2.3
-qwen-2-vl-72b-instruct,7.85,4.5,5.75,5.3

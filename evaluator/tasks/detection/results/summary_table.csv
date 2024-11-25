@@ -1,8 +1,0 @@
-Characteristic,Values
-Type of Arrows,"2 (directed, undirected)"
-Layouts,"7 (layout1, layout2, ..., layout7)"
-Type of Labels,"2 (unlabel, label)"
-Type of Colors,"2 (random color, constant color)"
-Models,"6 (model1, model2, ..., model6)"
-Prompt Strategies,"2 (zeroshot, oneshot)"
-Number of Files,10 files per prompt strategy
