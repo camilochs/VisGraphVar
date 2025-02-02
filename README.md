@@ -1,11 +1,11 @@
-# VisGraphVar: A benchmark for assessing variability in visual graph using LVLMs
+# VisGraphVar: A Benchmark Generator for Assessing Variability in Graph Analysis Using Large Vision-Language Models
 This research introduces VisGraphVar, a benchmark generator that evaluates Large Vision-Language Models' (LVLMs) capabilities across seven graph-related visual tasks. Testing of six LVLMs using 990 generated graph images reveals significant performance variations based on visual attributes and imperfections, highlighting current limitations compared to human analysis. The findings emphasize the need for comprehensive testing beyond reasoning tasks and guide development of more robust visual analysis systems.
 
 Home page: [here](https://camilochs.github.io/visgraphvar-website/).
 
 ## Research Findings
 
-Our research, detailed in the paper ["VisGraphVar: A benchmark for assessing variability in visual graph using Large Vision-Language Models"](https://arxiv.org/abs/2411.14832), demonstrates the effectiveness of this approach. 
+Our research, detailed in the paper ["VisGraphVar: A Benchmark Generator for Assessing Variability in Graph Analysis Using Large Vision-Language Models"]([https://arxiv.org/abs/2411.14832](https://ieeexplore.ieee.org/document/10855899)), demonstrates the effectiveness of this approach. 
 
 ## Installation
 
