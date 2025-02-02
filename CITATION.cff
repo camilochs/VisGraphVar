@@ -10,9 +10,19 @@ type: software
 authors:
   - given-names: Camilo
     family-names: Chacón Sartori
-    email: camilochs@gmail.com
+    email: cchacon@iiia.csic.es
     affiliation: IIIA-CSIC
     orcid: 'https://orcid.org/0000-0002-8543-9893'
+  - given-names: Christian
+    family-names: Blum
+    email: christian.blum@iiia.csic.es
+    affiliation: IIIA-CSIC
+    orcid: 'https://orcid.org/0000-0002-1736-3559'
+  - given-names: Filippo
+    family-names: Bistaffa
+    email: filippo​.​bistaffa​@​gmail​.com
+    affiliation: IIIA-CSIC
+    orcid: 'https://orcid.org/0000-0003-1658-6125'
 identifiers:
   - type: doi
     value: 10.1109/ACCESS.2025.3535837
