@@ -1,0 +1,61 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: VisGraphVar
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Camilo
+    family-names: Chacón Sartori
+    email: camilochs@gmail.com
+    affiliation: IIIA-CSIC
+    orcid: 'https://orcid.org/0000-0002-8543-9893'
+identifiers:
+  - type: doi
+    value: 10.1109/ACCESS.2025.3535837
+repository-code: 'https://github.com/camilochs/visgraphvar'
+url: 'https://camilochs.github.io/visgraphvar-website/'
+abstract: >-
+  The fast advancement of Large Vision-Language Models
+  (LVLMs) has shown immense potential. These models are
+  increasingly capable of tackling abstract visual tasks.
+  Geometric structures, particularly graphs with their
+  inherent flexibility and complexity, serve as an excellent
+  benchmark for evaluating these models' predictive
+  capabilities. While human observers can readily identify
+  subtle visual details and perform accurate analyses, our
+  investigation reveals that state-of-the-art LVLMs exhibit
+  consistent limitations in specific visual graph scenarios,
+  especially when confronted with stylistic variations. In
+  response to these challenges, we introduce VisGraphVar
+  (Visual Graph Variability), a customizable benchmark
+  generator able to produce graph images for seven distinct
+  task categories (detection, classification, segmentation,
+  pattern recognition, link prediction, reasoning,
+  matching), designed to systematically evaluate the
+  strengths and limitations of individual LVLMs. We use
+  VisGraphVar to produce 990 graph images and evaluate six
+  LVLMs, employing two distinct prompting strategies, namely
+  zero-shot and chain-of-thought. The findings demonstrate
+  that variations in visual attributes of images (e.g., node
+  labeling and layout) and the deliberate inclusion of
+  visual imperfections, such as overlapping nodes,
+  significantly affect model performance. This research
+  emphasizes the importance of a comprehensive evaluation
+  across graph-related tasks, extending beyond reasoning
+  alone. VisGraphVar offers valuable insights to guide the
+  development of more reliable and robust systems capable of
+  performing advanced visual graph analysis.
+keywords:
+  - LVLM
+  - Graph analysis
+  - visualization
+  - Artificial Intelligence
+  - benchmark
+  - computer vision
+license: MIT
+version: '1.0'
+date-released: '2024-11-30'
